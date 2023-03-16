@@ -116,6 +116,25 @@ Section 2 - Playing the Game
 
 ## Structure of a Game
 
+Cadence is broken down into easy to follow stages and steps, these are as follows:
+
+**Stage 1: Setup**
+
+Stage 1 is a few simple steps to set up your battlefield ready to play.
+
+1. Determine Mission
+2. Set Up Terrain
+3. Set Up Markers
+
+**Stage 2: Battle**
+
+Stage 2 is played in a series of rounds with the following steps each round:
+
+1. Roll For Initiative
+2. Place Activation Dice
+3. Players Alternate Activations
+4. Score Victory Points
+
 ## Setup
 
 ## Battle
