@@ -25,17 +25,6 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 
 <!-- TODO: Include CONTENTS once document created -->
 
-<!--
-
-Basic Rules: This section should cover the core mechanics of the game. Depending on your game, this might include:
-
-Dice mechanics: Explain what types of dice are used in the game (e.g. D6, D10, etc.), how they are used to determine outcomes, and any modifiers that may be applied.
-Movement: Explain how models (if applicable) or units are moved around the battlefield. This might include details on measuring distances, terrain, and any special movement rules (e.g. charging).
-Shooting: Explain how ranged attacks work, including how to target units, determining line of sight, and resolving attacks. This section might also cover any special rules for weapons, such as ranged weapons with different ranges or effects.
-Close Combat: Explain how hand-to-hand combat works, including how to determine who can fight, how to resolve attacks, and any special rules for weapons or units.
-Morale: Explain how morale works in your game, including how units are affected by taking casualties or failing tests. This section might also cover rules for rallying and regrouping.
--->
-
 Section 1 - Basic Rules
 =======================
 
@@ -45,7 +34,9 @@ Cadence uses six sided dice, written as "d6", to determine the outcome of many a
 
 Action rolls often have modifiers applied to them making the roll either easier or more difficult. The modifiers may affect the roll to where it would automatically succeed or automatically fail regardless of the value rolled. A roll of a 1 always counts as a failure regardless of modifiers, however a modifier that automatically fails still counts as a failure regardless of the number rolled.
 
-You may also be asked to "roll-off" against other players. In this case both players roll a number of d6 equal to the number of players in the roll-off with the winner being the player with the highest combined result. Unless otherwise instructed, your dice rolls should be done in full view of all players with enough time for them to see the results. 
+You may also be asked to "roll-off" against other players. In this case both players roll a number of d6 equal to the number of players in the roll-off with the winner being the player with the highest combined result. In the case of a tie players should roll-off again until they have unique results.
+
+Unless otherwise instructed, your dice rolls should be done in full view of all players with enough time for them to see the results. 
 
 Six sided dice are also used in the game to mark a unit's remaining actions and hit points. In this case the dice are not rolled but instead the top face of the dice represents the value. In practice this means you will need at least 3 colours of six sided dice to avoid mixing up these uses on the tabletop.
 
