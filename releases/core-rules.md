@@ -138,6 +138,10 @@ Attack Rules, Line of Sight
 
 ### Secure
 
+## Missions and Victory Conditions
+
+Section 3 - Advanced Rules
+==========================
 <!--
 
 Advanced Rules: This section might cover additional mechanics that are not strictly necessary to play the game, but which can add depth and complexity. This might include:
