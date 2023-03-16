@@ -137,9 +137,21 @@ Stage 2 is played in a series of rounds with the following steps each round:
 
 ## Setup
 
+### Choosing A Mission
+
+Mission Parameters
+
+### Set Up Terrain
+
+### Set Up Markers
+
 ## Battle
 
 ### Rounds
+
+### Roll for Initiative
+
+### Place Activation Dice
 
 ### Activations
 
