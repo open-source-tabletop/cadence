@@ -214,7 +214,11 @@ When you spend 1 Command Point on your move action you may not move into or out 
 
 When you spend 2 Command Points on your move action you may move freely into or out of an enemy unit's Assault Range, however, if you leave an enemy unit's Assault Range your unit's activation will end after you have finished moving.
 
-Terrain
+#### Terrain
+
+When you move your models they will often find different types of terrain in their path, most of which they will have to move around as they cannot pass through it.
+
+There are several types of terrain that can affect how your models move and these are covered in the Advanced Rules section later in this book.
 
 ### Attack (1 or 2 Command Points)
 
