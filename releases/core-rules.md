@@ -165,11 +165,18 @@ This will continue until the players have used all of the Command Points on all 
 
 ## Actions
 
-### Move
+When you activate a unit you first declare a number of actions and the order you will perform them, then pay the appropriate cost from the unit's Command Points (a unit must have enough points to perform your chosen actions). You do not have to spend all of a unit's Command Points when you activate it, allowing you to activate it again later in the round, however there are some restrictions:
+
+- You must spend at least 2 Command Points per activation, unless your unit has only 1 Command Point remaining.
+- You may only spend a maximum of 4 Command Points per activation.
+- You may only perform each action once per activation.
+- If you finish your activation with 1 Command Point unspent, roll a d6, on a roll of a 1 this last Command Point is lost.
+
+### Move (1 or 2 Command Points)
 
 Movement Rules
 
-### Attack
+### Attack (1 or 2 Command Points)
 
 Attack Rules, Line of Sight
 
