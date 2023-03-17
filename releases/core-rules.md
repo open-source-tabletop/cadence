@@ -131,7 +131,7 @@ Stage 1 is a few simple steps to set up your battlefield ready to play.
 Stage 2 is played in a series of rounds with the following steps each round:
 
 1. Roll For Initiative
-2. Place Activation Dice
+2. Place Command Dice
 3. Players Alternate Activations
 4. Score Victory Points
 
@@ -151,9 +151,17 @@ Mission Parameters
 
 ### Roll for Initiative
 
-### Place Activation Dice
+### Place Command Dice
 
-### Activations
+Every unit in your army will need a Command Dice, a d6 in a different colour from those you roll or mark hit points with, placed next to it at the start of a new round. Each dice should be placed with the top face showing the unit's Command attribute, this is the unit's Command Points for this round.
+
+### Alternate Activations
+
+Once players have placed all of their Command Dice they can begin taking turns, starting with the player that won the initiative, to activate one of their units.
+
+Players choose one of their units that still has Command Points, these are then spent to perform a number of actions from the selection below. Once the player has performed all the actions it wishes to they then pass, allowing the other player to then activate one of their units.
+
+This will continue until the players have used all of the Command Points on all of their units. If one player has no units remaining to activate then play automatically returns to the other player until all players have finished.
 
 ## Actions
 
