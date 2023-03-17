@@ -44,6 +44,8 @@ Six sided dice are also used in the game to mark a unit's remaining actions and 
 
 Measuring is another key part of the game, whether checking if a unit is in range for an attack, or seeing how far they travel when moving. Cadence uses inches for all distances and you will need a ruler marked in inches to play. When you measure the distance to or from a model you always do so from the closest point on it's base. You may measure any distance at any time so long as doing so does not interfere with the actions of your opponent or unnecessarily slow down the game.
 
+It is important to remember that a model or object is "within" a certain distance if any part of it is closer than the specified distance.
+
 ## Armies
 
 In Cadence, each player has a selection of miniatures that represent their army. This can vary depending on the module you choose but will usually include a range of units, such as infantry, vehicles, or monsters, each with their own strengths and weaknesses. Every model in a player's army is considered friendly, all the models in your opponent's army are considered enemies.
@@ -91,6 +93,16 @@ Units consisting of more than one model must stay within close proximity of each
 
 It is possible for your unit to become out of formation during another units activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must immediately make a move action to restore being in formation. If it cannot be resume being in formation after it's move action the unit is destroyed and removed from the game.
 
+### Direction
+
+Every model in Cadence has a forward facing direction, typically the direction the miniature is facing but if this is not obvious you should agree with your opponent or mark a point on the model's base. By extension there is also an opposite backwards facing for the model.
+
+In addition a model divides the battlefield into two zones: it's front and rear arcs. Draw a line through the center of your model at a right angle to the forward facing, everything in front of that line is considered the front arc with everything behind that line considered the rear arc. A model or object is in the front arc if any part of it is within the front arc.
+
+## Assault Range
+
+All models have an area extending 1 inch around them called their Assault Range. A model is within assault range of an enemy (and vice versa) if they are within 1 inch of each other. If at least one model from a unit is within Assault Range with an enemy unit then the whole unit counts as being within Assault Range with that unit.
+
 ## Weapons
 
 In order to fight, your models require weapons and these will be listed in your unit profile. Weapons have their own set of attributes which are usually provided in your module or army list. These are:
@@ -125,6 +137,7 @@ Stage 1 is a few simple steps to set up your battlefield ready to play.
 1. Determine Mission
 2. Set Up Terrain
 3. Set Up Markers
+4. Put Armies into Reserve
 
 **Stage 2: Battle**
 
@@ -145,6 +158,8 @@ Mission Parameters
 
 ### Set Up Markers
 
+### Put Armies into Reserve
+
 ## Battle
 
 ### Rounds
@@ -163,6 +178,16 @@ Players choose one of their units that still has Command Points, these are then 
 
 This will continue until the players have used all of the Command Points on all of their units. If one player has no units remaining to activate then play automatically returns to the other player until all players have finished.
 
+#### Deploying From Reserve
+
+As your units do not begin on the battlefield they must be deployed from reserve. When it is your turn to activate a unit you may choose a unit already on the battlefield or one in reserve. If you choose a unit in reserve it is placed up to it's Movement attribute in inches from one of your Entry Points and then activates as normal. This does not count as having taken a Move action and can be done before declaring your actions for that unit.
+
+Some restrictions apply to deploying your models from reserve:
+
+- Unless another rule permits it, each player must deploy all of their units on the battlefield during the first turn.
+- If a unit cannot be placed within range of an entry point then it cannot be deployed. If it must be deployed but cannot be placed then it is destroyed.
+- If a round ends with a player having no units on the battlefield, even if they still have some in reserve, then that player immediately forfeits the game.
+
 ## Actions
 
 When you activate a unit you first declare a number of actions and the order you will perform them, then pay the appropriate cost from the unit's Command Points (a unit must have enough points to perform your chosen actions). You do not have to spend all of a unit's Command Points when you activate it, allowing you to activate it again later in the round, however there are some restrictions:
@@ -174,7 +199,22 @@ When you activate a unit you first declare a number of actions and the order you
 
 ### Move (1 or 2 Command Points)
 
-Movement Rules
+When you take a movement action each model in your unit can be moved up to it's Movement attribute in inches for every Command Point spent. Each model in the unit is moved according to the rules outlined below and the unit must finish this action in formation.
+
+When moving a model always measure from the same point on the base to ensure no part of the model moves more than the allowed distance. Models should always be moved in a straight line along their forward facing but may be pivoted on the spot as often as needed.
+
+There are some points to remember when moving:
+
+- A model may not move over the base of any enemy models but may move over the base of a friendly model so long as it can finish it's movement without any bases overlapping.
+- A model may not be moved out of the boundary of your battlefield.
+
+#### Moving into and out of Assault Range
+
+When you spend 1 Command Point on your move action you may not move into or out of an enemy unit's Assault Range.
+
+When you spend 2 Command Points on your move action you may move freely into or out of an enemy unit's Assault Range, however, if you leave an enemy unit's Assault Range your unit's activation will end after you have finished moving.
+
+Terrain
 
 ### Attack (1 or 2 Command Points)
 
@@ -205,3 +245,8 @@ Optional Rules: Any additional rules that players can choose to use or not, such
 
 Index: An index at the end of the rule book can help players quickly find specific rules or terms.
 -->
+
+
+### Assault
+
+This weapon does not suffer from the penalty for making an attack within Assault Range.
