@@ -11,7 +11,22 @@ Welcome to the Cadence System, a free, community owned wargaming ruleset designe
 
 ## Contents
 
-<!-- TODO: Include CONTENTS once document created -->
+- [Section 1 - Basic Rules](#section-1---basic-rules)
+- - [Dice](#dice)
+- - [Distance and Measuring](#distance-and-measuring)
+- - [Armies](#armies)
+- - [Units and Models](#units-and-models)
+- - [Weapons](#weapons)
+- - [Missions](#missions)
+- [Section 2 - Playing the Game](#section-2---playing-the-game)
+- - [Structure of a Game](#structure-of-a-game)
+- - [Setup](#setup)
+- - [Battle](#battle)
+- - [Actions](#actions)
+- [Section 3 - Advanced Rules](#section-3---advanced-rules)
+- - [Terrain](#terrain)
+- - [Universal Special Rules](#universal-special-rules)
+- - [Example Missions](#example-missions)
 
 Section 1 - Basic Rules
 =======================
@@ -248,7 +263,7 @@ There are several types of terrain that can affect how your models move and thes
 
 ### Attack (1 or 2 Command Points)
 
-When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units. When you spend 1 Command Point on this action then every model in the unit must target the same enemy unit, if you spend 2 Command Points you may choose different targets for each of your models. Before rolling any dice for the attack you need to determine if you have line of sight to your target, if they are in range, and if they are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change any of your targets.
+When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units and which weapons you will be using. A model that has more than one weapon may only use one when making an attack. When you spend 1 Command Point on this action then every model in the unit must target the same enemy unit, if you spend 2 Command Points you may choose different targets for each of your models. Before rolling any dice for the attack you need to determine if you have line of sight to your target, if they are in range, and if they are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change any of your targets.
 
 #### Line of Sight
 
@@ -323,15 +338,15 @@ This keyword applies to any area on your terrain on which models can be placed a
 
 Climbable usually refers to an area of vertical terrain that connects two different height levels or that can be climbed over. Models can move up climbable terrain at the cost of 1 inch of their allowed movement for each level ascended. Models may climb down climbable terrain at the cost of 1 inch of their allowed movement for every 2 full levels descended (so climbing down 1 level is free). Models may only climb up or down if they have sufficient movement to complete their movement on clear terrain or on an unobstructed area of the battlefield.
 
-### Impassable
+#### Keyword: Impassable
 
 Models cannot climb over or move through this piece of terrain.
 
-### Rough
+#### Keyword: Rough
 
 Terrain with the barrier keyword may be moved across at the cost of 1 inch of allowed movement, in addition to the distance travelled, however models may not finish their movement on a barrier.
 
-### Cover
+#### Keyword: Cover
 
 Units that are targeted for an attack that gain an obscured line of sight through this terrain gain a +1 to their Defence Rolls.
 
@@ -341,28 +356,82 @@ When you have terrain that has different height levels, you should assign each c
 
 If you have terrain that is different levels but not any significant change then it should be the same height level as the nearest area, allowing models to freely move across small changes.
 
-## Missions
-<!--
+## Universal Special Rules
 
-Advanced Rules: This section might cover additional mechanics that are not strictly necessary to play the game, but which can add depth and complexity. This might include:
+Special rules are a set of modifiers to how models operate within the game. The rules presented here are universal and will usually only be included in a unit profile by name. 
 
-Special Abilities: Explain any special abilities that units or models may have, such as magic spells, psychic powers, or special equipment.
-Command and Control: Explain how players control their units and issue orders, and any special rules for leadership and communication.
-Cover and Concealment: Explain how terrain affects gameplay, including rules for cover and concealment.
-Vehicles and Mounts: If your game includes vehicles or mounted units, this section should cover rules for movement, shooting, and close combat.
-
-Appendices: This section might include additional information that is useful but not strictly necessary to play the game. This might include:
-
-Glossary: A list of terms and definitions used in the game.
-FAQ: Frequently asked questions about the rules.
-Optional Rules: Any additional rules that players can choose to use or not, such as rules for weather or night fighting.
-
-Index: An index at the end of the rule book can help players quickly find specific rules or terms.
--->
+Some special rules have a value indicated in their title, such as Heavy Armour (X), where X can be different values for each unit. When a unit has this rule it will be given with a value in place of the X, substitute this value in the text of the special rule.
 
 
-### Assault
+| Unit Special Rules | Details |
+| ------------------ | ------- |
+| Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
+| Heavy Armour (X) | Reduce the piercing value of attacks made against this unit it by X to a minimum of 0. |
+| Non-Scoring | This unit cannot secure objectives. |
+| Resilient | This model may re-roll any failed defence rolls that roll a 1. |
+| Rugged | This model ignores the penalty for travelling through rough terrain. |
+| Skilled | This unit may re-roll any attack rolls that roll a 1. |
+| Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
 
-This weapon does not suffer from the penalty for making an attack within Assault Range.
+| Weapon Special Rules | Details |
+| -------------------- | ------- |
+| Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
+| Assault | This weapon does not suffer from the penalty for making an attack within Assault Range. |
+| Blast | Attacks with this weapon count an obscured line of sight as clear. |
+| Heavy | A unit may not attack with this weapon if it moved during its activation.
+| One Use | This weapon may only be used once per battle. |
+| Rapid Fire | Weapons with this rule get +1 to their attacks attribute when their target unit is within half of the weapons maximum range. |
+| Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
+| Torrent | An attack with this weapon hits on any attack roll that is not a 1 but may not be used within assault range. |
 
-Height: Vantage Point +1 to hit
+## Example Missions
+
+### Mission 1
+
+#### Entry Points
+
+Players roll off and choose opposing table edges, if using a rectangular table these should be the long table edges. Players alternate placing 1 entry point for every full 12 inches of length for their table edge - these can be placed anywhere on this table edge.
+
+#### Objectives
+
+**Primary Objective**: Place 1 'Destroy' objective in the center of the table. 
+
+**Secondary Objectives**: Along the centre line of the table, between the 2 players, place 2 'Control' objectives on either side of the Primary Objective, halfway between the edge of the table and the centre so that all 3 objectives form a line between the players.
+
+#### Victory Points
+
+The Primary Objective is worth a number of Victory Points equal to the turn number it is destroyed.
+
+Each Secondary Objective is worth 1 Victory Point at the end of each round it is secured and an additional 1 Victory Point if the Primary Objective has not been destroyed.
+
+### Mission 2
+
+#### Entry Points
+
+Players roll off and choose opposing table edges, if using a rectangular table these should be the short table edges. Players alternate placing 1 entry point for every full 12 inches of length for their table edge - these can be placed anywhere on this table edge.
+
+#### Objectives
+
+**Primary Objectives**: Each player must place 4 'Access' objective on their side of the table so that they are at least 6 inches from any table edge and any other objective. 
+
+#### Victory Points
+
+Players may only secure the objectives placed by their opponent. Each objective is worth 1 Victory Point.
+
+### Mission 3
+
+#### Entry Points
+
+Players roll off and choose opposing table edges. Players alternate placing 1 entry point for every full 12 inches of length for their table edge - these can be placed anywhere on this table edge.
+
+#### Objectives
+
+**Primary Objectives**: Place one 'Control' objective in the centre of the board. 
+
+**Secondary Objectives**: Place 4 'Recover' objectives around the primary objective half way between the center of the board and each of the 4 corners. 
+
+#### Victory Points
+
+The Primary Objective is worth 4 Victory Points at the end of round 1, 3 Victory Points at the end of round 2, and 2 Victory Points for all remaining rounds.
+
+The Secondary Objectives are each worth 2 Victory Points for being secured at the end of the game.
