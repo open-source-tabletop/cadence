@@ -1,5 +1,5 @@
-Starfighter
-===========
+Squadrons
+=========
 
 A Tabletop Space Combat Game using the Cadence System
 
@@ -10,11 +10,11 @@ This game uses the Cadence Wargame System for it's core rules with the following
 
 ## Starfighters
 
-Each model in Starfighter represents a single ship of fighter or bomber scale referred to throughout as Ships.
+Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as Ships.
 
 ## Ship Movement
 
-Ships in Starfighter are flying at high speeds meaning they need to be carefully manoeuvered. The following additional rules apply to moving your Ships.
+Ships in Squadrons are flying at high speeds meaning they need to be carefully manoeuvered. The following additional rules apply to moving your Ships.
 
 ### Compulsory Movement
 
@@ -26,7 +26,7 @@ When you move a ship it moves it's full allowed distance in a straight line dire
 
 ### Assault Range
 
-Your ships Assault Range extends 2 inches instead of 1, however there are no restrictions to moving though the assault range of any enemy models.
+Ships in Squadrons are permitted to freely move in and out of an enemy model's Assault Range and do not end their activation when leaving an enemy model's Assault Range.
 
 ### Moving over Bases
 
@@ -35,6 +35,10 @@ You may move over the bases of any friendly or enemy models during your movement
 ### Evasion
 
 When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction. This model may re-roll any failed Defence rolls from the attack that targetted it. 
+
+## Targets
+
+Ships with enemy ships in their Assault Range may choose any enemy model as their target when making an attack.
 
 ## Special Rules
 
