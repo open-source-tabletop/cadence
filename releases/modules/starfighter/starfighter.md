@@ -43,37 +43,43 @@ The following new special rules apply to units and weapons in Starfighter.
 | Unit Special Rules | Details |
 | :----------------- | :------ |
 | Agile | This ship may make a second 45 degree turn either at the beginning or end of a Movement action |
+| Boost | If this ship does not make any manoeuvres during a Move action it may add 1 inch to it's movement. |
 | Shields (x) | This ship may make a shield roll for any failed defence rolls it suffers, on a d6 roll of x or higher this counts as a successful defence roll. |
 
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
 | Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing. |
 | Forward | This weapon can only target enemy models that lie within the front arc of the model. |
-| Lock On | This weapon can only be used when this model does not make any manoeuvres this activation. |
+| Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 
 Section 2 - Units
 =================
 
-You may choose units from either the Imperial or Rebel army lists to build your army.
+You may choose units from either the Imperial or Rebel lists to build your army.
 
 ## Imperial Ships
 
-Ship               |Cmd|Mov|Skl|Def|Tgh|HP |Weapons                                |Special Rules    |Pts
-:------------------|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------------------|:----------------|:--
-Imperial Fighter   | 4 | 4 | 4 | 4 | 3 | 4 |Laser Cannon                           |Agile            |15
-Imperial Silencer  | 6 | 4 | 3 | 3 | 4 | 4 |Heavy Laser Cannon, Concussion Missiles|Shield (5)       |25
+Ship                 |Cmd|Mov|Skl|Def|Tgh|HP |Weapons                                |Special Rules     |Pts
+:--------------------|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------------------|:-----------------|:--
+Imperial Fighter     | 4 | 5 | 4 | 4 | 3 | 4 |Laser Cannon                           |Agile             |15
+Imperial Interceptor | 5 | 6 | 3 | 4 | 3 | 4 |Laser Cannon                           |Agile             |20
+Imperial Bomber      | 4 | 4 | 4 | 4 | 4 | 4 |Laser Cannon, Proton Torpedoes         |                  |20
+Imperial Silencer    | 6 | 5 | 3 | 3 | 4 | 4 |Heavy Laser Cannon, Concussion Missile |Shield (5)        |25
 
 ## Rebel Ships
 
-Ship               |Cmd|Mov|Skl|Def|Tgh|HP |Weapons                                |Special Rules    |Pts
-:------------------|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------------------|:----------------|:--
-Rebel Fighter      | 4 | 4 | 4 | 4 | 4 | 3 |Laser Cannon, Concussion Missiles      |Shield (6)       |20
-Rebel Gunship      | 5 | 3 | 4 | 3 | 4 | 4 |Laser Cannon                           |Shield (5)       |20
+Ship                 |Cmd|Mov|Skl|Def|Tgh|HP |Weapons                                |Special Rules    |Pts
+:--------------------|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------------------|:----------------|:--
+Rebel Fighter        | 4 | 4 | 4 | 4 | 4 | 3 |Laser Cannon, Concussion Missiles      |Shield (6)       |20
+Rebel Bomber         | 4 | 3 | 4 | 4 | 4 | 3 |Laser Cannon, Proton Torpedoes         |Shield (6)       |15
+Rebel Strike Fighter | 4 | 5 | 3 | 4 | 3 | 3 |Laser Cannon, Concussion Missiles      |Boost, Shield (6)|20
+Rebel Gunship        | 5 | 3 | 4 | 3 | 4 | 4 |Laser Cannon                           |Shield (6)       |20
 
 ## Weapons
 
 Weapon             |Rng|Att|Dmg|Prc|Special Rules
 :------------------|:-:|:-:|:-:|:-:|:------------
-Laser Cannon       |12 | 4 | 3 | 0 |Fixed        
-Heavy Laser Cannon |16 | 4 | 4 | 1 |Fixed
-Concussion Missiles|18 | 2 | 9 | 2 |Forward
+Laser Cannon       |12 |4/8| 2 | 0 |Fixed
+Heavy Laser Cannon |16 |4/8| 3 | 1 |Fixed
+Proton Torpedoes   |18 |0/4| 8 | 2 |Forward
+Concussion Missiles|18 |0/4| 7 | 2 |Forward
