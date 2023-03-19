@@ -362,7 +362,6 @@ Special rules are a set of modifiers to how models operate within the game. The 
 
 Some special rules have a value indicated in their title, such as Heavy Armour (X), where X can be different values for each unit. When a unit has this rule it will be given with a value in place of the X, substitute this value in the text of the special rule.
 
-
 | Unit Special Rules | Details |
 | ------------------ | ------- |
 | Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
