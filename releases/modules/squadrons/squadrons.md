@@ -59,31 +59,29 @@ The following new special rules apply to units and weapons in Starfighter.
 Section 2 - Units
 =================
 
-You may choose units from either the Imperial or Rebel lists to build your army.
+## Ship Types
 
-## Imperial Ships
+| Ship Type           | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
+| :-------------------| :-: | :-: | :-: | :-: | :-: | :-: | :----- |
+| Fighter             |  4  |  5  |  4  |  4  |  3  |  4  |        |
+| Light Bomber        |  4  |  5  |  4  |  4  |  4  |  4  |        |
+| Heavy Bomber        |  3  |  4  |  4  |  4  |  4  |  5  |        |
+| Heavy Fighter       |  5  |  5  |  4  |  3  |  4  |  5  |        |
+| Light Gunship       |  5  |  4  |  4  |  3  |  4  |  4  |        |
+| Heavy Gunship       |  5  |  4  |  4  |  3  |  5  |  5  |        |
 
-Ship                 |Cmd|Mov|Skl|Def|Tgh|HP |Weapons                                |Special Rules     |Pts
-:--------------------|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------------------|:-----------------|:--
-Imperial Fighter     | 4 | 5 | 4 | 4 | 3 | 4 |Laser Cannon                           |Agile             |15
-Imperial Interceptor | 5 | 6 | 3 | 4 | 3 | 4 |Laser Cannon                           |Agile             |20
-Imperial Bomber      | 4 | 4 | 4 | 4 | 4 | 4 |Laser Cannon, Proton Torpedoes         |                  |20
-Imperial Silencer    | 6 | 5 | 3 | 3 | 4 | 4 |Heavy Laser Cannon, Concussion Missile |Shield (5)        |25
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules        | Points |
+| :------------------------ | :-: | :-: | :-: | :-: | :------------------- | :----- |
+| Laser Cannon              | 12  | 3/6 |  3  |  0  | Fixed                |        |
+| Heavy Laser Cannon        | 12  | 3/6 |  4  |  1  | Fixed                |        |
+| Concussion Missiles       | 16  | 0/3 |  9  |  1  | Forward, Target Lock |        |
+| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Forward, Target Lock |        |
 
-## Rebel Ships
-
-Ship                 |Cmd|Mov|Skl|Def|Tgh|HP |Weapons                                |Special Rules    |Pts
-:--------------------|:-:|:-:|:-:|:-:|:-:|:-:|:--------------------------------------|:----------------|:--
-Rebel Fighter        | 4 | 4 | 4 | 4 | 4 | 3 |Laser Cannon, Concussion Missiles      |Shield (6)       |20
-Rebel Bomber         | 4 | 3 | 4 | 4 | 4 | 3 |Laser Cannon, Proton Torpedoes         |Shield (6)       |15
-Rebel Strike Fighter | 4 | 5 | 3 | 4 | 3 | 3 |Laser Cannon, Concussion Missiles      |Boost, Shield (6)|20
-Rebel Gunship        | 5 | 3 | 4 | 3 | 4 | 4 |Laser Cannon                           |Shield (6)       |20
-
-## Weapons
-
-Weapon             |Rng|Att|Dmg|Prc|Special Rules
-:------------------|:-:|:-:|:-:|:-:|:------------
-Laser Cannon       |12 |4/8| 2 | 0 |Fixed
-Heavy Laser Cannon |16 |4/8| 3 | 1 |Fixed
-Proton Torpedoes   |18 |0/4| 8 | 2 |Forward
-Concussion Missiles|18 |0/4| 7 | 2 |Forward
+| Upgrades | Details |
+| :------- | :------ |
+| Vectored Thrusters | Model gains the "Agile" special rule. |
+| Speed | Model gains the "Boost" special rule. |
+| Shielding | Model gains the "Shield (6)" special rule. |
+| Elite Pilot | Model gains +1 to it's Command attribute. |
+| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. |
+| Advanced Targeting | This model has a Skill attribute of 3+. |
