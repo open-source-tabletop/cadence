@@ -39,7 +39,9 @@ Action rolls often have modifiers applied to them making the roll either easier 
 
 You may also be asked to "roll-off" against other players. In this case both players roll a number of d6 equal to the number of players in the roll-off with the winner being the player with the highest combined result. In the case of a tie players should roll-off again until they have unique results.
 
-Unless otherwise instructed, your dice rolls should be done in full view of all players with enough time for them to see the results. 
+Unless otherwise instructed, your dice rolls should be done in full view of all players with enough time for them to see the results.
+
+Rules that allow you re-roll a dice only allow that dice to be re-rolled once, regardless of how many rules permit it to be re-rolled. If you re-roll a dice you must accept the new result even if it is worse.
 
 Six sided dice are also used in the game to mark a unit's remaining actions and hit points. In this case the dice are not rolled but instead the top face of the dice represents the value. In practice this means you will need at least 3 colours of six sided dice to avoid mixing up these uses on the tabletop.
 
