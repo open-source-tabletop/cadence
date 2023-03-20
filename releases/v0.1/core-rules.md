@@ -104,15 +104,11 @@ Every model in Cadence has a forward facing direction, typically the direction t
 
 In addition a model divides the battlefield into two zones: it's front and rear arcs. Draw a line through the center of your model at a right angle to the forward facing, everything in front of that line is considered the front arc with everything behind that line considered the rear arc. A model or object is in the front arc if any part of it is within the front arc.
 
-### Assault Range
-
-All models have an area extending 1 inch around them called their Assault Range. A model is within assault range of an enemy (and vice versa) if they are within 1 inch of each other. If at least one model from a unit is within Assault Range with an enemy unit then the whole unit counts as being within Assault Range with that unit.
-
 ## Weapons
 
 In order to fight, your models require weapons and these will be listed in your unit profile. Weapons have their own set of attributes which are usually provided in your module or army list. These are:
 
-- Range (Rng): The distance the weapon can make an attack up to.
+- Range (Rng): The distance the weapon can make an attack up to. When a range is given with 2 values this is both a minimum and a maximum distance at which it can be used.
 - Attacks (Att): The volume or intensity of the attacks from the weapon.
 - Damage (Dmg): The damage each successful hit from the weapon inflicts.
 - Piercing (Prc): The weapons ability to negate armour.
@@ -134,7 +130,7 @@ In order to win a battle, players are awarded Victory Points throughout the game
 
 Objectives are a key component of most missions, small markers that represent key points on the battlefield: such as resources to be collected, equipment to be destroyed, or zones to be controlled. An objective marker is typically a 40mm circle, though small models or other appropriate objects can be used for a more thematic experience. Objectives come in 4 types, each of which can first be secured, or controlled by a unit, and then scored, when they award points according to a mission.
 
-Objectives are secured using the "Secure" action when a unit is within 1 inch of the objective marker. If the unit has no enemy units in it's Assault Range, and no other enemy units are within 1 inch of the objective marker then the marker may be secured. The unit attempting to secure an objective must make a successful Secure Roll, rolliing a d6 and scoring 4 or higher, to secure the objective.
+Objectives are secured using the "Secure" action when a unit is within 1 inch of the objective marker. If no other enemy units are within 3 inches of the objective marker then the marker may be secured. The unit attempting to secure an objective must make a successful Secure Roll, rolliing a d6 and scoring 4 or higher, to secure the objective.
 
 Objectives can be one of the following four types:
 
@@ -251,12 +247,6 @@ There are some points to remember when moving:
 - A model may not move over the base of any enemy models but may move over the base of a friendly model so long as it can finish it's movement without any bases overlapping.
 - A model may not be moved out of the boundary of your battlefield.
 
-#### Moving into and out of Assault Range
-
-When you spend 1 Command Point on your move action you may not move into or out of an enemy unit's Assault Range.
-
-When you spend 2 Command Points on your move action you may move freely into or out of an enemy unit's Assault Range, however, if you leave an enemy unit's Assault Range your unit's activation will end after you have finished moving.
-
 #### Terrain
 
 When you move your models they will often find different types of terrain in their path, most of which they will have to move around as they cannot pass through it.
@@ -265,7 +255,7 @@ There are several types of terrain that can affect how your models move and thes
 
 ### Attack (1 or 2 Command Points)
 
-When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units and which weapons you will be using. A model that has more than one weapon may only use one when making an attack. When you spend 1 Command Point on this action then every model in the unit must target the same enemy unit, if you spend 2 Command Points you may choose different targets for each of your models. Before rolling any dice for the attack you need to determine if you have line of sight to your target, if they are in range, and if they are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change any of your targets.
+When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units and which weapons you will be using. A model that has more than one weapon may only use one when making an attack. You may choose different targets for each of your models in a unit. Before rolling any dice for the attack you need to determine if you have line of sight to your target, if they are in range, and if they are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change any of your targets.
 
 #### Line of Sight
 
@@ -276,18 +266,10 @@ You can ignore intervening models in the attacking and target units when determi
 - If you can see at least 1 model completely unobstructed in the target unit then you have a clear line of sight to that unit.
 - If you can see at least 1 model in the target unit, but every model you can see is at least partially obscured by terrain, then you have an obstructed line of sight.
 - If any of the models in the enemy unit are partially obscured by another unit, or if you cannot see any of the models in the enemy unit, then you have a blocked line of sight.
-- If you are within assault range of your target unit then an obstructed line of sight counts as a clear line of sight.
 
 #### Check Range
 
-For every model in your attacking unit you need to check that it is in range to their chosen target. Measure the distance between the model and the nearest model that is at least partially visible to your unit as determined when checking line of sight. If it is equal to or less than the weapon's range attribute the model is in range and may perform an attack.
-
-#### Valid Targets
-
-There are some situations that will restrict your choice of target enemy units when making an attack:
-
-- If you are within the assault range of one or more enemy units you may only select those units as your target.
-- If your target unit is within the assault range of another friendly unit you may not select that unit as your target unless you are also in the assault range of that unit.
+For every model in your attacking unit you need to check that it is in range to their chosen target. Measure the distance between that model and the nearest model in the target unit. If it is equal to or less than the weapon's range attribute the model is in range and may perform an attack.
 
 #### Attack Procedure
 
@@ -297,11 +279,9 @@ Once you have determined your targets and line of sights you follow the attack p
 
 To determine if each attack hits the target unit you make a number of Attack Rolls equal to the attacks attribute of the weapon being used. An Attack Roll is a d6 roll trying to equal or beat the attacking unit's Skill attribute. If you are making multiple attacks with the same weapon against the same unit you may roll the combined number of these attacks together. Each succesful roll is considered a hit.
 
-When making an Attack Roll against a unit in Assault Range, with a weapon that does not have the Assault special rule, only a roll of a 6 counts as a successful hit.
-
-When making an Attack Roll against a target at a lower height level, as explained in the section on terrain, you gain a +1 to your Attack Roll.
-
-When making an Attack Roll against a target with an obscured Line of Sight you suffer a -1 to your Attack Roll.
+- **Close Range Penalty**: Many ranged weapons are not designed for use at extremely short range, when making an attack against a target unit that is within 1 inch of your unit (not the individual model) your Attack Roll counts as having a Skill of 6. Weapons with the Assault special rule do not suffer this penalty.
+- **Height Advantage**: When making an Attack Roll against a target at a lower height level, as explained in the section on terrain, you gain a +1 to your Attack Roll.
+- **Obscured Penalty**: When making an Attack Roll against a target with an obscured Line of Sight you suffer a -1 to your Attack Roll.
 
 #### Step 3 - Roll Defence
 
@@ -323,7 +303,7 @@ An ability is a unique action that some units possess. The details of any abilit
 
 ### Secure (1 Command Point)
 
-When a unit wishes to secure an objective they take a Secure action. They must be within 1 inch of the objective marker with no enemy units in Assault Range, and no other enemy units can be within 1 inch of the objective marker. The unit attempting to secure an objective must make a successful Secure Roll, rolliing a d6 and scoring 4 or higher, to secure the objective.
+When a unit wishes to secure an objective they take a Secure action. They must be within 1 inch of the objective marker and no other enemy units can be within 3 inches of the objective marker. The unit attempting to secure an objective must make a successful Secure Roll, rolliing a d6 and scoring 4 or higher, to secure the objective.
 
 Section 3 - Advanced Rules
 ==========================
@@ -377,13 +357,13 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | Weapon Special Rules | Details |
 | -------------------- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
-| Assault | This weapon does not suffer from the penalty for making an attack within Assault Range. |
+| Assault | This weapon does not suffer from the Close Range Penalty. |
 | Blast | Attacks with this weapon count an obscured line of sight as clear. |
 | Heavy | A unit may not attack with this weapon if it moved during its activation.
 | One Use | This weapon may only be used once per battle. |
 | Rapid Fire | Weapons with this rule get +1 to their attacks attribute when their target unit is within half of the weapons maximum range. |
 | Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
-| Torrent | An attack with this weapon hits on any attack roll that is not a 1 but may not be used within assault range. |
+| Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
 
 ## Example Missions
 
