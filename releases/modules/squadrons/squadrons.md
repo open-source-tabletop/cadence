@@ -8,15 +8,13 @@ Section 1 - Rules
 
 This game uses the Cadence Wargame System for it's core rules with the following additional rules.
 
-## Starfighters
+## Ships 
 
 Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as Ships.
 
 ## Ship Movement
 
-Ships in Squadrons are flying at high speeds meaning they need to be carefully manoeuvered. The following additional rules apply to moving your Ships.
-
-### Compulsory Movement
+Ships in Squadrons are flying at high speeds meaning they need to be carefully manoeuvred.
 
 Each time you activate one of your Ships you must always perform at least 1 Command Point of Movement, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed.
 
