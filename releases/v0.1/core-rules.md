@@ -108,7 +108,7 @@ In addition a model divides the battlefield into two zones: it's front and rear 
 
 In order to fight, your models require weapons and these will be listed in your unit profile. Weapons have their own set of attributes which are usually provided in your module or army list. These are:
 
-- Range (Rng): The distance the weapon can make an attack up to. When a range is given with 2 values this is both a minimum and a maximum distance at which it can be used.
+- Range (Rng): The distance the weapon can make an attack up to.
 - Attacks (Att): The volume or intensity of the attacks from the weapon.
 - Damage (Dmg): The damage each successful hit from the weapon inflicts.
 - Piercing (Prc): The weapons ability to negate armour.
@@ -357,7 +357,7 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | Weapon Special Rules | Details |
 | -------------------- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
-| Assault | This weapon does not suffer from the Close Range Penalty. |
+| Assault | This weapon does not suffer from the Close Range Penalty when making attacks.. |
 | Blast | Attacks with this weapon count an obscured line of sight as clear. |
 | Heavy | A unit may not attack with this weapon if it moved during its activation.
 | One Use | This weapon may only be used once per battle. |
