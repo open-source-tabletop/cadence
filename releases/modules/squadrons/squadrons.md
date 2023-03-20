@@ -55,25 +55,26 @@ Section 2 - Units
 
 | Ship Type           | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
 | :-------------------| :-: | :-: | :-: | :-: | :-: | :-: | :----- |
-| Fighter             |  4  |  5  |  4  |  4  |  3  |  4  |        |
-| Light Bomber        |  4  |  5  |  4  |  4  |  4  |  4  |        |
-| Heavy Bomber        |  3  |  4  |  4  |  4  |  4  |  5  |        |
-| Heavy Fighter       |  5  |  5  |  4  |  3  |  4  |  5  |        |
-| Light Gunship       |  5  |  4  |  4  |  3  |  4  |  4  |        |
-| Heavy Gunship       |  5  |  4  |  4  |  3  |  5  |  5  |        |
+| Fighter             |  4  |  5  |  4  |  4  |  3  |  4  | 10     |
+| Light Bomber        |  4  |  4  |  4  |  4  |  4  |  4  | 10     |
+| Heavy Bomber        |  4  |  4  |  4  |  3  |  4  |  5  | 15     |
+| Heavy Fighter       |  5  |  5  |  4  |  3  |  4  |  5  | 20     |
+| Light Gunship       |  5  |  4  |  4  |  3  |  4  |  4  | 15     |
+| Heavy Gunship       |  5  |  4  |  4  |  3  |  5  |  5  | 22     |
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules        | Points |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Laser Cannon              | 12  | 3/6 |  3  |  0  | Fixed                |        |
-| Heavy Laser Cannon        | 12  | 3/6 |  4  |  1  | Fixed                |        |
-| Concussion Missiles       | 16  | 0/3 |  9  |  1  | Forward, Target Lock |        |
-| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Forward, Target Lock |        |
+| Laser Cannon              | 12  | 3/6 |  3  |  0  | Fixed                | 2      |
+| Heavy Laser Cannon        | 12  | 3/6 |  4  |  1  | Fixed                | 4      |
+| Concussion Missiles       | 16  | 0/3 |  9  |  1  | Forward, Target Lock | 6      |
+| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Forward, Target Lock | 8      |
 
-| Upgrades | Details |
-| :------- | :------ |
-| Vectored Thrusters | Model gains the "Agile" special rule. |
-| Speed | Model gains the "Boost" special rule. |
-| Shielding | Model gains the "Shield (6)" special rule. |
-| Elite Pilot | Model gains +1 to it's Command attribute. |
-| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. |
-| Advanced Targeting | This model has a Skill attribute of 3+. |
+| Upgrades | Details | Points |
+| :------- | :------ | :----- |
+| Vectored Thrusters | Model gains the "Agile" special rule. | 3 |
+| Speed | Model gains the "Boost" special rule. | 1 |
+| Shielding | Model gains the "Shield (6)" special rule. | 3 |
+| Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
+| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 1 |
+| Countermeasures | Once per game this model may gain +2 to it's Defence Rolls against an attack that targets it. | 4 |
+| Advanced Targeting | This model has a Skill attribute of 3+. | 5 |
