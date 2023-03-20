@@ -24,7 +24,7 @@ Each time you activate one of your Ships you must always spend at least 1 Comman
 
 - When spending 1 Command Point on a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
 - When you spend 2 Command Points you may either move double your Movement distance, making 1 pivot up to 45 degrees, or move your normal Movement distance and make 2 pivots up to 45 degrees.
-- Alternatively you may move your normal Movement distance and make a pivot of exactly 180 degrees.
+- Alternatively, when you spend 2 Command Points, you may move your normal Movement distance and make a pivot of exactly 180 degrees.
 
 ## Assault Range
 
