@@ -16,9 +16,11 @@ Each model in Squadrons represents a single ship of fighter or bomber scale refe
 
 Ships in Squadrons are flying at high speeds meaning they need to be carefully manoeuvred.
 
-Each time you activate one of your Ships you must always spend at least 1 Command Point on a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. Once during this movement you may pivot the ship up to 45 degrees. 
+Each time you activate one of your Ships you must always spend at least 1 Command Point on a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. 
 
-If you have spent 2 Command Points on a move action you may instead move up to your Movement attribute and then pivot exactly 180 degrees.
+- When spending 1 Command Point on a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
+- When you spend 2 Command Points you may either move double your Movement distance, making 1 pivot up to 45 degrees, or move your normal Movement distance and make 2 pivots up to 45 degrees.
+- Alternatively you may move your normal Movement distance and make a pivot of exactly 180 degrees.
 
 ## Assault Range
 
@@ -38,7 +40,7 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Unit Special Rules | Details |
 | :----------------- | :------ |
-| Agile | This ship may make a second 45 degree turn either at the beginning or end of a Movement action |
+| Agile | This ship may make an additional 45 degree turn during a 1 Command Point Move action. |
 | Boost | If this ship does not make any manoeuvres during a Move action it may add 1 inch to it's movement. |
 | Shields (x) | This ship may make a shield roll for any failed defence rolls it suffers, on a d6 roll of x or higher this counts as a successful defence roll. |
 
@@ -51,30 +53,35 @@ The following new special rules apply to units and weapons in Squadrons.
 Section 2 - Units
 =================
 
-Ships in Squadrons use one of the following profiles and may then choose 
+## Imperial Ships
 
-| Ship Type           | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
-| :-------------------| :-: | :-: | :-: | :-: | :-: | :-: | :----- |
-| Light Fighter       |  4  |  5  |  4  |  4  |  3  |  4  | 10     |
-| Heavy Fighter       |  5  |  5  |  4  |  3  |  4  |  5  | 20     |
-| Light Bomber        |  4  |  4  |  4  |  4  |  4  |  4  | 10     |
-| Heavy Bomber        |  4  |  4  |  4  |  3  |  4  |  5  | 15     |
-| Light Gunship       |  5  |  4  |  4  |  3  |  4  |  4  | 15     |
-| Heavy Gunship       |  5  |  4  |  4  |  3  |  5  |  5  | 22     |
+| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     |
+| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- |
+| Imperial Fighter     |  4  |  5  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             |
+| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile             |
+| Imperial Bomber      |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   |
+| Imperial Silencer    |  6  |  6  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) |
 
-| Weapon                    | Rng | Att | Dmg | Prc | Special Rules        | Points |
-| :------------------------ | :-: | :-: | :-: | :-: | :------------------- | :----- |
-| Laser Cannon              | 12  | 3/6 |  3  |  0  | Fixed                | 2      |
-| Heavy Laser Cannon        | 12  | 3/6 |  4  |  1  | Fixed                | 4      |
-| Concussion Missiles       | 16  | 0/3 |  9  |  1  | Forward, Target Lock | 6      |
-| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Forward, Target Lock | 8      |
+## Rebel Ships
+
+| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     |
+| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- |
+| Rebel Fighter        |  4  |  5  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles  | Shield (6)        |
+| Rebel Bomber         |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles | Shield (6)        |
+| Rebel Heavy Bomber   |  4  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)  |
+| Rebel Striker |  5  |  5  |  4  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles | Boost, Shield (6), Countermeasures |
+| Rebel Gunship        |  5  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                      | Shield (5)        |
+
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules        |
+| :------------------------ | :-: | :-: | :-: | :-: | :------------------- |
+| Laser Cannons             | 12  | 5/8 |  2  |  0  | Fixed                |
+| Twin Laser Cannons        | 12  | 6/10|  2  |  0  | Fixed                |
+| Heavy Laser Cannon        | 12  | 4/6 |  4  |  1  | Fixed                |
+| Concussion Missiles       | 16  | 0/3 |  9  |  1  | Forward, Target Lock |
+| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Forward, Target Lock |
 
 | Upgrades | Details | Points |
 | :------- | :------ | :----- |
-| Vectored Thrusters | Model gains the "Agile" special rule. | 3 |
-| Strike Fighter | Model gains the "Boost" special rule. | 1 |
-| Powerful Engines | Model gains +1 to its Movements attribute. | 4 |
-| Shielding | Model gains the "Shield (6)" special rule, this may be upgrade to "Shield (5)" for an additional 3 points. | 3 |
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
 | Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 1 |
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 4 |
