@@ -77,20 +77,20 @@ Section 2 - Units
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- | :----: |
-| Imperial Fighter     |  4  |  5  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 15     |
-| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 20     |
-| Imperial Bomber      |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 17     |
-| Imperial Silencer    |  6  |  6  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) | 40     |
+| Imperial Fighter     |  4  |  5  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 12     |
+| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 16     |
+| Imperial Bomber      |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 14     |
+| Imperial Silencer    |  6  |  6  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) | 32     |
 
 ## Rebel Ships
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :--------------------------------- | :----: |
-| Rebel Fighter        |  4  |  5  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (6)                         | 25     |
-| Rebel Bomber         |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (6)                         | 20     |
-| Rebel Heavy Bomber   |  4  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)                         | 30     |
-| Rebel Striker        |  5  |  5  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (6), Countermeasures | 28     |
-| Rebel Gunship        |  5  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (5)                         | 30     |
+| Rebel Fighter        |  4  |  5  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (6)                         | 20     |
+| Rebel Bomber         |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (6)                         | 16     |
+| Rebel Heavy Bomber   |  4  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)                         | 25     |
+| Rebel Striker        |  5  |  5  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (6), Countermeasures | 22     |
+| Rebel Gunship        |  5  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (5)                         | 28     |
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules        |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------- |
