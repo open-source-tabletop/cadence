@@ -11,3 +11,5 @@ This game uses the Cadence Wargame System for it's core rules with the following
 ## Battlefield
 
 Scraplands Showdown is best played on either a 3ft x 3ft or similar sized area.
+
+## Cars
