@@ -76,5 +76,5 @@ Section 2 - Units
 | Shielding | Model gains the "Shield (6)" special rule. | 3 |
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
 | Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 1 |
-| Countermeasures | Once per game this model may gain +2 to it's Defence Rolls against an attack that targets it. | 4 |
+| Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 4 |
 | Advanced Targeting | This model has a Skill attribute of 3+. | 5 |
