@@ -55,22 +55,22 @@ Section 2 - Units
 
 ## Imperial Ships
 
-| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     |
-| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- |
-| Imperial Fighter     |  4  |  5  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             |
-| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile             |
-| Imperial Bomber      |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   |
-| Imperial Silencer    |  6  |  6  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) |
+| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Points |
+| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- | :----: |
+| Imperial Fighter     |  4  |  5  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 15     |
+| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile             | 20     |
+| Imperial Bomber      |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 17     |
+| Imperial Silencer    |  6  |  6  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) | 40     |
 
 ## Rebel Ships
 
-| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     |
-| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- |
-| Rebel Fighter        |  4  |  5  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles  | Shield (6)        |
-| Rebel Bomber         |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles | Shield (6)        |
-| Rebel Heavy Bomber   |  4  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)  |
-| Rebel Striker |  5  |  5  |  4  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles | Boost, Shield (6), Countermeasures |
-| Rebel Gunship        |  5  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                      | Shield (5)        |
+| Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      | Points |
+| :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :--------------------------------- | :----: |
+| Rebel Fighter        |  4  |  5  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (6)                         | 25     |
+| Rebel Bomber         |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (6)                         | 20     |
+| Rebel Heavy Bomber   |  4  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)                         | 30     |
+| Rebel Striker        |  5  |  5  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (6), Countermeasures | 28     |
+| Rebel Gunship        |  5  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (5)                         | 30     |
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules        |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------- |
@@ -83,6 +83,6 @@ Section 2 - Units
 | Upgrades | Details | Points |
 | :------- | :------ | :----- |
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
-| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 1 |
+| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 4 |
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 4 |
-| Advanced Targeting | This model has a Skill attribute of 3+. | 5 |
+| Advanced Targeting | This model has a Skill attribute of 3+. | 7 |
