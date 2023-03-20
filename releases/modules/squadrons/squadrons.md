@@ -10,7 +10,7 @@ This game uses the Cadence Wargame System for it's core rules with the following
 
 ## Battlefield
 
-Squadrons is best played on a 3ft x 3ft or similar sized area.
+Squadrons is best played on either a 3ft x 3ft or similar sized area.
 
 ## Ships 
 
