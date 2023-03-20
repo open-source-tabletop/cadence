@@ -51,7 +51,7 @@ The following new special rules apply to units and weapons in Squadrons.
 Section 2 - Units
 =================
 
-## Ship Types
+Ships in Squadrons use one of the following profiles and may then choose 
 
 | Ship Type           | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
 | :-------------------| :-: | :-: | :-: | :-: | :-: | :-: | :----- |
@@ -72,8 +72,9 @@ Section 2 - Units
 | Upgrades | Details | Points |
 | :------- | :------ | :----- |
 | Vectored Thrusters | Model gains the "Agile" special rule. | 3 |
-| Speed | Model gains the "Boost" special rule. | 1 |
-| Shielding | Model gains the "Shield (6)" special rule. | 3 |
+| Strike Fighter | Model gains the "Boost" special rule. | 1 |
+| Powerful Engines | Model gains +1 to its Movements attribute. | 4 |
+| Shielding | Model gains the "Shield (6)" special rule, this may be upgrade to "Shield (5)" for an additional 3 points. | 3 |
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
 | Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 1 |
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 4 |
