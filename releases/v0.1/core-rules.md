@@ -357,7 +357,7 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | Weapon Special Rules | Details |
 | -------------------- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
-| Assault | This weapon does not suffer from the Close Range Penalty when making attacks.. |
+| Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
 | Blast | Attacks with this weapon count an obscured line of sight as clear. |
 | Heavy | A unit may not attack with this weapon if it moved during its activation.
 | One Use | This weapon may only be used once per battle. |
