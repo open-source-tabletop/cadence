@@ -1,12 +1,16 @@
 Squadrons
 =========
 
-A Tabletop Space Combat Game using the Cadence System
+Squadrons is a tabletop space combat Game using the Cadence System featuring fighter scale ships.
 
 Section 1 - Rules
 =================
 
 This game uses the Cadence Wargame System for it's core rules with the following additional rules.
+
+## Battlefield
+
+Squadrons is best played on a 3ft x 3ft or similar sized area.
 
 ## Ships 
 
