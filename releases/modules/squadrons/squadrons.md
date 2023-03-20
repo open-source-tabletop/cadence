@@ -36,7 +36,7 @@ When this model is targeted for an attack it may try to evade the attack if it s
 
 ## Line of Sight
 
-Line of sight should be worked out for ships using only their bases.
+Line of sight should be worked out for ships using only their bases, when looking through a model for line of sight the line is drawn from the base not "through the eyes" of the model.
 
 ## Special Rules
 
