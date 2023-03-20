@@ -38,6 +38,18 @@ When this model is targeted for an attack it may try to evade the attack if it s
 
 Line of sight should be worked out for ships using only their bases, when looking through a model for line of sight the line is drawn from the base not "through the eyes" of the model.
 
+## Terrain
+
+There are two types of terrain available in Squadrons: Obscuring and Dangerous. Models may move freely across this terrain with the following additional rules.
+
+### Obscuring
+
+Models cannot make attacks that pass through Obscuring terrain.
+
+### Dangerous
+
+Models that spend any part of their activation within Dangerous terrain must roll 3 d6, for each roll of a 6 the model takes 3 damage and must make a Defence roll as though it was the target of an attack.
+
 ## Special Rules
 
 The following new special rules apply to units and weapons in Squadrons.
