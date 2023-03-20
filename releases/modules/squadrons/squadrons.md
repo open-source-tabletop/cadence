@@ -55,7 +55,7 @@ Ships in Squadrons use one of the following profiles and may then choose
 
 | Ship Type           | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
 | :-------------------| :-: | :-: | :-: | :-: | :-: | :-: | :----- |
-| Fighter             |  4  |  5  |  4  |  4  |  3  |  4  | 10     |
+| Light Fighter       |  4  |  5  |  4  |  4  |  3  |  4  | 10     |
 | Heavy Fighter       |  5  |  5  |  4  |  3  |  4  |  5  | 20     |
 | Light Bomber        |  4  |  4  |  4  |  4  |  4  |  4  | 10     |
 | Heavy Bomber        |  4  |  4  |  4  |  3  |  4  |  5  | 15     |
