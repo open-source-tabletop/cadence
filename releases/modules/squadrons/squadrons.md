@@ -24,11 +24,11 @@ If you have spent 2 Command Points on a move action you may instead move up to y
 
 Ships in Squadrons are permitted to freely move in and out of an enemy model's Assault Range and do not end their activation when leaving an enemy model's Assault Range. Ships with enemy ships in their Assault Range may choose any enemy model as their target when making an attack.
 
-### Moving over Bases
+## Moving over Bases
 
 You may move over the bases of any friendly or enemy models during your movement so long as you have sufficient movement to complete the move without the bases overlapping. If you do not have sufficient movement your model stops before passing over the enemy base and your activation ends.
 
-### Evasion
+## Evasion
 
 When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction. This model may re-roll any failed Defence rolls from the attack that targetted it. 
 
@@ -56,9 +56,9 @@ Ships in Squadrons use one of the following profiles and may then choose
 | Ship Type           | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
 | :-------------------| :-: | :-: | :-: | :-: | :-: | :-: | :----- |
 | Fighter             |  4  |  5  |  4  |  4  |  3  |  4  | 10     |
+| Heavy Fighter       |  5  |  5  |  4  |  3  |  4  |  5  | 20     |
 | Light Bomber        |  4  |  4  |  4  |  4  |  4  |  4  | 10     |
 | Heavy Bomber        |  4  |  4  |  4  |  3  |  4  |  5  | 15     |
-| Heavy Fighter       |  5  |  5  |  4  |  3  |  4  |  5  | 20     |
 | Light Gunship       |  5  |  4  |  4  |  3  |  4  |  4  | 15     |
 | Heavy Gunship       |  5  |  4  |  4  |  3  |  5  |  5  | 22     |
 
