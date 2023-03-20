@@ -58,7 +58,7 @@ Section 2 - Units
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- | :----: |
 | Imperial Fighter     |  4  |  5  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 15     |
-| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile             | 20     |
+| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 20     |
 | Imperial Bomber      |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 17     |
 | Imperial Silencer    |  6  |  6  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) | 40     |
 
