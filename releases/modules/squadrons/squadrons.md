@@ -16,15 +16,13 @@ Each model in Squadrons represents a single ship of fighter or bomber scale refe
 
 Ships in Squadrons are flying at high speeds meaning they need to be carefully manoeuvred.
 
-Each time you activate one of your Ships you must always perform at least 1 Command Point of Movement, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed.
+Each time you activate one of your Ships you must always spend at least 1 Command Point on a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. Once during this movement you may pivot the ship up to 45 degrees. 
 
-### Manoeuvres
+If you have spent 2 Command Points on a move action you may instead move up to your Movement attribute and then pivot exactly 180 degrees.
 
-When you move a ship it moves it's full allowed distance in a straight line directly forward. At either the start or end of each movement you may pivot the ship up to 45 degrees. If you have spent 2 Command Points on a move action you may instead move up to your Movement attribute and then pivot 180 degrees.
+## Assault Range
 
-### Assault Range
-
-Ships in Squadrons are permitted to freely move in and out of an enemy model's Assault Range and do not end their activation when leaving an enemy model's Assault Range.
+Ships in Squadrons are permitted to freely move in and out of an enemy model's Assault Range and do not end their activation when leaving an enemy model's Assault Range. Ships with enemy ships in their Assault Range may choose any enemy model as their target when making an attack.
 
 ### Moving over Bases
 
@@ -34,13 +32,9 @@ You may move over the bases of any friendly or enemy models during your movement
 
 When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction. This model may re-roll any failed Defence rolls from the attack that targetted it. 
 
-## Targets
-
-Ships with enemy ships in their Assault Range may choose any enemy model as their target when making an attack.
-
 ## Special Rules
 
-The following new special rules apply to units and weapons in Starfighter.
+The following new special rules apply to units and weapons in Squadrons.
 
 | Unit Special Rules | Details |
 | :----------------- | :------ |
