@@ -105,4 +105,4 @@ Section 2 - Units
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
 | Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 4 |
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 4 |
-| Advanced Targeting | This model has a Skill attribute of 3+. | 7 |
+| Advanced Targeting | This model gets a +1 to attack rolls for Fixed weapons. | 7 |
