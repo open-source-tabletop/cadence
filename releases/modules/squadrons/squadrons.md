@@ -70,39 +70,45 @@ The following new special rules apply to units and weapons in Squadrons.
 | Forward | This weapon can only target enemy models that lie within the front arc of the model. |
 | Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 
-Section 2 - Units
-=================
+Section 2 - Army Lists
+======================
+
+## Building an Army
+
+Players should select units from either the Imperial Ships or Rebel Ships lists. Players may also add upgrades to their ships from the list, no more than half of your ships may be given upgrades and each ship may only have one upgrade.
+
+Games are best played at 100, 150, and 200 point limits depending on the size of game you wish to play.
 
 ## Imperial Ships
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- | :----: |
-| Imperial Fighter     |  4  |  5  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 12     |
-| Imperial Interceptor |  5  |  5  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 16     |
-| Imperial Bomber      |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 14     |
-| Imperial Silencer    |  6  |  6  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) | 32     |
+| Imperial Fighter     |  4  |  6  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 12     |
+| Imperial Interceptor |  5  |  6  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 16     |
+| Imperial Bomber      |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 14     |
+| Imperial Silencer    |  6  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) | 32     |
 
 ## Rebel Ships
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :--------------------------------- | :----: |
-| Rebel Fighter        |  4  |  5  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (6)                         | 20     |
-| Rebel Bomber         |  4  |  4  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (6)                         | 16     |
-| Rebel Heavy Bomber   |  4  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)                         | 25     |
-| Rebel Striker        |  5  |  5  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (6), Countermeasures | 22     |
-| Rebel Gunship        |  5  |  4  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (5)                         | 28     |
+| Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (6)                         | 20     |
+| Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (6)                         | 16     |
+| Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)                         | 25     |
+| Rebel Striker        |  5  |  6  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (6), Countermeasures | 22     |
+| Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (5)                         | 28     |
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules        |
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------- |
 | Laser Cannons             | 12  | 5/8 |  2  |  0  | Fixed                |
 | Twin Laser Cannons        | 12  | 6/10|  2  |  0  | Fixed                |
-| Heavy Laser Cannon        | 12  | 4/6 |  4  |  1  | Fixed                |
+| Heavy Laser Cannon        | 16  | 4/6 |  4  |  1  | Fixed                |
 | Concussion Missiles       | 16  | 0/3 |  9  |  1  | Forward, Target Lock |
 | Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Forward, Target Lock |
 
 | Upgrades | Details | Points |
 | :------- | :------ | :----- |
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
-| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 4 |
-| Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 4 |
+| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 2 |
+| Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 3 |
 | Advanced Targeting | This model gets a +1 to attack rolls for Fixed weapons. | 7 |
