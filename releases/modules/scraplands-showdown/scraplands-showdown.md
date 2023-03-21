@@ -28,6 +28,8 @@ When moving one of your cars they must always move directly forward up to their 
 - When spending 1 Command Point you may instead move 2 inches directly backwards, you may make one pivot of up to 45 degrees during the move.
 - When spending 2 Command Points you may only pivot up to 45 degrees once during the move.
 
-## Car Assault Range
+## Passing and Blocking 
 
-Cars do not suff
+Cars are permitted to move over the base of any friendly or enemy model so long as they have sufficient movement to do so.
+
+If moving over an enemy vehicle that player may attempt to block the car from passing. Both players roll-off and add their model's Skill to the roll. If the player trying to move over the enemy model is successful they finish moving their model as normal. If the player being passed wins the moving model stops it's movement before moving over the enemy car and it's activation ends.
