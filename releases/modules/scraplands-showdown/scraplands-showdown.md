@@ -46,3 +46,8 @@ If moving over an enemy vehicle that player may attempt to block the car from pa
 
 Section 2 - Units
 =================
+
+| Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Points|
+| :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---- |
+| Cruiser       |  5  |  7  |  5  |  3  |  3  | 15  |
+| Racer         I 
