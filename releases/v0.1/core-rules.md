@@ -255,7 +255,11 @@ There are several types of terrain that can affect how your models move and thes
 
 ### Attack (1 or 2 Command Points)
 
-When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units and which weapons you will be using. A model that has more than one weapon may only use one when making an attack. You may choose different targets for each of your models in a unit. Before rolling any dice for the attack you need to determine if you have line of sight to your target, if they are in range, and if they are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change any of your targets.
+When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units and which weapons you will be using. A model that has more than one weapon may only use one when making an attack. You may choose different targets for each of your models in a unit.
+
+If you have any enemy units within 1 inch of your unit you must choose one of those as your target.
+
+Before rolling any dice for the attack you need to determine if you have line of sight to your target, if they are in range, and if they are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change any of your targets.
 
 #### Line of Sight
 
