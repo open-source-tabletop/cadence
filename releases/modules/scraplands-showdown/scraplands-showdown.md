@@ -47,7 +47,9 @@ If moving over an enemy vehicle that player may attempt to block the car from pa
 Section 2 - Units
 =================
 
-| Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Points|
-| :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :---- |
-| Cruiser       |  5  |  7  |  5  |  3  |  3  | 15  |
-| Racer         
+| Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
+| :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :----- |
+| Cruiser       |  5  |  7  |  5  |  4  |  4  |  5  |        |
+| Racer         |  5  |  7  |  5  |  4  |  4  |  4  |        |
+| Off-roader    |  5  |  7  |  5  |  4  |  3  |  5  |        |
+| Wrecker       |  5  |  6  |  5  |  3  |  4  |  5  |        |
