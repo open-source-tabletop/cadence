@@ -43,3 +43,6 @@ If moving over an enemy vehicle that player may attempt to block the car from pa
 | Front/Side/Rear | This weapon may only target enemy cars in the named arc. |
 | Ram | This weapon has +1 to it's Attacks attribute for every Command Point spent on a Move action prior to that attack. |
 | Makeshift | On an attack roll of a 1 this weapon counts as having hit the attacking model instead. |
+
+Section 2 - Units
+=================
