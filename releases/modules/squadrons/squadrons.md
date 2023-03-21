@@ -34,6 +34,10 @@ You may move over the bases of any friendly or enemy models during your movement
 
 When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction. This model may re-roll any failed Defence rolls from the attack that targetted it. 
 
+## Attack Targets
+
+Ships may choose any ship as a target, even when they have enemy ships within 1 inch.
+
 ## Line of Sight
 
 Line of sight should be worked out for ships using only their bases, when looking through a model for line of sight the line is drawn from the base not "through the eyes" of the model.
