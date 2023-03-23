@@ -22,9 +22,9 @@ Ships in Squadrons are flying at high speeds meaning they need to be carefully m
 
 Each time you activate one of your Ships you must always spend at least 1 Command Point on a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. 
 
-- When spending 1 Command Point on a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
-- When you spend 2 Command Points you may either move double your Movement distance, making 1 pivot up to 45 degrees, or move your normal Movement distance and make 2 pivots up to 45 degrees.
-- Alternatively, when you spend 2 Command Points, you may move your normal Movement distance and make a pivot of exactly 180 degrees.
+- **Normal Move**: When spending 1 Command Point on a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
+- **Full Move**: When you spend 2 Command Points you may either move double your Movement distance, making 1 pivot up to 45 degrees, or move your normal Movement distance and make 2 pivots up to 45 degrees.
+- **Turn Around**: Alternatively, when you spend 2 Command Points, you may move your normal Movement distance and make a pivot of exactly 180 degrees.
 
 ## Moving over Bases
 
@@ -40,7 +40,11 @@ Ships may choose any ship as a target, even when they have enemy ships within 1 
 
 ## Line of Sight
 
-Line of sight should be worked out for ships using only their bases, when looking through a model for line of sight the line is drawn from the base not "through the eyes" of the model.
+Line of sight should be worked out for ships using only their bases, when looking through a model for line of sight the line is drawn from the base:
+
+- If no line can be drawn between the attacking and targeted model's bases that intersects with obscuring terrain or another ship then the line of sight is clear.
+- If lines can be drawn that do intersect but some clear lines can be drawn the line of sight is obscured.
+- If no unobstructed lines can be drawn the line of sight is blocked.
 
 ## Terrain
 
@@ -60,9 +64,9 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Unit Special Rules | Details |
 | :----------------- | :------ |
-| Agile | This ship may make an additional 45 degree turn during a 1 Command Point Move action. |
+| Agile | This ship may make an additional 45 degree turn during a Normal Move or a Full Move. |
 | Boost | If this ship does not make any manoeuvres during a Move action it may add 1 inch to it's movement. |
-| Shields (x) | This ship may make a shield roll for any failed defence rolls it suffers, on a d6 roll of x or higher this counts as a successful defence roll. |
+| Shields (x) | While this ship has 2 or more hit points it may make a shield roll for any failed defence rolls it suffers, on a d6 roll of x or higher this counts as a successful defence roll. |
 
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
