@@ -44,7 +44,7 @@ Line of sight should be worked out for ships using only their bases, when lookin
 
 - If no line can be drawn between the attacking and targeted model's bases that intersects with obscuring terrain or another ship then the line of sight is clear.
 - If lines can be drawn that do intersect but some clear lines can be drawn the line of sight is obscured.
-- If no unobstructed lines can be drawn the line of sight is blocked.
+- If no unobstructed lines can be drawn then the line of sight is blocked.
 
 ## Terrain
 
@@ -58,6 +58,22 @@ Models cannot make attacks that pass through Obscuring terrain.
 
 Models that spend any part of their activation within Dangerous terrain must roll 3 d6, for each roll of a 6 the model takes 3 damage and must make a Defence roll as though it was the target of an attack.
 
+## Objectives
+
+Squadrons has three types of objectives: scan, recover, and destroy.
+
+### Scan
+
+Scan objectives require a ship to make a close pass of the object to secure them. A ship must move over the base of a Scan objective during it's activation before taking a secure action for the objective marker. A Scan objective is secured after the end of the round it is secured in.
+
+### Recover
+
+A Recover objective is secured in the same way as a Scan objective, except that the ship must have only spent a single command point on it's movement. A recover objective is scored at the end of the game.
+
+### Destroy
+
+A Destroy objective is treated much the same as an enemy ship, with Defence, Toughness and Hit Point attributes. Unless otherwise specified these are all 3. A Destroy objective belongs to one player and is scored for the opposite player when it is destroyed, regardless of which model destroys it.
+ 
 ## Special Rules
 
 The following new special rules apply to units and weapons in Squadrons.
@@ -66,6 +82,7 @@ The following new special rules apply to units and weapons in Squadrons.
 | :----------------- | :------ |
 | Agile | This ship may make an additional 45 degree turn during a Normal Move or a Full Move. |
 | Boost | If this ship does not make any manoeuvres during a Move action it may add 1 inch to it's movement. |
+| Hyperdrive | When being deployed from reserve this model may be placed an extra 3 inches from the entry point, however it may only take a 2 command point move action on it's first activation and may not make any turns during it's move. |
 | Shields (x) | While this ship has 2 or more hit points it may make a shield roll for any failed defence rolls it suffers, on a d6 roll of x or higher this counts as a successful defence roll. |
 
 | Weapon Special Rules | Details |
