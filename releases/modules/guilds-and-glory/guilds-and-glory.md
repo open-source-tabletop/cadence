@@ -12,11 +12,6 @@ Section 1 - Rules
 
 ## Heroes and Minions
 
-Section 2 - Heroes
-==================
+Section 2 - Adventures
+======================
 
-Section 3 - Minions
-===================
-
-Section 4 - Dungeons
-====================
