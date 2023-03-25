@@ -41,6 +41,11 @@ All vehicles count as having the following weapons:
 
 ## Special Rules
 
+| Unit Special Rules | Details |
+| :----------------- | :------ |
+| Fast | If this model makes no pivots it may add 1 inch to it's movement distance per Command Point spent. |
+| Rugged | 
+
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
 | Front/Side/Rear | This weapon may only target enemy cars in the named arc. |
@@ -53,6 +58,6 @@ Section 2 - Units
 | Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
 | :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :----- |
 | Cruiser       |  5  |  7  |  5  |  4  |  4  |  5  |        |
-| Racer         |  5  |  7  |  5  |  4  |  4  |  4  |        |
+| Racer         |  5  |  7  |  5  |  4  |  4  |  4  | Fast   |
 | Off-roader    |  5  |  7  |  5  |  4  |  3  |  5  |        |
 | Wrecker       |  5  |  6  |  5  |  3  |  4  |  5  |        |
