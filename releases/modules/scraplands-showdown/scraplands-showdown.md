@@ -34,18 +34,18 @@ If moving over an enemy vehicle that player may attempt to block the car from pa
 
 All vehicles count as having the following weapons:
 
-| Weapon    | Rng | Att | Dmg | Prc | Special Rules |
-| :-------- | :-: | :-: | :-: | :-: | :------------ |
-| Ram       |  1  |  2  |  2  |  0  | Front
-| Sideswipe |  1  |  2  |  2  |  0  | Side           
+| Weapon    | Rng | Att | Dmg | Prc | Special Rules        |
+| :-------- | :-: | :-: | :-: | :-: | :------------------- |
+| Ram       |  1  |  2  |  2  |  0  | Front, Impact, Smash |
+| Sideswipe |  1  |  2  |  2  |  0  | Side, Smash          |          
 
 ## Special Rules
 
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
 | Front/Side/Rear | This weapon may only target enemy cars in the named arc. |
-| Ram | This weapon has +1 to it's Attacks attribute for every Command Point spent on a Move action prior to that attack. |
-|  | On an attack roll of a 1 this weapon counts as having hit the attacking model instead. |
+| Impact | This weapon has +1 to it's Attacks attribute for every Command Point spent on a Move action prior to that attack. |
+| Smash | On an attack roll of a 1 this weapon counts as having hit the attacking model instead. |
 
 Section 2 - Units
 =================
