@@ -30,6 +30,8 @@ Cars are permitted to move over the base of any friendly or enemy model so long 
 
 If moving over an enemy vehicle that player may attempt to block the car from passing. Both players roll-off, if the player trying to move over the enemy model wins they finish moving their model as normal. If the player being passed wins the moving model stops it's movement before moving over the enemy car and it's activation ends. In the event of a tie the passing vehicle wins.
 
+##
+
 ## Collisions 
 
 All vehicles count as having the following weapons:
@@ -37,7 +39,7 @@ All vehicles count as having the following weapons:
 | Weapon    | Rng | Att | Dmg | Prc | Special Rules        |
 | :-------- | :-: | :-: | :-: | :-: | :------------------- |
 | Ram       |  1  |  2  |  2  |  0  | Front, Impact, Smash |
-| Sideswipe |  1  |  2  |  2  |  0  | Side, Smash          |          
+| Sideswipe |  1  |  2  |  2  |  0  | Side, Smash          |
 
 ## Special Rules
 
