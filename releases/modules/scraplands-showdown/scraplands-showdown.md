@@ -36,11 +36,11 @@ If moving over an enemy vehicle that player may attempt to block the car from pa
 
 ### Impassable
 
-If a car would move into impassable terrain it stops moving immediately and it's activation ends. If the player spent 2 Command Points then the player rolls 3d6, for each roll of a 6 they take 4 damage and muat make Defence Rolls as normal.
+If a car would move into impassable terrain it stops moving immediately and it's activation ends. If the player spent 2 Command Points then the player rolls 3d6, for each roll of a 6 they take 4 damage and must make Defence Rolls as normal.
 
 ### Wreckage
 
-
+Wreckage is smaller terrain that cars may move through at an additional cost of 1 inch of their movement. They must also roll 3d6, for each roll of a 6 they take 3 damage and must make Defencce Rolls as normal.
 
 ## Ramming
 
@@ -56,7 +56,7 @@ All vehicles count as having the following weapons:
 | Unit Special Rules | Details |
 | :----------------- | :------ |
 | Fast | If this model makes no pivots it may add 1 inch to it's movement distance per Command Point spent. |
-| Rugged | 
+| Rugged | This model only rolls 2d6 for colliding with impassable or wreckage terrain. |
 
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
