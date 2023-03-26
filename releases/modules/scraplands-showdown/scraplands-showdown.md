@@ -22,7 +22,9 @@ Instead of just a front and rear arc a car also has a left and right side arc. T
 
 ## Car Movement
 
-When moving one of your cars they must always move directly forward up to their allowed movement distance. Vehicles may not pivot freely during their movement, instead they may make pivot up to 45 degrees at the cost of 2 inches of their remaining movement. 
+When moving one of your cars they must always move directly forward up to their allowed movement distance. Vehicles may not pivot freely during their movement, instead they may make pivot up to 45 degrees at the cost of 2 inches of their remaining movement.
+
+instead of moving normally you may spend a single Command Point on a move action to move directly backwards up to 3 inches.
 
 ## Passing and Blocking 
 
@@ -30,9 +32,13 @@ Cars are permitted to move over the base of any friendly or enemy model so long 
 
 If moving over an enemy vehicle that player may attempt to block the car from passing. Both players roll-off, if the player trying to move over the enemy model wins they finish moving their model as normal. If the player being passed wins the moving model stops it's movement before moving over the enemy car and it's activation ends. In the event of a tie the passing vehicle wins.
 
-##
+## Terrain
 
-## Collisions 
+### Impassable
+
+If a car would move into impassable terrain it stops moving immediately and it's activation ends. If the player spent 2 Command Points then the player rolls 3d6, for each roll of a 6 they take 4 damage and muat make Defence Rolls as normal.
+
+## Ramming
 
 All vehicles count as having the following weapons:
 
