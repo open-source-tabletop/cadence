@@ -64,10 +64,10 @@ All vehicles count as having the following weapons:
 | Impact | This weapon has +1 to it's Attacks attribute for every Command Point spent on a Move action prior to that attack. |
 | Smash | On an attack roll of a 1 this weapon counts as having hit the attacking model instead. |
 
-Section 2 - Units
-=================
+Section 2 - Creating Your Crew
+==============================
 
-
+Each crew consists of a number of vehicles which can be upgraded with weapons, armour, and driver skills. Games are best played at 100, 150, and 200 points. 
 
 | Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules | Points |
 | :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :------------ | :----: |
