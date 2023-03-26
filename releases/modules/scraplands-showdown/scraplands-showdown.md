@@ -67,6 +67,8 @@ All vehicles count as having the following weapons:
 Section 2 - Units
 =================
 
+
+
 | Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules | Points |
 | :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :------------ | :----: |
 | Cruiser       |  5  |  6  |  5  |  4  |  4  |  5  |               | 
