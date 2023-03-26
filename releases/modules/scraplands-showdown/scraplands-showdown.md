@@ -67,9 +67,9 @@ All vehicles count as having the following weapons:
 Section 2 - Units
 =================
 
-| Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Points |
-| :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :----- |
-| Cruiser       |  5  |  7  |  5  |  4  |  4  |  5  |        |
-| Racer         |  5  |  7  |  5  |  4  |  4  |  4  | Fast   |
-| Off-roader    |  5  |  7  |  5  |  4  |  3  |  5  |        |
-| Wrecker       |  5  |  6  |  5  |  3  |  4  |  5  |        |
+| Car Type      | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules | Points |
+| :------------ | :-: | :-: | :-: | :-: | :-: | :-: | :------------ | :----: |
+| Cruiser       |  5  |  6  |  5  |  4  |  4  |  5  |               | 
+| Racer         |  5  |  7  |  5  |  4  |  4  |  4  | Fast          |
+| Buggy         |  5  |  6  |  5  |  5  |  3  |  4  | Rugged        |
+| Wrecker       |  5  |  5  |  5  |  3  |  4  |  5  | Rugged        |
