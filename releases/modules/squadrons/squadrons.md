@@ -48,6 +48,8 @@ Line of sight should be worked out for ships using only their bases, when lookin
 
 ## Terrain
 
+Terrain plays a limited roll in Squadrons and is not needed for every game, however it can add some interest to have some small items such as asteroids, debris, or other such items.
+
 There are two types of terrain available in Squadrons: Obscuring and Dangerous. Models may move freely across this terrain with the following additional rules.
 
 ### Obscuring
@@ -132,3 +134,38 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 | Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 2 |
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 3 |
 | Advanced Targeting | This model gets a +1 to attack rolls for Fixed weapons. | 7 |
+
+Section 3 - Missions
+====================
+
+## Targets and Kills
+
+In addition to scoring Victory Points by securing objective markers you also score Victory Points by eliminating enemy ships. Missions may identify specific ships that are worth additional Victory Points for destroying. You also score Victory Points for the following:
+
+- 1VP for scoring the first ship kill in the game.
+- 1VP for destroying more than half of the enemy ships.
+- 1VP for sestroying all enemy ships.
+
+## Mission 1 - Scan the Debris
+
+### Battlefield
+
+The players will both take opposing table edges, if playing on a rectangular table this should be the shorter table edges, they may place 2 Entry Points anywhere on their table edge.
+
+### Objectives
+
+**Primary Objectives**: Place 4 Scan Objectives on the table each 9 inches from the centre towards each of the corners. Each Scan Objective is worth 2 Victory Points if scored on the first or second round, after which they are worth 1 Victory Point.
+
+**Secondary Objectives**: Both players should place a Destroy Objective within 6 inches directly in front of one of their Entry Points. These objectives may only be targeted by enemy ships and are worth 4 Victory Points.
+
+**Targets**: Each player should nominate one enemy ship before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in each subsequent turn.
+
+## Mission 2
+
+## Battlefield
+
+The players will both take opposing table edges, if playing on a rectangular table this should be the longer table edges, they may place 2 Entry Points anywhere on their table edge.
+
+### Objectives
+
+**Primary Objectives**: Place 1 Destroy Objective in the centre of the table, it has a Defence of 2, Toughness of 3, and 3 Hit Points.
