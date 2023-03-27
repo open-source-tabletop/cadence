@@ -82,8 +82,7 @@ The following new special rules apply to units and weapons in Squadrons.
 | :----------------- | :------ |
 | Agile | This ship may make an additional 45 degree turn during a Normal Move or a Full Move. |
 | Boost | If this ship does not make any manoeuvres during a Move action it may add 1 inch to it's movement. |
-| Hyperdrive | When being deployed from reserve this model may be placed an extra 3 inches from the entry point, however it may only take a 2 command point move action on it's first activation and may not make any turns during it's move. |
-| Shields (x) | While this ship has 2 or more hit points it may make a shield roll for any failed defence rolls it suffers, on a d6 roll of x or higher this counts as a successful defence roll. |
+| Shields (x) | While this ship has 2 or more hit points it may make a shield roll for any failed defence rolls, on a d6 roll of x or higher this counts as a successful defence roll. |
 
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
