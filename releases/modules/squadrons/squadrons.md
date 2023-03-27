@@ -162,10 +162,14 @@ The players will both take opposing table edges, if playing on a rectangular tab
 
 ## Mission 2
 
-## Battlefield
+### Attacker and Defender
 
-The players will both take opposing table edges, if playing on a rectangular table this should be the longer table edges, they may place 2 Entry Points anywhere on their table edge.
+One player is considered the attacker and the other the defender, players can agree or roll-off to determine this.
+
+### Battlefield
+
+The players will both take opposing table edges, if playing on a rectangular table this should be the longer table edges. The player that is the attacker must place one Entry Point in the centre of their table edge. The player that is the defender places two entry points at each end of their table edge.
 
 ### Objectives
 
-**Primary Objectives**: Place 1 Destroy Objective in the centre of the table, it has a Defence of 2, Toughness of 3, and 3 Hit Points.
+**Primary Objectives**: The defender places two Destroy objectives near their table edge. They must be 6 inches directly in front of their table edge and at least 6 inches from any other table edge or from each other. At the end of the 3rd round any destroyed Primary Objective is worth 3 Victory Points to the attacker and any surviving Primary Objective is worth 3 Victory Points to the defender.
