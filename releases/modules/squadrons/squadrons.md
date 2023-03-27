@@ -12,6 +12,10 @@ This game uses the Cadence Wargame System for it's core rules with the following
 
 Squadrons is best played on either a 3ft x 3ft or similar sized area.
 
+## Rounds
+
+Each game of Squadrons lasts for 4 rounds, at the end of the 4th round the players should roll a d6, on a roll of 3 or more there is also a 5th round.
+
 ## Ships 
 
 Each model in Squadrons represents a single ship of fighter or bomber scale referred to throughout as Ships.
@@ -158,9 +162,9 @@ The players will both take opposing table edges, if playing on a rectangular tab
 
 **Secondary Objectives**: Both players should place a Destroy Objective within 6 inches directly in front of one of their Entry Points. These objectives may only be targeted by enemy ships and are worth 4 Victory Points.
 
-**Targets**: Each player should nominate one enemy ship before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in each subsequent turn.
+**Targets**: Each player should nominate one enemy ship before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in any subsequent turn.
 
-## Mission 2
+## Mission 2 - Target Acquired
 
 ### Attacker and Defender
 
@@ -173,3 +177,19 @@ The players will both take opposing table edges, if playing on a rectangular tab
 ### Objectives
 
 **Primary Objectives**: The defender places two Destroy objectives near their table edge. They must be 6 inches directly in front of their table edge and at least 6 inches from any other table edge or from each other. At the end of the 3rd round any destroyed Primary Objective is worth 3 Victory Points to the attacker and any surviving Primary Objective is worth 3 Victory Points to the defender.
+
+**Targets**: The defender should nominate one of the attackers ships before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in any subsequent turn.
+
+## Mission 3 - Crossed Paths
+
+### Battlefield
+
+Players take diagonally opposite corners and place an entry marker on it. 
+
+### Objectives
+
+**Primary Objective**: Place one Scan Objective in the centre of the table and 4 more 9 inches away towards each of the corners of the table. Each Scan Objective is worth 1 Victory Point.
+
+**Secondary Objectives**: When any of the Primary Objectives have been secured they are replaced with Recover Objectives, each worth 2 Victory Points.
+
+**Targets**: Each player should nominate one of their own ships, they score 1 Victory Point if that ship survives to the end of the game.
