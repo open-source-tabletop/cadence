@@ -124,13 +124,13 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 | Rebel Striker        |  5  |  6  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (6), Countermeasures | 16     |
 | Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (5)                         | 20     |
 
-| Weapon                    | Rng | Att | Dmg | Prc | Special Rules        |
-| :------------------------ | :-: | :-: | :-: | :-: | :------------------- |
-| Laser Cannons             | 12  | 5/8 |  2  |  0  | Fixed                |
-| Twin Laser Cannons        | 12  | 6/10|  2  |  0  | Fixed                |
-| Heavy Laser Cannon        | 16  | 5/8 |  3  |  1  | Fixed                |
-| Concussion Missiles       | 16  | 0/3 |  9  |  1  | Forward, Target Lock |
-| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Forward, Target Lock |
+| Weapon                    | Rng | Att | Dmg | Prc | Special Rules               |
+| :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
+| Laser Cannons             | 12  |  4  |  2  |  0  | Fixed                       |
+| Twin Laser Cannons        | 12  |  5  |  2  |  0  | Fixed                       |
+| Heavy Laser Cannon        | 16  |  4  |  3  |  1  | Fixed                       |
+| Concussion Missiles       | 16  |  3  |  9  |  1  | Heavy, Forward, Target Lock |
+| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Heavy, Forward, Target Lock |
 
 | Upgrades | Details | Points |
 | :------- | :------ | :----- |
