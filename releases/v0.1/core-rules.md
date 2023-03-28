@@ -352,6 +352,7 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | Resilient | This model may re-roll any failed defence rolls that roll a 1. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
 | Skilled | This unit may re-roll any attack rolls that roll a 1. |
+| Stealth | Attacks against this model from more than 12 inches away suffer -1 to their Attack Rolls. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
 
 | Weapon Special Rules | Details |
