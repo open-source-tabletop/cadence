@@ -34,7 +34,7 @@ Dark Kindred Units
 
 **Special Rules**: Prey on the Weak, Shadow Hunter, Soul Drain
 
-**Equipment**: A Dark Kindred Warrior Leader is equipped with a Plasma Grenade and one weapon from each of the following options:
+**Equipment**: A Warrior Leader is equipped with a Plasma Grenade and one weapon from each of the following options:
 
 - Dark Matter Pistol, Shard Pistol, or a Shard Rifle.
 - Razor Flail, Vicious Blades, or a Plasma Blade.
