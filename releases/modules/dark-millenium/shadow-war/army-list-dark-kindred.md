@@ -74,7 +74,7 @@ Dark Kindred Units
 
 **Equipment**: Dark Kindred Blades are equipped with a Shard Pistol, Poisoned Knives, and a Plasma Grenade.
 
-## Special Units
+## Specialist Units
 
 ### Dark Kindred Warrior Hunters
 
@@ -153,16 +153,16 @@ Dark Kindred Weapons
 
 | Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :------------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
-| Dark Matter Blaster        | 14  | 3   | 5   | 4   |                                 | 2      |
-| Dark Matter Cannon         | 36  | 2   | 5   | 4   | Heavy                           | 2      |
-| Dark Matter Pistol         | 10  | 2   | 4   | 4   | Assault                         | 1      |
-| Plasma Grenade             | 4-8 | 3   | 3   | 2   | Grenade                         | 0      |
-| Ripper                     | 10  | 4   | 4   | 3   |                                 | 2      |
-| Shard Cannon               | 30  | 3   | 3   | 1   | Rending (2)                     | 1      |
-| Shard Pistol               | 12  | 3   | 2   | 0   | Assault, Rending (1)            | 0      |
-| Shard Carbine              | 18  | 3   | 2   | 0   | Rending (1)                     | 0      |
-| Shard Rifle                | 24  | 3   | 2   | 0   | Rapid Fire, Rending (1)         | 0      |
-| Thermal Lance              | 16  | 2   | 5   | 5   | Heavy                           | 2      |
+| Dark Matter Blaster        | 16  | 2   | 4   | 3   |                                 | 4      |
+| Dark Matter Cannon         | 32  | 4   | 4   | 3   | Heavy                           | 5      |
+| Dark Matter Pistol         | 8   | 2   | 4   | 3   |                                 | 2      |
+| Plasma Grenade             | 8   | 3   | 3   | 2   | Blast, Heavy, One-use           | 0      |
+| Ripper                     | 8   | 4   | 4   | 2   | Heavy                           | 2      |
+| Shard Cannon               | 24  | 3   | 3   | 1   | Rending (2)                     | 2      |
+| Shard Pistol               | 8   | 2   | 2   | 0   | Rending (1)                     | 0      |
+| Shard Carbine              | 12  | 3   | 2   | 0   | Rending (1)                     | 0      |
+| Shard Rifle                | 18  | 2   | 2   | 0   | Rending (1)                     | 0      |
+| Thermal Lance              | 18  | 2   | 8   | 3   | Heavy                           | 4      |
 
 ---
 
