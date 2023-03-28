@@ -137,16 +137,8 @@ Dark Kindred Units
 Dark Kindred Unit Summary
 =========================
 
-| Model Name         | Mov | Skl | Def | Str | Cmd | HP  | Special Rules                                                       | Points |
+| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  | Special Rules                                                       | Points |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: | :------------------------------------------------------------------ | :----: |
-| Warrior Leader     | 7   | 6   | 9   | 2   | 4   | 7   | Prey on the Weak, Shadow Hunter, Soul Drain                         | 11     |
-| Nightblade         | 7   | 5   | 11  | 2   | 4   | 7   | Combat Drugs, Lightning Reactions, Prey on the Weak                 | 10     |
-| Warriors           | 7   | 7   | 9   | 2   | 5   | 5   | Prey on the Weak, Shadow Hunter                                     | 8      |
-| Blades             | 7   | 5   | 11  | 2   | 5   | 5   | Combat Drugs, Prey on the Weak                                      | 8      |
-| Warrior Hunters    | 7   | 7   | 9   | 2   | 5   | 5   | Prey on the Weak, Shadow Hunter                                     | 8      |
-| Blade Executioners | 7   | 5   | 11  | 2   | 5   | 5   | Combat Drugs, Prey on the Weak                                      | 8      |
-| Skimmers           | 10  | 6   | 10  | 2   | 5   | 5   | Fast, Flying, Prey on the Weak                                      | 12     |
-| Harbingers         | 9   | 5   | 9   | 2   | 5   | 5   | Ambush, Flying, Prey on the Weak, Shadow Hunter                     | 14     |
 
 Dark Kindred Weapons
 ====================
@@ -166,13 +158,20 @@ Dark Kindred Weapons
 
 ---
 
-| Assault Weapons         | Rng | Att | Dmg | Prc | Special Rules                   | Points |
+| Melee Weapons           | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
-| Barbed Flail            | 2   | 5   | Str | 0   | Assault                         | 1      |
-| Eviscerator Gauntlet    | 1   | 3   |Str+1| 3   | Assault                         | 1      |
-| Glaive                  | 1   | 3   | 3   | 2   | Assault                         | 1      |
-| Plasma Blade            | 1   | 3   | 3   | 4   | Assault                         | 1      |
-| Poisoned Knives         | 1   | 4   | Str | 1   | Assault, Rending (4)            | 0      |
-| Razor Flail             | 2   | 4   | 3   | 2   | Assault                         | 1      |
-| Vicious Blades          | 1   | 2   | Str | 0   | Assault, Unwieldy               | 0      |
-| Voidnet and Shadowblade | 2   | 4   | Str | 3   | Assault, Rending (3)            | 1      |
+| Barbed Flail            | 2   | 3   | 3   | 0   | Rending (1)                     | 2      |
+| Eviscerator Gauntlet    | 1   | 5   | 1   | 1   |                                 | 1      |
+| Glaive                  | 1   | 3   | 3   | 2   |                                 | 3      |
+| Plasma Blade            | 1   | 2   | 3   | 1   |                                 | 2      |
+| Poisoned Knives         | 1   | 2   | 1   | 0   | Rending (3)                     | 0      |
+| Razor Flail             | 2   | 3   | 2   | 0   |                                 | 1      |
+| Vicious Blades          | 1   | 2   | 1   | 0   |                                 | 0      |
+| Voidnet and Shadowblade | 2   | 2   | 2   | 2   | Rending (3)                     | 3      |
+
+---
+
+| Upgrade | Restrictions | Description | Points |
+| :------ | :----------- | :---------- | :----: |
+| Combat Drugs | Blades and Blade Executioners only. | Ability: Once per game this model may use this ability action for 1 Command Point to gain 3 Command Points, after which it's activation ends. | 4 |
+| Phantasm Grenade Launcher | Warrior Leader only. | Ability: Once per game this model may use this ability action for 1 Command Point. Target 1 enemy model as if making an attack action and roll 1 Attack Roll. On a success the target and every model, friendly or enemy, within 2 inches lose 2 Command Points. On a failure the target loses 1 Command Point. | 4 |
