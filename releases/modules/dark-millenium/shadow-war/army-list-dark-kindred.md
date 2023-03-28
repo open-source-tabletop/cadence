@@ -28,9 +28,9 @@ Dark Kindred Units
 
 ### Dark Kindred Warrior Leader
 
-| Model Name         | Mov | Skl | Def | Str | Cmd | HP  |
+| Model Name         | Cmd | Mov | Skl | Def | Tgh | HP  |
 | :----------------- | :-: | :-: | :-: | :-: | :-: | :-: |
-| Warrior Leader     | 7   | 6   | 9   | 2   | 4   | 7   |
+| Warrior Leader     |  6  |  5  |  4  |  5  |  3  |  5  |
 
 **Special Rules**: Prey on the Weak, Shadow Hunter, Soul Drain
 
