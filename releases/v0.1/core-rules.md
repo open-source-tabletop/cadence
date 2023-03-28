@@ -361,7 +361,6 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | Blast | Attacks with this weapon count an obscured line of sight as clear. |
 | Heavy | This weapon may only be used when spending 2 Command Points on an Attack action and you do not double the Attacks attribute. |
 | One Use | This weapon may only be used once per battle. |
-| Rapid Fire | Weapons with this rule get +1 to their attacks attribute when their target unit is within half of the weapons maximum range. |
 | Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
 
