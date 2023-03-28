@@ -114,11 +114,7 @@ In order to fight, your models require weapons and these will be listed in your 
 - Piercing (Prc): The weapons ability to negate armour.
 - Special Rules that apply to the weapon.
 
-### Split Values
-
-Many weapons in Cadence will include split values for some or all of their attributes, in these cases the first value is used when one Command Point is spent on the action, and the second value is used when 2 Command Points are spent. When a single value is given this is the value that is used regardless of the number of Command Points spent. For example a weapon with an Attacks attribute of 2/3 would have 2 Attacks when one Command Point is spent and 3 when 2 are spent.
-
-## Missions
+### Missions
 
 When you play a game of Cadence you will typically choose a mission to play, this is a set of rules for how to set up your table, how armies will be deployed, and what the goal of the mission will be. A simple mission might simply see two armies fight to wipe out the oppoising army, but most provide a range of objectives that provide different goals for the players to achieve. There are 3 simple missions included in the Advance Rules section of this book with more available in modules, you should also feel free to create your own.
 
@@ -281,7 +277,7 @@ Once you have determined your targets and line of sights you follow the attack p
 
 #### Step 1 - Attack Rolls
 
-To determine if each attack hits the target unit you make a number of Attack Rolls equal to the attacks attribute of the weapon being used. An Attack Roll is a d6 roll trying to equal or beat the attacking unit's Skill attribute. If you are making multiple attacks with the same weapon against the same unit you may roll the combined number of these attacks together. Each succesful roll is considered a hit.
+To determine if each attack hits the target unit you make a number of Attack Rolls equal to the attacks attribute of the weapon being used. If you spent 2 Command Points on the action you double thia value. An Attack Roll is a d6 roll trying to equal or beat the attacking unit's Skill attribute. If you are making multiple attacks with the same weapon against the same unit you may roll the combined number of these attacks together. Each succesful roll is considered a hit.
 
 - **Close Range Penalty**: Many ranged weapons are not designed for use at extremely short range, when making an attack against a target unit that is within 1 inch of your unit (not the individual model) your Attack Roll counts as having a Skill of 6. Weapons with the Assault special rule do not suffer this penalty.
 - **Height Advantage**: When making an Attack Roll against a target at a lower height level, as explained in the section on terrain, you gain a +1 to your Attack Roll.
@@ -363,7 +359,7 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
 | Blast | Attacks with this weapon count an obscured line of sight as clear. |
-| Heavy | A unit may not attack with this weapon if it moved during its activation.
+| Heavy | This weapon may only be used when spending 2 Command Points on an Attack action and you do not double the Attacks attribute. |
 | One Use | This weapon may only be used once per battle. |
 | Rapid Fire | Weapons with this rule get +1 to their attacks attribute when their target unit is within half of the weapons maximum range. |
 | Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
