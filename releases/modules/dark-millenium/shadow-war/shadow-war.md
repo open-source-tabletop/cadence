@@ -13,7 +13,7 @@ Section 1 - Rules
 Section 2 - Building an Army
 ============================
 
-To build your army for Shadow War you select a number of units and their equipment from your chosen army list up to an agreed number of points. There are 4 types of model to choose from: Command, Standard, Specialist, and Elite. Your army should be made up of the following:
+To build your army for Shadow War you select a number of units and their equipment from your chosen army list up to an agreed number of points. Games are typically played at 100 or 150 points. There are 4 types of model to choose from: Command, Standard, Specialist, and Elite. Your army should be made up of the following:
 
 - 1 Command model.
 - 2+ Standard models.
