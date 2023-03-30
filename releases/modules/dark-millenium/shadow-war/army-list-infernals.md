@@ -86,24 +86,25 @@ Infernals Unit Summary
 Infernal Weapons
 ================
 
-still to be done
-
 | Weapons                   | Rng | Att | Dmg | Prc | Special Rules                   | Points |
-| :-------------------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
-| Baleful Axe                       | 1   | 3   | Str | 4   | Assault, Rending (2)            | 2      |
-| Bloodsword                        | 1   | 3   | Str | 1   | Assault, Rending (2)            | 0      |
-| Crushing Maul                     | 1   | 2   | 5   | 4   | Assault                         | 2      |
-| Cursed Gauntlet                   | 1   | 3   | 5   | 2   | Assault                         | 2      |
-| Dreadspear                        | 1   | 3   | Str | 2   | Assault                         | 0      |
-| Dual Infernal Axes                | 1   | 4   | 3   | 2   | Assault, Rending (1)            | 2      |
-| Gorehammer                        | 1   | 2   | 4   | 3   | Assault                         | 1      |
-| Headtaker Blades                  | 1   | 3   | 2   | 1   | Assault, Rending (4)            | 2      |
-| Infernal Halberd                  | 2   | 3   |Str+1| 2   | Assault                         | 1      |
-| Infernal Whip                     | 2   | 2   | 3   | 0   | Assault, Accurate               | 1      |
-| Vicious Claws and Teeth           | 1   | 3   | 3   | 1   | Assault                         | 0      |
+| :------------------------ | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
+| Baleful Axe               | 1   | 1   | 3   | 1   | Rending (3)                     | 2      |
+| Blazing Skull             | 8   | 2   | 6   | 0   | Blast, Heavy, One-use           | -      |
+| Bloodsword                | 1   | 2   | 2   | 0   | Rending (1)                     | 0      |
+| Crushing Maul             | 1   | 2   | 6   | 2   | Heavy                           | 3      |
+| Cursed Gauntlet           | 1   | 3   | 2   | 0   |                                 | 1      |
+| Dreadspear                | 2   | 2   | 2   | 0   |                                 | 0      |
+| Dual Infernal Axes        | 1   | 2   | 3   | 1   | Rending (1)                     | 3      |
+| Gorehammer                | 1   | 2   | 5   | 1   | Heavy                           | 2      |
+| Headtaker Blades          | 1   | 2   | 2   | 0   | Rending (3)                     | 2      |
+| Infernal Halberd          | 2   | 1   | 4   | 1   |                                 | 2      |
+| Infernal Whip             | 2   | 2   | 3   | 0   |                                 | 2      |
+| Vicious Claws and Teeth   | 1   | 3   | 2   | 0   |                                 | 1      |
 
-upgrade ideas
+---
 
-demonic relic, +1 attack roll
-burning skull grenade
-grizzly trophies lose command points on a roll
+| Upgrade | Restrictions | Description | Points |
+| :------ | :----------- | :---------- | :----: |
+| Blazing Skull | Tormentor, Fiends, or Malefactors only. Max 2 Per Army. | This model gains the Blazing Skull weapon. | 2 |
+| Demonic Relic | Fiends and Malefactors only. | This model gains +1 to their Attack Rolls. | 4 |
+| Grizzly Trophies | Tormentor or Furies only. | When this model causes a model to lose Hit Points they also lose 1 Command Point. | 5 |
