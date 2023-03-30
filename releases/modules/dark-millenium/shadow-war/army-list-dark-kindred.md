@@ -106,7 +106,7 @@ Dark Kindred Weapons
 | Dark Matter Blaster        | 16  | 3   | 4   | 3   | Heavy                           | 4      |
 | Dark Matter Cannon         | 32  | 4   | 4   | 3   | Heavy                           | 5      |
 | Dark Matter Pistol         | 8   | 2   | 4   | 3   |                                 | 2      |
-| Plasma Grenade             | 8   | 2   | 5   | 2   | Blast, Heavy, One-use           | 0      |
+| Plasma Grenade             | 8   | 2   | 5   | 2   | Blast, Heavy, One-use           | -      |
 | Ripper                     | 8   | 4   | 4   | 2   | Heavy                           | 2      |
 | Shard Cannon               | 24  | 4   | 3   | 0   | Heavy, Rending (1)              | 2      |
 | Shard Pistol               | 8   | 2   | 2   | 0   | Rending (1)                     | 0      |
