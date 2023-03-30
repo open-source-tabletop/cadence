@@ -107,4 +107,4 @@ Infernal Weapons
 | :------ | :----------- | :---------- | :----: |
 | Blazing Skull | Tormentor, Fiends, or Malefactors only. Max 2 Per Army. | This model gains the Blazing Skull weapon. | 2 |
 | Demonic Relic | Fiends and Malefactors only. | This model gains +1 to their Attack Rolls. | 4 |
-| Grizzly Trophies | Tormentor or Furies only. | When this model causes a model to lose Hit Points they also lose 1 Command Point. | 5 |
+| Grizzly Trophies | Tormentor only. | When this model causes a model to lose Hit Points they also lose 1 Command Point. | 5 |
