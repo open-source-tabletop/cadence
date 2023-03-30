@@ -305,7 +305,7 @@ If a model loses hit points, but is not reduced to 0, place a die next to the mo
 
 An ability is a unique action that some units possess. The details of any ability, along with the associated Command Point cost, will be listed in the unit's profile, army list, or module.
 
-### Secure (1 Command Point)
+### Secure
 
 When a unit wishes to secure an objective they take a Secure action. They must be within 1 inch of the objective marker and no other enemy units can be within 3 inches of the objective marker. The unit attempting to secure an objective must make a successful Secure Roll, rolliing a d6 and scoring 4 or higher, to secure the objective.
 
@@ -364,7 +364,7 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
 | Blast | Attacks with this weapon count an obscured line of sight as clear. |
-| Heavy | This weapon may only be used when spending 2 Command Points on an Attack action and you do not double the Attacks attribute. |
+| Heavy | A unit must spend an additional Command Point to use this weapon. |
 | One Use | This weapon may only be used once per battle. |
 | Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
