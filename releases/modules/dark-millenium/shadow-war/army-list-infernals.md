@@ -88,7 +88,7 @@ Infernal Weapons
 
 still to be done
 
-| Assault Weapons                   | Rng | Att | Dmg | Prc | Special Rules                   | Points |
+| Weapons                   | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :-------------------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
 | Baleful Axe                       | 1   | 3   | Str | 4   | Assault, Rending (2)            | 2      |
 | Bloodsword                        | 1   | 3   | Str | 1   | Assault, Rending (2)            | 0      |
@@ -101,3 +101,9 @@ still to be done
 | Infernal Halberd                  | 2   | 3   |Str+1| 2   | Assault                         | 1      |
 | Infernal Whip                     | 2   | 2   | 3   | 0   | Assault, Accurate               | 1      |
 | Vicious Claws and Teeth           | 1   | 3   | 3   | 1   | Assault                         | 0      |
+
+upgrade ideas
+
+demonic relic, +1 attack roll
+burning skull grenade
+grizzly trophies lose command points on a roll
