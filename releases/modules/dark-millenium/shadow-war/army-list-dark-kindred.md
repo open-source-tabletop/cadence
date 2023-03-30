@@ -5,12 +5,17 @@ Army List Dark Kindred
 
 ## Special Rules
 
-| Special Rule | Details |
-| ------------ | ------- |
-| Combat Drugs | When this model activates with only 1 Command Point remaining it rolls as normal to see if it loses that Command Point, however on a roll of a 6 the model activates and gains an additional Command Point. |
-| Kindred | These models never test to see if they lose a Command Point when activating with just 1, they automatically pass. |
-| Prey on the Weak | When this model kills an enemy model it regains 1 Command Point, this cannot be used this activation. |
-| Soul Drain | Once per game, when this model kills an enemy model within 6 inches it may regain all lost hit points. |
+### Kindred
+
+These models never test to see if they lose a Command Point when activating with just 1, they automatically pass.
+
+### Prey on the Weak
+
+When this model kills an enemy model it regains 1 Command Point, this cannot be used this activation.
+
+### Soul Drain
+
+Once per game, when this model kills an enemy model within 6 inches it may regain all lost hit points.
 
 Dark Kindred Units
 ==================
