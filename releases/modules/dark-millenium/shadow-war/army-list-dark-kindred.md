@@ -1,7 +1,7 @@
 **Dark Millenium: Shadow War**
 
-Army List Dark Kindred
-======================
+Dark Kindred
+============
 
 ## Special Rules
 
