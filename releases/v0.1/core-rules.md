@@ -232,9 +232,9 @@ When you activate a unit you first declare a number of actions and the order you
 - You may only perform each action once per activation.
 - If you start your activation with only 1 Command Point available, roll a d6, on a roll of a 1 this last Command Point is lost. This still counts as your activation.
 
-### Move (1 or 2 Command Points)
+### Move
 
-When you take a movement action each model in your unit can be moved up to it's Movement attribute in inches for every Command Point spent. Each model in the unit is moved according to the rules outlined below and the unit must finish this action in formation.
+When you take a Move action each model in your unit can be moved up to it's Movement attribute in inches. Each model in the unit is moved according to the rules outlined below and the unit must finish this action in formation.
 
 When moving a model always measure from the same point on the base to ensure no part of the model moves more than the allowed distance. Models should always be moved in a straight line along their forward facing but may be pivoted on the spot as often as needed.
 
@@ -249,7 +249,11 @@ When you move your models they will often find different types of terrain in the
 
 There are several types of terrain that can affect how your models move and these are covered in the Advanced Rules section later in this book.
 
-### Attack (1 or 2 Command Points)
+### Advance
+
+An Advance action follows the same rules as a Move action but must be taken immediately after a Move Action.
+
+### Attack
 
 When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units and which weapons you will be using. A model that has more than one weapon may only use one when making an attack. You may choose different targets for each of your models in a unit.
 
@@ -277,7 +281,7 @@ Once you have determined your targets and line of sights you follow the attack p
 
 #### Step 1 - Attack Rolls
 
-To determine if each attack hits the target unit you make a number of Attack Rolls equal to the attacks attribute of the weapon being used. If you spent 2 Command Points on the action you double thia value. An Attack Roll is a d6 roll trying to equal or beat the attacking unit's Skill attribute. If you are making multiple attacks with the same weapon against the same unit you may roll the combined number of these attacks together. Each succesful roll is considered a hit.
+To determine if each attack hits the target unit you make a number of Attack Rolls equal to the attacks attribute of the weapon being used. An Attack Roll is a d6 roll trying to equal or beat the attacking model's Skill attribute. If multiple models are attacking with the same weapon against the same unit you may roll the combined number of these attacks together. Each succesful roll is considered a hit.
 
 - **Close Range Penalty**: Many ranged weapons are not designed for use at extremely short range, when making an attack against a target unit that is within 1 inch of your unit (not the individual model) your Attack Roll counts as having a Skill of 6. Weapons with the Assault special rule do not suffer this penalty.
 - **Height Advantage**: When making an Attack Roll against a target at a lower height level, as explained in the section on terrain, you gain a +1 to your Attack Roll.
