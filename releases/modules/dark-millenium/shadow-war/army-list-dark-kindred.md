@@ -101,23 +101,23 @@ Dark Kindred Unit Summary
 Dark Kindred Weapons
 ====================
 
-| Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                   | Points |
-| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
-| Dark Matter Blaster        | 16  | 3   | 4   | 3   | Heavy                           | 4      |
-| Dark Matter Cannon         | 32  | 4   | 4   | 3   | Heavy                           | 5      |
-| Dark Matter Pistol         | 8   | 2   | 4   | 3   |                                 | 2      |
-| Plasma Grenade             | 8   | 2   | 5   | 2   | Blast, Heavy, One-use           | -      |
-| Ripper                     | 8   | 4   | 4   | 2   | Heavy                           | 2      |
-| Shard Cannon               | 24  | 4   | 3   | 0   | Heavy, Rending (1)              | 2      |
-| Shard Pistol               | 8   | 2   | 2   | 0   | Rending (1)                     | 0      |
-| Shard Carbine              | 12  | 3   | 2   | 0   | Rending (1)                     | 0      |
-| Shard Rifle                | 18  | 2   | 2   | 0   | Rending (1)                     | 0      |
+| Ranged Weapons             | Rng | Att | Dmg | Prc | Special Rules                    | Points |
+| :------------------------- | :-: | :-: | :-: | :-: | :------------------------------- | :----: |
+| Dark Matter Blaster        | 16  | 3   | 4   | 3   | Heavy                            | 4      |
+| Dark Matter Cannon         | 32  | 4   | 4   | 3   | Heavy                            | 5      |
+| Dark Matter Pistol         | 8   | 2   | 4   | 3   |                                  | 2      |
+| Plasma Grenade             | 8   | 2   | 5   | 2   | Blast, Heavy, Indirect,  One-use | -      |
+| Ripper                     | 8   | 4   | 4   | 2   | Indirect                         | 3      |
+| Shard Cannon               | 24  | 5   | 3   | 0   | Heavy, Rending (1)               | 2      |
+| Shard Pistol               | 8   | 2   | 2   | 0   | Rending (1)                      | 0      |
+| Shard Carbine              | 12  | 4   | 2   | 0   | Rending (1)                      | 0      |
+| Shard Rifle                | 18  | 3   | 2   | 0   | Rapid Fire, Rending (1)          | 0      |
 
 ---
 
-| Melee Weapons           | Rng | Att | Dmg | Prc | Special Rules                   | Points |
+| Assault Weapons         | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
-| Barbed Flail            | 2   | 3   | 3   | 0   | Rending (1)                     | 2      |
+| Barbed Flail            | 2   | 3   | 3   | 0   | Assault, Rending (1)            | 2      |
 | Eviscerator Gauntlet    | 1   | 10  | 1   | 1   | Heavy                           | 1      |
 | Plasma Blade            | 1   | 2   | 3   | 1   |                                 | 2      |
 | Poisoned Knives         | 1   | 2   | 1   | 0   | Rending (3)                     | 0      |
