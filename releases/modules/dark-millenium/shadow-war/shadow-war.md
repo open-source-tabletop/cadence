@@ -9,6 +9,7 @@ Section 1 - Rules
 | Weapon Special Rules | Description |
 | :------------------- | :---------- |
 | Blast | When this weapon makes at least one hit against it's target it also counts as having 1 successful hit against every model, friendly or enemy, within 2 inches of the original target that is not completely obscured by terrain from the point of view of the original target. |
+| Rapid Fire | This weapon gains +1 to it's Attack attribute against targets within half of it's maximum range. |
 
 Section 2 - Building an Army
 ============================
