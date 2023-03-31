@@ -118,17 +118,18 @@ Dark Kindred Weapons
 | Assault Weapons         | Rng | Att | Dmg | Prc | Special Rules                   | Points |
 | :---------------------- | :-: | :-: | :-: | :-: | :------------------------------ | :----: |
 | Barbed Flail            | 2   | 3   | 3   | 0   | Assault, Rending (1)            | 2      |
-| Eviscerator Gauntlet    | 1   | 10  | 1   | 1   | Heavy                           | 1      |
-| Plasma Blade            | 1   | 2   | 3   | 1   |                                 | 2      |
-| Poisoned Knives         | 1   | 2   | 1   | 0   | Rending (3)                     | 0      |
-| Razor Flail             | 2   | 3   | 2   | 0   |                                 | 1      |
-| Vicious Blades          | 1   | 2   | 1   | 0   |                                 | 0      |
-| Voidnet and Shadowblade | 2   | 4   | 2   | 2   | Heavy,  Rending (3)             | 2      |
+| Eviscerator Gauntlet    | 1   | 10  | 1   | 1   | Assault                         | 1      |
+| Plasma Blade            | 1   | 3   | 3   | 1   | Assault                         | 2      |
+| Poisoned Knives         | 1   | 3   | 2   | 0   | Assault, Rending (3)            | 0      |
+| Razor Flail             | 2   | 4   | 2   | 0   | Assault                         | 1      |
+| Vicious Blades          | 1   | 2   | 1   | 0   | Assault                         | 0      |
+| Voidnet and Shadowblade | 2   | 4   | 3   | 2   | Assault, Heavy, Rending (3)     | 2      |
 
 ---
 
 | Upgrade | Restrictions | Description | Points |
 | :------ | :----------- | :---------- | :----: |
+| Arena Champion | Blade Executioners only. | This model gains the Skilled special rule. | 1 |
 | Combat Drugs | Blades and Blade Executioners only. | Ability: Once per game this model may use this ability action for 1 Command Point to gain 3 Command Points, after which it's activation ends. | 3 |
 | Phantasm Grenade Launcher | Warrior Leader only. | Ability: Once per game this model may use this ability action for 1 Command Point. Target 1 enemy model as if making an attack action and roll 1 Attack Roll. On a success the target and every model, friendly or enemy, within 2 inches lose 2 Command Points. On a failure the target loses 1 Command Point. | 4 |
 | Plasma Grenade | Max 3 Per Army | This model has the Plasma Grenade weapon. | 1 |
