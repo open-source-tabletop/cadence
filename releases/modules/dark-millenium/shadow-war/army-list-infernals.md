@@ -15,7 +15,7 @@ When this model kills an enemy model, every friendly model within 3 inches regai
 
 ### Fury
 
-This model may re-roll Attack Rolls of 1.
+This model may spend a Command Point to re-roll any failed Attack Rolls for the remainder of it's activation.
 
 Infernals Units
 ===============
