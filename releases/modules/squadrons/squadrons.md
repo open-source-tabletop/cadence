@@ -24,11 +24,13 @@ Each model in Squadrons represents a single ship of fighter or bomber scale refe
 
 Ships in Squadrons are flying at high speeds meaning they need to be carefully manoeuvred.
 
-Each time you activate one of your Ships you must always spend at least 1 Command Point on a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. 
+### Move Action
 
-- **Normal Move**: When spending 1 Command Point on a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
-- **Full Move**: When you spend 2 Command Points you may either move double your Movement distance, making 1 pivot up to 45 degrees, or move your normal Movement distance and make 2 pivots up to 45 degrees.
-- **Turn Around**: Alternatively, when you spend 2 Command Points, you may move your normal Movement distance and make a pivot of exactly 180 degrees.
+Each time you activate one of your Ships you must always take a Move action, though you may still choose when to perform this action. When you perform this action you must also move the maximum distance allowed in a straight line directly forward. When making a Move action you may make 1 pivot up to 45 degrees at any point during your movement.
+
+### Advance Action
+
+When you make an Advance action you follow the same rules as above for making a Move action. Alternatively you may instead move 2 inches forward and pivot your model exactly 180 degrees.
 
 ## Moving over Bases
 
@@ -36,7 +38,7 @@ You may move over the bases of any friendly or enemy models during your movement
 
 ## Evasion
 
-When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction. This model may re-roll any failed Defence rolls from the attack that targetted it. 
+When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction, stopping if it would overlap another model's base. This model may re-roll any failed Defence rolls from the attack that targetted it. 
 
 ## Attack Targets
 
@@ -70,11 +72,11 @@ Squadrons has three types of objectives: scan, recover, and destroy.
 
 ### Scan
 
-Scan objectives require a ship to make a close pass of the object to secure them. A ship must move over the base of a Scan objective during it's activation before taking a secure action for the objective marker. A Scan objective is secured after the end of the round it is secured in.
+Scan objectives require a ship to make a close pass of the object to secure them. A ship must move over the base of a Scan objective during it's activation before taking a secure action for the objective marker.
 
 ### Recover
 
-A Recover objective is secured in the same way as a Scan objective, except that the ship must have only spent a single command point on it's movement. A recover objective is scored at the end of the game.
+A Recover objective is secured in the same way as a Scan objective, except that the ship cannot have performed an Advance action during it's activation. A recover objective is scored at the end of the game.
 
 ### Destroy
 
@@ -86,13 +88,13 @@ The following new special rules apply to units and weapons in Squadrons.
 
 | Unit Special Rules | Details |
 | :----------------- | :------ |
-| Agile | This ship may make an additional 45 degree turn during a Normal Move or a Full Move. |
-| Boost | If this ship does not make any manoeuvres during a Move action it may add 1 inch to it's movement. |
-| Shields (x) | While this ship has 2 or more hit points it may make a shield roll for any failed defence rolls, on a d6 roll of x or higher this counts as a successful defence roll. |
+| Agile | This ship may make an additional 45 degree turn during a Move Action. |
+| Boost | If this ship does not pivot during a Move action it may add 1 inch to it's movement. |
+| Shields (X) | While this ship has it's full Hit Points it adds X to it's Toughness. |
 
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
-| Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing. |
+| Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
 | Forward | This weapon can only target enemy models that lie within the front arc of the model. |
 | Target Lock | Roll a d6 before making any attack rolls, on a 3+ this weapon can be used, on a 1 or 2 you may choose a different weapon for your attack. If you cannot make an attack with any other weapon you may not make an attack but still count as having taken an attack action. |
 
@@ -112,30 +114,30 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 | Imperial Fighter     |  4  |  7  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 10     |
 | Imperial Interceptor |  5  |  7  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 14     |
 | Imperial Bomber      |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 12     |
-| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (6) | 32     |
+| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 32     |
 
 ## Rebel Ships
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                        | Special Rules                      | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :--------------------------------- | :----: |
-| Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (6)                         | 14     |
-| Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (6)                         | 12     |
-| Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (6)                         | 18     |
-| Rebel Striker        |  5  |  6  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (6), Countermeasures | 16     |
-| Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (5)                         | 20     |
+| Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (2)                         | 14     |
+| Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (2)                         | 12     |
+| Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (2)                         | 18     |
+| Rebel Striker        |  5  |  6  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures | 16     |
+| Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (3)                         | 20     |
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules               |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| Laser Cannons             | 12  |  4  |  2  |  0  | Fixed                       |
-| Twin Laser Cannons        | 12  |  5  |  2  |  0  | Fixed                       |
-| Heavy Laser Cannon        | 16  |  4  |  3  |  1  | Fixed                       |
+| Laser Cannons             | 12  |  5  |  2  |  0  | Fixed                       |
+| Twin Laser Cannons        | 12  |  6  |  2  |  0  | Fixed                       |
+| Heavy Laser Cannon        | 16  |  5  |  3  |  1  | Fixed                       |
 | Concussion Missiles       | 16  |  3  |  9  |  1  | Heavy, Forward, Target Lock |
-| Heavy Concussion Missiles | 16  | 0/3 | 10  |  2  | Heavy, Forward, Target Lock |
+| Heavy Concussion Missiles | 16  |  3  | 10  |  2  | Heavy, Forward, Target Lock |
 
 | Upgrades | Details | Points |
 | :------- | :------ | :----- |
 | Elite Pilot | Model gains +1 to it's Command attribute, this can never be higher than 6. | 5 |
-| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 4+. | 2 |
+| Stealth Package | When this model is a target of weapons with the Target Lock special rule, the weapon may only be used on a Target Lock roll of a 5+. | 3 |
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. | 3 |
 | Advanced Targeting | This model gets a +1 to attack rolls for Fixed weapons. | 7 |
 
