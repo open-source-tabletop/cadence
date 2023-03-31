@@ -20,3 +20,5 @@ To build your army for Shadow War you select a number of units and their equipme
 - 2+ Standard models.
 - 0-3 Specialist models.
 - 0-2 Elite models.
+
+Included in each army list is a number of upgrades, these may be purchased for models in your army following the restrictions given in the upgrade description. In addition you may not spend more than 10 points on upgrades and may not take the same upgrade more than 3 times unless indicated. 
