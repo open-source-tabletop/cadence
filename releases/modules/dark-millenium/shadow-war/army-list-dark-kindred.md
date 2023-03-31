@@ -132,4 +132,4 @@ Dark Kindred Weapons
 | Arena Champion | Blade Executioners only. | This model gains the Skilled special rule. | 1 |
 | Combat Drugs | Blades and Blade Executioners only. | Ability: Once per game this model may use this ability action for 1 Command Point to gain 3 Command Points, after which it's activation ends. | 3 |
 | Phantasm Grenade Launcher | Warrior Leader only. | Ability: Once per game this model may use this ability action for 1 Command Point. Target 1 enemy model as if making an attack action and roll 1 Attack Roll. On a success the target and every model, friendly or enemy, within 2 inches lose 2 Command Points. On a failure the target loses 1 Command Point. | 4 |
-| Plasma Grenade | Max 3 Per Army | This model has the Plasma Grenade weapon. | 1 |
+| Plasma Grenade | Any model. | This model has the Plasma Grenade weapon. | 1 |
