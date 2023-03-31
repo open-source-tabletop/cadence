@@ -363,8 +363,8 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 | -------------------- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
-| Blast | Attacks with this weapon count an obscured line of sight as clear. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
+| Indirect | Attacks with this weapon count an obscured line of sight as clear. |
 | One Use | This weapon may only be used once per battle. |
 | Rending (X) | Weapons with this rule automatically cause additional X damage when the attack roll is a 6. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
