@@ -38,7 +38,7 @@ You may move over the bases of any friendly or enemy models during your movement
 
 ## Evasion
 
-When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction, stopping if it would overlap another model's base. This model may re-roll any failed Defence rolls from the attack that targetted it. 
+When this model is targeted for an attack it may try to evade the attack if it still has Command Points remaining. This must be declared before any dice are rolled for the attack and the attacking player must give sufficient time for the player to declare they are evading. Spend one Command Point and move this model up to 2 inches directly to the left or right of its forward direction, stopping if it would overlap another model's base. This model may re-roll any failed Defence rolls from the attack that targetted it. 
 
 ## Attack Targets
 
@@ -111,10 +111,10 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 
 | Ship Type            | Cmd | Mov | Skl | Def | Tgh | HP  | Weapons                                  | Special Rules     | Points |
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------- | :---------------- | :----: |
-| Imperial Fighter     |  4  |  7  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 10     |
-| Imperial Interceptor |  5  |  7  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 14     |
+| Imperial Fighter     |  4  |  7  |  4  |  4  |  3  |  3  | Laser Cannons                            | Agile             | 9      |
+| Imperial Interceptor |  5  |  7  |  3  |  4  |  3  |  3  | Twin Laser Cannons                       | Agile, Boost      | 12     |
 | Imperial Bomber      |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles |                   | 12     |
-| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 32     |
+| Imperial Silencer    |  5  |  7  |  3  |  4  |  3  |  5  | Heavy Laser Cannons, Concussion Missiles | Agile, Shield (2) | 24     |
 
 ## Rebel Ships
 
@@ -122,7 +122,7 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 | :------------------- | :-: | :-: | :-: | :-: | :-: | :-: | :--------------------------------------------- | :--------------------------------- | :----: |
 | Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (2)                         | 14     |
 | Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (2)                         | 12     |
-| Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (2)                         | 18     |
+| Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (2)                    | 18     |
 | Rebel Striker        |  5  |  6  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures | 16     |
 | Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (3)                         | 20     |
 
