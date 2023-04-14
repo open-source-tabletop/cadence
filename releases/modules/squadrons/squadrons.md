@@ -147,30 +147,30 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 Section 3 - Missions
 ====================
 
-score 2vp each turn
-
 ## Targets and Kills
 
 In addition to scoring Victory Points by securing objective markers you also score Victory Points by eliminating enemy ships. Missions may identify specific ships that are worth additional Victory Points for destroying. You also score Victory Points for the following:
 
 - 1VP for scoring the first ship kill in the game.
-- 1VP for destroying the enemy Squadron Leader.
+- 2VP for destroying the enemy Squadron Leader.
 - 1VP for destroying more than half of the enemy ships.
 - 2VP for destroying all enemy ships.
 
-## Mission 1 - Scan the Debris
+## Mission 1 - Debris Field
 
 ### Battlefield
 
 The players will both take opposing table edges, if playing on a rectangular table this should be the shorter table edges, they may place 2 Entry Points anywhere on their table edge.
 
+This mission is best played
+
 ### Objectives
 
-**Primary Objectives**: Place 4 Scan Objectives on the table each 9 inches from the centre towards each of the corners. Each Scan Objective is worth 2 Victory Points if scored on the first or second round, after which they are worth 1 Victory Point.
+**Primary Objectives**: Place 4 Scan Objectives on the table each 9 inches from the centre towards each of the corners. Each Scan Objective is worth 2 Victory Points, these remain on the table after being scored and may be scored by both players.
 
-**Secondary Objectives**: Both players should place a Destroy Objective within 6 inches directly in front of one of their Entry Points. These objectives may only be targeted by enemy ships and are worth 4 Victory Points.
+**Secondary Objectives**: From Round 2 each objective you have scanned becomes a Destroy Objective worth 1 Victory Point.
 
-**Targets**: Each player should nominate one enemy ship before the game begins, they score 2 Victory Points if they destroy that ship before the end of Round 2, or 1 Victory Point in any subsequent turn.
+**Targets**: From Round 3 each player should nominate one of their own ships, that ship is worth 2 Victory Points if it survives until the end of the game.
 
 ## Mission 2 - Target Acquired
 
