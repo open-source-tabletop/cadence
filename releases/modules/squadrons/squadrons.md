@@ -91,6 +91,7 @@ The following new special rules apply to units and weapons in Squadrons.
 | Agile | This ship may make an additional 45 degree turn during a Move Action. |
 | Boost | If this ship does not pivot during a Move action it may add 1 inch to it's movement. |
 | Shields (X) | While this ship has it's full Hit Points it adds X to it's Toughness. |
+| Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
 
 | Weapon Special Rules | Details |
 | :------------------- | :------ |
@@ -104,6 +105,8 @@ Section 2 - Army Lists
 ## Building an Army
 
 Players should select units from either the Imperial Ships or Rebel Ships lists. Players may also add upgrades to their ships from the list, no more than half of your ships may be given upgrades and each ship may only have one upgrade.
+
+One ship in your squadron should be designated as your Squadron Leader and gains the special rule of the same name.
 
 Games are best played at 100, 150, and 200 point limits depending on the size of game you wish to play.
 
@@ -144,13 +147,16 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 Section 3 - Missions
 ====================
 
+score 2vp each turn
+
 ## Targets and Kills
 
 In addition to scoring Victory Points by securing objective markers you also score Victory Points by eliminating enemy ships. Missions may identify specific ships that are worth additional Victory Points for destroying. You also score Victory Points for the following:
 
 - 1VP for scoring the first ship kill in the game.
+- 1VP for destroying the enemy Squadron Leader.
 - 1VP for destroying more than half of the enemy ships.
-- 1VP for sestroying all enemy ships.
+- 2VP for destroying all enemy ships.
 
 ## Mission 1 - Scan the Debris
 
