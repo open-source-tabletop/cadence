@@ -14,7 +14,7 @@ Squadrons is best played on either a 3ft x 3ft or similar sized area.
 
 ## Rounds
 
-Each game of Squadrons lasts for 4 rounds, at the end of the 4th round the players should roll a d6, on a roll of 3 or more there is also a 5th round.
+Each game of Squadrons lasts for 3 rounds, at the end of the 3rd round the players should roll a d6, on a roll of 3 or more there is also a 4th round.
 
 ## Ships 
 
