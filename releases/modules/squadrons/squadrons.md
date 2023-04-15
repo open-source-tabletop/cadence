@@ -126,7 +126,7 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 | Rebel Fighter        |  4  |  6  |  3  |  4  |  3  |  4  | Twin Laser Cannons, Concussion Missiles        | Shield (2)                         | 14     |
 | Rebel Bomber         |  4  |  5  |  4  |  4  |  3  |  4  | Laser Cannons, Heavy Concussion Missiles       | Shield (2)                         | 12     |
 | Rebel Heavy Bomber   |  4  |  5  |  4  |  3  |  4  |  4  | Heavy Laser Cannons, Heavy Concussion Missiles | Shield (2)                    | 18     |
-| Rebel Striker        |  5  |  6  |  3  |  3  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures | 16     |
+| Rebel Striker        |  5  |  6  |  3  |  4  |  3  |  3  | Laser Cannons, Concussion Missiles             | Boost, Shield (2), Countermeasures | 16     |
 | Rebel Gunship        |  5  |  6  |  4  |  3  |  4  |  4  | Heavy Laser Cannons                            | Shield (3)                         | 20     |
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules               |
