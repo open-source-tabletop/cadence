@@ -131,9 +131,9 @@ Games are best played at 100, 150, and 200 point limits depending on the size of
 
 | Weapon                    | Rng | Att | Dmg | Prc | Special Rules               |
 | :------------------------ | :-: | :-: | :-: | :-: | :-------------------------- |
-| Laser Cannons             | 12  |  5  |  2  |  0  | Fixed                       |
-| Twin Laser Cannons        | 12  |  6  |  2  |  0  | Fixed                       |
-| Heavy Laser Cannon        | 16  |  5  |  3  |  1  | Fixed                       |
+| Laser Cannons             | 12  |  6  |  2  |  0  | Fixed                       |
+| Twin Laser Cannons        | 12  |  8  |  2  |  0  | Fixed                       |
+| Heavy Laser Cannon        | 16  |  6  |  3  |  1  | Fixed                       |
 | Concussion Missiles       | 16  |  3  |  9  |  1  | Heavy, Forward, Target Lock |
 | Heavy Concussion Missiles | 16  |  3  | 10  |  2  | Heavy, Forward, Target Lock |
 
