@@ -18,9 +18,9 @@
 | :------------------------ | :-: | :-: | :-: | :-: | :------------------------ |
 | Energy Cannons            | 12" |  6  |  2  |  0  | Fixed                     |
 
-#### TIE Interceptor - 29pts
-
 ---
+
+#### TIE Interceptor - 29pts
 
 **Setup**: Command 1, Speed 1, Agility, Boost, Twin Energy Cannons.
 
