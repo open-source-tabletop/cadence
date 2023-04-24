@@ -78,6 +78,8 @@ A Destroy objective is treated much the same as an enemy ship, with Defence, Tou
 
 Players build their squadron by creating ships as outlined below. Each ship has a basic profile that is then enhanced by a number of upgrades. There are some premade lists for popular settings listed at the end of this document. Each ship starts at a cost of 15 points, with each upgrade and weapon adding to this total. Each ship with 5 or more upgrades costs an additional 5 points.
 
+Games are best played at 150, 250, or 350 point limits.
+
 ### Basic Ship Profile
 
 | Cmd | Mov | Skl | Def | Tgh | HP  |
@@ -111,6 +113,7 @@ Players build their squadron by creating ships as outlined below. Each ship has 
 | Stealth 2       | The ship has the Stealth (9) special rule     | 8    |
 | Jamming         | The ship has the Signal Jam special rule      | 4    |
 | Countermeasures | The ship has the Countermeasures special rule | 3    |
+| Weapon Platform | The ship has the Weapon Platform special rule | 9    |
 
 \* This upgrade multiplies its cost by the number of upgrades the ship has, not including itself.
 
@@ -142,6 +145,7 @@ The following new special rules apply to units and weapons in Squadrons.
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. |
 | Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
 | Signal Jam | Target Lock rolls against this ship only succeed on a 5+. |
+| Weapon Platform | This model may make a second attack action during it's activation. |
 
 #### Weapon Special Rules
 
@@ -222,3 +226,4 @@ Each player should nominate one of their own ships, they score 1 Victory Point i
 The following army lists represent popular ships from different settings constructed using the ship construction rules above:
 
 - [Star Wars](./star-wars.md)
+- [Warhammer 40k](./warhammer-40k.md)
