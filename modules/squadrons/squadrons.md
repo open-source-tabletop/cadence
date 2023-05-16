@@ -1,6 +1,6 @@
 # Squadrons
 
-Squadrons is a game of space combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships, performing high speed manoeuvres as they try to take down their opponents ships.
+Squadrons is a game of high speed combat between small fighter or bomber scale ships. Each player commands a squadron of around 5 to 15 ships as they try to take down their opponents ships.
 
 ## Module Rules
 
@@ -113,6 +113,7 @@ Games are best played at 150, 250, or 350 point limits.
 | Stealth 2       | The ship has the Stealth (9) special rule     | 8    |
 | Jamming         | The ship has the Signal Jam special rule      | 4    |
 | Countermeasures | The ship has the Countermeasures special rule | 3    |
+| Weapon Platform | The ship has the Weapon Platform special rule | 9    |
 
 \* This upgrade multiplies its cost by the number of upgrades the ship has, not including itself.
 
@@ -131,7 +132,15 @@ Games are best played at 150, 250, or 350 point limits.
 | Heavy Energy Turret       | 16" |  7  |  3  |  1  |                                 | 7    |
 | Heavy Kinetic Turret      | 16" |  9  |  2  |  2  | Kinetic                         | 9    |
 
-### Special Rules
+### Constructed Army Lists
+
+The following army lists represent popular ships from different settings constructed using the ship construction rules above:
+
+- [Battlestar Galactica Fleets](./battlestar-galactica.md)
+- [Star Wars Fleets](./star-wars.md)
+- [Warhammer 40k Fleets](./warhammer-40k.md)
+
+## Special Rules
 
 The following new special rules apply to units and weapons in Squadrons.
 
@@ -144,6 +153,7 @@ The following new special rules apply to units and weapons in Squadrons.
 | Countermeasures | Once per game this model may evade an attack without spending a Command Point. |
 | Squadron Leader | Friendly ships within 6 inches of this ship do not have to roll to see if they lose a Command Point when activating with just 1. This ship also gains +1 to it's Command attribute on the first round, up to a maximum of 6. |
 | Signal Jam | Target Lock rolls against this ship only succeed on a 5+. |
+| Weapon Platform | This model may make a second attack action during it's activation. |
 
 #### Weapon Special Rules
 
@@ -218,9 +228,3 @@ When any of the Primary Objectives have been secured they are replaced with Reco
 ##### Targets
 
 Each player should nominate one of their own ships, they score 1 Victory Point if that ship survives to the end of the game.
-
-## Constructed Army Lists
-
-The following army lists represent popular ships from different settings constructed using the ship construction rules above:
-
-- [Star Wars](./star-wars.md)
