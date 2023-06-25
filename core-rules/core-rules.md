@@ -1,3 +1,5 @@
+# Cadence Core Rules
+
 Introducing Cadence, a versatile wargaming system that opens the door to a diverse range of games. The core rules have a focus on light, flexible, mechanics that are easy to learn while each game module contributes their own unique mechanics and themes. The entire system is freely available and open to the community. With Cadence, exploring and immersing yourself in new gaming experiences has never been easier, 
 
 ### Contents
