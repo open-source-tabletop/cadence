@@ -1,6 +1,6 @@
 # Cadence Core Rules
 
-Introducing Cadence, a versatile wargaming system that opens the door to a diverse range of games. The core rules have a focus on light, flexible mechanics that are easy to learn while each game module contributes their own unique mechanics and themes. The entire system is freely available and open to the community. With Cadence, exploring and immersing yourself in new gaming experiences has never been easier.
+Cadence is a versatile wargaming system that opens the door to a diverse range of games. The core rules have a focus on light, flexible mechanics that are easy to learn while each game module contributes their own unique mechanics and themes. The entire system is freely available and open to the community. With Cadence, exploring and immersing yourself in new gaming experiences has never been easier.
 
 ### Contents
 
@@ -37,9 +37,9 @@ Introducing Cadence, a versatile wargaming system that opens the door to a diver
 
 ### Dice
 
-Cadence uses six-sided dice ("d6") to determine the outcome of actions. Most rolls are based on a single d6 which may have modifiers applied to them. To succeed, the dice must score equal to or above a target number. However, a roll of 1 always counts as a failure regardless of any modifiers.
+Cadence uses six-sided dice ("d6") to determine the outcome of actions. Most rolls are based on a single d6 which may have modifiers applied to them. To succeed, the dice must score equal to or above a target number. A dice roll can be negatively modified so that success is not possible, however, a roll of 1 always counts as a failure regardless of any positive modifiers.
 
-You may also be asked to "roll-off" against other players, each player rolls 2 d6. The winner is the player with the highest combined result. In case of a tie, players roll-off again. Dice rolls should be done in full view of all players, and, when a rule permits you to re-roll a dice you may only re-roll a dice once.
+You may also be asked to "roll-off" against other players, each player rolls 2d6. The winner is the player with the highest combined result. In case of a tie, players roll-off again. Dice rolls should be done in full view of all players, and, when a rule permits you to re-roll a dice you may only ever re-roll a dice once.
 
 ### Distance and Measuring
 
@@ -88,7 +88,7 @@ Each model in Cadence has a forward-facing direction, typically the direction th
 
 Additionally, each model divides the battlefield around it into four 90-degree zones, called arcs. The front arc is centered on the model's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right arcs are to the model's left and right, respectively.
 
-To determine which arc a model or unit is in, it is considered to be in the front-most possible arc. If a model or unit is partially in more than one arc, the front arc takes priority, followed by the left and right arcs, with the rear arc being the lowest priority.
+To determine which arc an enemy model or unit is in, it is considered to be in the front-most possible arc. If a model or unit is partially in more than one arc, the front arc takes priority, followed by the left and right arcs, with the rear arc being the lowest priority. If a unit has multiple models then each has its own facing and arcs, with an enemy unit counting as being in the front-most arc out of all possible model arcs.
 
 ### Weapons
 
@@ -103,8 +103,6 @@ The weapons that your models fight with also have their own set of attributes wh
 ### Missions
 
 When you play a game of Cadence, you will select a mission to play. A mission is a set of rules that dictates how to set up the battlefield, how armies are deployed, and what objectives players must achieve to win. Simply put, playing a game means playing a mission.
-
-There are three simple missions included in the Advanced Rules section of this book, with more available in modules. Additionally, players are encouraged to create their own missions.
 
 Victory Points are awarded to players throughout the game based on the mission objectives. The player with the most Victory Points at the end of the game is declared the winner.
 
