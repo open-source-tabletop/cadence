@@ -48,7 +48,7 @@ You may also be asked to **roll-off** against other players, each player rolls 2
 
 ### Distance and Measuring
 
-Cadence uses inches for measuring movement and range, you'll need an inch-marked ruler to play. Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game. Remember that a model or object is considered "within" a certain distance if any part of it's base is closer than the specified distance.
+Cadence uses inches for measuring movement and range, you'll need an inch-marked ruler to play. Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game. Remember that a model or object is considered "within" a certain distance if any part of it's base is closer than the specified distance and a unit is within a distance so long as 1 model from that unit is.
 
 ### Armies
 
@@ -83,7 +83,7 @@ Abilities are like actions that are unique to a unit. These work like normal act
 
 #### Unit Formation
 
-Units consisting of more than one model must stay within close proximity of each other during a battle, known as being **in formation**. A unit is in formation when the distance between each model forms a chain connecting all the models with a gap between each model no larger than 2 inches. Every time you activate a unit, after you move each of your models, the unit must finish that action in formation.
+Units consisting of more than one model must stay within close proximity of each other during a battle, known as being **in formation**. A unit is in formation when each model is **within 6 inches of every other model** in the unit, if the unit contains 10 or more models this distance is **increased to 8** inches. Every unit must finish each action they perform in formation.
 
 It is possible for your unit to become out of formation during another unit's activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must make a move action as it's first action to restore being in formation. If it cannot resume being in formation after this move action the unit is destroyed and removed from the game.
 
@@ -105,7 +105,7 @@ When you play a game of Cadence you always select a mission to play. A mission i
 
 Objectives Markers represent key points on the battlefield, such as resources to be collected, intel to be gathered, or zones to be controlled. An objective marker is typically a **40mm token** or appropriate miniature. Objectives come in 3 basic types, each of which can **first be secured**, or controlled by a unit, and then **scored when they award points** according to a mission. Additional types may be specified by a game module.
 
-To secure an Objective Marker, a unit must use the "Secure" action when it is within **1 inch of the marker** and no enemy units are within 3 inches of it. The unit must make a successful Secure Roll, rolling a d6 and scoring **3 or higher** to secure an objective.
+To secure an Objective Marker, a unit must use the "Secure" action when it is within **1 inch of the marker** and no enemy units are within 3 inches of it or the securing unit. The unit must make a successful Secure Roll, rolling a d6 and scoring **3 or higher** to secure an objective.
 
 Objectives can be one of the following 3 types:
 
@@ -176,7 +176,7 @@ This continues until both players have used all of the Command Points on all of 
 
 #### Deploying From Reserve
 
-As your units do not begin on the battlefield, they must be **deployed from reserve**. When it is your turn to activate a unit, you may choose a unit already on the battlefield or one in reserve. If you choose a unit in reserve, it is placed **within its Movement attribute in inches** from one of your Entry Points and then activates as normal. This does not count as having taken a Move action and can be done before declaring your actions for that unit.
+As your units do not begin on the battlefield, they must be **deployed from reserve**. When it is your turn to activate a unit, you may choose a unit already on the battlefield or one in reserve. If you choose a unit in reserve, each model is placed **within its Movement attribute in inches** from one of your Entry Points and in formation, and then activates as normal. This does not count as having taken a Move action and can be done before declaring your actions for that unit.
 
 Unless another rule permits it, each player must deploy all of their units on the battlefield during the first turn. If a unit cannot be placed within range of an entry point, then it cannot be deployed. If it must be deployed but cannot be placed, it is destroyed.
 
@@ -186,18 +186,21 @@ Unless another rule permits it, each player must deploy all of their units on th
 
 ## Actions
 
-When you activate a unit, you first declare the actions you are going to perform and the order in which you will perform them. You then pay the appropriate cost from the unit's Command Points, but you do not have to spend all of them in one activation. Keep in mind the following restrictions:
+When you activate a unit, you first **declare the actions you are going to perform** and the order in which you will perform them. You then pay the appropriate cost from the unit's Command Points and reduce the Command Dice by that cost. You do not have to spend all of your Command Points in one activation. For units with multiple models you perform the action for every model before moving onto the next action. Keep in mind the following restrictions:
 
-- You must spend at least 2 Command Points per activation, unless your unit has only 1 Command Point remaining.
-- You may spend a maximum of 4 Command Points per activation.
-- You may only perform each action once per activation.
-- If you begin your activation with only 1 Command Point remaining, roll a d6. On a roll of 1, this last Command Point is lost, and this still counts as your activation.
+- You must spend **at least 2 Command Points** per activation, unless your unit has only 1 Command Point remaining.
+- You may spend a **maximum of 4 Command Points** per activation.
+- You may only perform **each action once** per activation.
+- If you begin your activation with only 1 Command Point remaining, roll a d6. **On a roll of 1, this last Command Point is lost**, the unit takes no action however this still counts as your activation.
+
+**Note**: You may declare an action that will only be possible depending on the outcome of the previous action - if you do so and the action is still not possible after the previous actions then it is treated as a pass action instead.
+
 
 ### Action: Move
 
-During a Move action, each model in a unit can move up to its Movement attribute in inches, as long as the unit finishes in formation. Always measure from the same point on the base and move the model in straight line sections to avoid moving any part of the model more than the allowed distance.
+During a Move action, each model in a unit can move up to its Movement attribute in inches, as long as the unit finishes in formation. Always measure from the same point on a model's base and move the model in straight line sections to avoid moving more than the allowed distance.
 
-A model's base may never move over the base of any enemy models, but are permitted to move over the bases of friendly models - so long as they do not overlap at the end of their movement. Models are not permitted to move any part of their base outside of the battlefield.
+A model's base may **never move over the base of any enemy models**, but are permitted to move over the bases of friendly models - so long as they do not overlap at the end of their movement. Models are not permitted to move any part of their base outside of the battlefield.
 
 #### Terrain
 
@@ -209,53 +212,44 @@ An Advance action follows the same rules as a Move action but may only be taken 
 
 ### Action: Attack
 
-When your unit takes an attack action, you declare which models in your unit will target which enemy units and which weapons you will use. Each model can use only one weapon. You may choose different targets for each model in your unit. If there are any enemy units within 1 inch of your unit, you must choose one of them as your target.
+When you take an attack action each model will be able to choose one of their weapons and target one enemy model that they can see. They then follow the attack procedure below to determine the outcome of the attack. When choosing a target, if there are any enemy models within 3 inches of your model you must choose one of those as your target.
 
-Before rolling any dice, you need to determine if you have line of sight to your target and if it is in range. You may change which models are targeting which units while checking this, but once you start rolling dice, you can no longer change your targets.
+#### Step 1 - Determine Line of Sight and Range
 
-#### Line of Sight
+When you choose your target model you must check how well you can see that model and if it is in range before making your attack. Firstly, for line of sight, this is done "through the eyes of the model" - meaning you might need to look through the model at tabletop level.
 
-To determine line of sight, you check if any model in your unit that is targeting the unit can see models in the enemy unit. You can ignore intervening models in both the attacking and target units. Check this by looking through the model at tabletop level.
+- If you can see the model without any part being covered, you have a **clear** line of sight.
+- If you can see the model but it is partly covered, you have an **obstructed** line of sight.
+- If the model is partially obscured by another model, or you cannot see it at all, you have a **blocked** line of sight.
+- If the model is within 1 inch of a friendly model, and you are more than 1 inch away, you have a **blocked** line of sight.
+- If you are attacking a model within 1 inch and can see any part of it then it always counts as a **clear** line of sight.
 
-- If you can see at least one model in the target unit without any obstruction, you have a **clear** line of sight.
-- If you can see at least one model in the target unit, but none without obstruction, you have an **obstructed** line of sight.
-- If any models in the enemy unit are partially obscured by another unit, or you cannot see any models in the enemy unit, you have a **blocked** line of sight.
-- If you are attacking a unit within 1 inch and can see any models in the unit then it always counts as a **clear** line of sight.
+Your chosen target model must be within range for an attack, this distance is the attacking weapon's **Range** attribute in inches.
 
-#### Check Range
+#### Step 2 - Attack Rolls
 
-For every model in your attacking unit you need to check that it is in range to their chosen target. Measure the distance between that model and the nearest model in the target unit. If it is equal to or less than the weapon's range attribute the model is in range and may perform an attack.
+Make **Attack Rolls** equal to the **attacks** attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's **Skill attribute**. Every successful roll is a **hit**. The following modifiers apply:
 
-#### Attack Procedure
+- **Close Range Penalty**: Attack Rolls against a target unit within 1 inch of your model only hit on a **roll of a 6**, instead of using the attacking model's Skill attribute. However, weapons with the **Assault** special rule don't suffer this penalty.
+- **Rush Penalty**: Units performing 3 or more actions this activation suffer a **-2 modifier** to their Attack Rolls.
+- **Height Advantage**: Gain a **+1 modifier** to your Attack Roll when attacking a model at a lower height level (see the terrain rules).
+- **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a **-1 modifier** to your Attack Roll.
 
-Once you have determined your targets and line of sights you follow the attack procedure outlined below. You can follow this procedure for each model in your unit or you can combine attacks from each model with the same Skill value using the same weapon to speed up the process. Repeat the process until you have made all of your attacks.
+#### Step 3 - Defence Rolls
 
-#### Step 1 - Attack Rolls
+For every successful hit against a target model, the target player makes a **Defence Roll**. Roll a d6 trying to score equal or higher than that model's **Defence attribute**. This roll is reduced by the attacking weapon's **Piercing attribute**, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the model taking 1 point of **damage**.
 
-Make Attack Rolls equal to the attacks attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's Skill attribute. When multiple models attack with the same weapon against the same unit, roll the combined number of these attacks together. Every successful roll is a hit.
+#### Step 4 - Counter Rolls
 
-- **Close Range Penalty**: Attack Rolls against a target unit within 1 inch of your unit only hit on a roll of a 6, instead of using the attacking model's Skill attribute. However, weapons with the Assault special rule don't suffer this penalty.
-- **Rush Penalty**: Models using 3 or more Command Points this activation suffer a -2 penalty to their Attack Rolls.
-- **Height Advantage**: Gain a +1 to your Attack Roll when attacking a target at a lower height level.
-- **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a -1 penalty to your Attack Roll.
+For each point of damage a model takes, it must test to see if it can **Counter** the damage, or if it will lose a **Hit Point**. If the model's Hit Points are reduced to 0 it is removed from the game as destroyed, otherwise place a red dice or other marker next to the model indicating how many Hit Points it has remaining. The counter roll uses the targets **Toughness**. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:
 
-#### Step 2 - Defence Rolls
-
-For every successful hit against a target unit, the target player makes a Defence Roll. Roll a d6 trying to score equal or higher than that unit's Defence attribute, if there are multiple Defence attributes in the unit you use the attribute that is the majority, or the highest if there is no majority, at the start of the attack. This roll is reduced by the attacking weapon's Piercing attribute, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the target taking 1 point of damage.
-
-#### Step 3 - Counter Rolls
-
-For each point of damage a unit takes, it must test to see if it can counter the damage, or if it will lose a Hit Point. This roll uses the targets Toughness - if there are different attributes for models in this unit you use the attribute that is in the majority, or the highest if there is no majority at the start of the attack. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:
-
-- If the Damage attribute of the weapon is **half, or lower, of the targets Toughness** you counter the damage on a roll of 2+.
-- If the Damage attribute of the weapon is **less than the targets Toughness** you counter the damage on a roll of 3+.
-- If the Damage attribute of the weapon is **equal to the targets Toughness** you counter the damage on a roll of 4+.
-- If the Damage attribute of the weapon is **more than the targets Toughness** you counter the damage on a roll of 5+.
-- If the Damage attribute of the weapon is **double, or more than double, the targets Toughness** you counter the damage on a roll of 6+.
-
-#### Step 4 - Reduce Hit Points
-
-The target player assigns all lost hit points to one model in the target unit, starting with any model that has already lost hit points. If that model is reduced to 0 hit points, remove it from the game as destroyed and select another model. Continue doing this until you have assigned all the damage to models, or until every model in the unit has been removed. If a model loses hit points but isn't reduced to 0, it can be useful to place a die or marker next to the model, indicating the remaining hit points.
+| Weapon Damage vs target Toughness            | Counter Roll |
+| :------------------------------------------- | :----------: |
+| Damage is half, or lower, than Toughness     | 2+           |
+| Damage is lower than Toughness               | 3+           |
+| Damage is equal to Toughness                 | 4+           |
+| Damage is higher than Toughness              | 5+           |
+| Damage is double, or higher, than Toughness  | 6+           |
 
 ### Action: Ability
 
@@ -263,11 +257,11 @@ An ability is a unique action that some units possess. The details of any abilit
 
 ### Action: Secure
 
-To secure an objective, a unit must take a Secure action while being within 1 inch of the objective marker, with no enemy units within 3 inches of the objective marker. The unit attempting to secure the objective must make a successful Secure Roll by rolling a d6 and scoring 3 or higher.
+To secure an objective a unit must be within 1 inch of the objective marker, with no enemy units within 3 inches of the objective marker or the securing unit. The unit attempting to secure the objective must make a successful Secure Roll by rolling a d6 and **scoring 3 or higher**.
 
 ### Action: Pass
 
-This action does nothing but permits a unit to wait during its turn without making another action.
+The pass action is used when you either do not wish to do anything with your unit or have no other options available. The unit does nothing during this action. You may use this action multiple times.
 
 
 
@@ -277,7 +271,7 @@ This action does nothing but permits a unit to wait during its turn without maki
 
 ### Terrain
 
-A model cannot move through terrain objects and instead must move around them or over them following the rules for different kinds of terrain. To understand how your terrain works the game uses a simple system of keywords. A keyword may apply to a whole piece of terrain or to specific parts of your terrain. Make sure all players know which keywords apply to the terrain before playing. The following keywords can be applied to different parts of your terrain to define how they work in the game:
+A model cannot always move through terrain objects and instead must move around, over, or through them. To define how your terrain works each piece, or sometimes just a specific part of your terrain, can be assigned a **keyword**--. Make sure all players know which keywords apply to the terrain before playing. The following keywords can be applied to different parts of your terrain to define how they work in the game:
 
 #### Keyword: Clear
 
@@ -297,7 +291,7 @@ Terrain with the rough keyword may be moved across at the cost of 1 inch of allo
 
 #### Keyword: Cover
 
-Units that are targeted for an attack that gain an obscured line of sight through this terrain gain a +2 to their Defence Rolls.
+Models that are targeted for an attack that gain an obscured line of sight through this terrain gain a +2 to their Defence Rolls.
 
 #### Height Levels
 
@@ -314,13 +308,13 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Rule | Details |
 | ---- | ------- |
 | Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
-| Heavy Armour (X) | Reduce the piercing value of attacks made against this unit it by X to a minimum of 0. |
+| Heavy Armour (X) | Reduce the piercing value of attacks made against this model by X to a minimum of 0. |
 | Non-Scoring | This unit cannot secure objectives. |
-| Resilient | This model may re-roll any failed defence rolls that roll a 1. |
+| Resilient | This model may re-roll any failed Defence Rolls. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
 | Shields | While this model has it's full Hit Points it may re-roll failed attempts to Counter Damage. |
-| Skilled | This unit may re-roll any attack rolls that roll a 1. |
-| Stealth (X) | Attacks against this model from more than X inches away suffer -1 to their Attack Rolls. |
+| Skilled | This model may re-roll any failed Attack Rolls. |
+| Stealth (X) | Attacks against this model from more than X inches away count a **clear** line of sight as **obstructed** and an **obstructed** line of sight as **blocked**. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
 
 #### Weapon Special Rules
@@ -328,16 +322,15 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Rules | Details |
 | ----- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
-| Arc (X) | This weapon may only be used against models in the named arcs. |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
+| Blast (X) | A successful hit with this weapon also counts as doing X hits to every other model, enemy or friendly, within 1 inch of the original target. |
 | Destructive (X) | Each failed Defence Roll against this weapon causes X damage instead of 1. |
-| Fixed | This weapon can only target enemy models that are directly on the line of this models forward facing measured from the centre of the base. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
-| Inaccurate | When making an attack with this weapon your attack roll only hits on an Attack roll of a 6. |
-| Indirect | Attacks with this weapon count an obscured line of sight as clear. |
+| Inaccurate | When making an attack with this weapon your Skill counts as 6+. |
+| Indirect | Attacks with this weapon count an **obscured** line of sight as **clear**. This supercedes the Stealth special rule. |
 | One Use | This weapon may only be used once per battle. |
-| Rapid Fire (X) | This weapon gains +X to it's Attack attribute against targets within half of it's maximum range. |
+| Rapid Fire (X) | This weapon may make X additional attacks. After each attack you may choose the same model as the target for the next attack or another model within 1 inch of the original. |
 | Rending (X) | When an attack with this weapon hits with a roll of 6, it counts as doing X additional hits. |
 | Shred | Rolls to Counter Damage have a -1 modifier against weapons with this rule. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
-| Volley | Each attack roll that rolls a 6 allows the attacker to roll and additional attack roll, these additional rolls do not generate additional rolls. |
+| Volley | Each attack roll that rolls a 6 allows the attacker to roll an additional attack roll, these additional rolls do not generate additional rolls. |
