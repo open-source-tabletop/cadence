@@ -318,7 +318,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | ---- | ------- |
 | Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
 | Heavy Armour (X) | Reduce the piercing value of attacks made against this model by X to a minimum of 0. |
-| Non-Scoring | This unit cannot secure objectives. |
+| Non-Scoring | This unit cannot perform the Secure action. |
 | Resilient | This model may re-roll any failed Defence Rolls. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
 | Shields | While this model has it's full Hit Points it may re-roll failed attempts to Counter Damage. |
@@ -333,7 +333,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
 | Arc (X) | Attacks with this weapon can only target models in the named arc (X). |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
-| Blast (X) | A successful hit with this weapon also counts as doing X hits to every other model, enemy or friendly, within 1 inch of the original target. |
+| Blast (X) | If this weapon has at least one successful hit then it also counts as doing X hits to every other model, enemy or friendly, within 2 inches of the center of the original targets base. |
 | Destructive (X) | Each failed Defence Roll against this weapon causes X damage instead of 1. |
 | Fixed | Attacks with this weapon can only target models that lie directly in the path of this model's forward facing. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
