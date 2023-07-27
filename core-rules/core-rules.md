@@ -32,6 +32,7 @@ The entire system is freely available and open to the community. With Cadence, e
 #### [Advanced Rules](#advanced-rules-1)
 
 - [Terrain](#terrain-1)
+- [Facing and Arcs](#facing-and-arcs)
 - [Universal Special Rules](#universal-special-rules)
 
 
@@ -299,6 +300,14 @@ When you have terrain that has different height levels, you should assign each c
 
 If you have terrain that is different levels but not any significant change then it should be the same height level as the nearest area, allowing models to freely move across small changes.
 
+### Facing and Arcs
+
+While not used by all game modules, sometimes it is important to know which direction a model is facing and where other models are in relation to it. Each model has a forward-facing direction, typically the direction the miniature is facing. If this is not clear, you should agree with your opponent or mark a point on the model's base. There is also an opposite backward-facing direction for the model.
+
+Each model divides the battlefield around it into four 90-degree zones, called arcs, centred on the centre of the models base. The front arc is aligned to the model's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the model's left and right, respectively.
+
+To determine which arc an enemy model is in, it is considered to be in the front-most possible arc. If a model is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
+
 ### Universal Special Rules
 
 Special rules are a set of modifiers to how models operate within the game. The rules presented here are universal and will usually only be included in a unit profile by name. Some special rules have a value indicated in their title, such as Heavy Armour (X), where X can be different values for each unit. When a unit has this rule it will be given with a value in place of the X, substitute this value in the text of the special rule.
@@ -322,9 +331,11 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Rules | Details |
 | ----- | ------- |
 | Accurate | When making an attack with this weapon your attack roll has a +1 modifier. |
+| Arc (X) | Attacks with this weapon can only target models in the named arc (X). |
 | Assault | This weapon does not suffer from the Close Range Penalty when making attacks. |
 | Blast (X) | A successful hit with this weapon also counts as doing X hits to every other model, enemy or friendly, within 1 inch of the original target. |
 | Destructive (X) | Each failed Defence Roll against this weapon causes X damage instead of 1. |
+| Fixed | Attacks with this weapon can only target models that lie directly in the path of this model's forward facing. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
 | Inaccurate | When making an attack with this weapon your Skill counts as 6+. |
 | Indirect | Attacks with this weapon count an **obscured** line of sight as **clear**. This supercedes the Stealth special rule. |
