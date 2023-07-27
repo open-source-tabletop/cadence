@@ -45,7 +45,7 @@ The entire system is freely available and open to the community. With Cadence, e
 
 Cadence uses six-sided dice (**d6**) to determine the outcome of actions. Most rolls are based on a single d6 which may have modifiers applied to them. The roll succeeds if the number rolled is equal to or above the target number (usually written as the target number and a plus sign i.e. 3+), otherwise it is a failure. A dice roll can be negatively modified so that success isn't possible, though **a roll of 1 always counts as a failure** regardless of any positive modifiers.
 
-You may also be asked to **roll-off** against other players, each player rolls 2d6 - the winner is the player with the highest combined result. In a tie, players roll-off again. Dice rolls should always be done in full view of all players, and, when a rule permits you to re-roll a dice **you may only ever re-roll a dice once**.
+You may also be asked to **roll-off** against other players, each player rolls 2d6 - the winner is the player with the highest combined result. In a tie, players roll-off again. Dice rolls should always be done in full view of all players, and, when a rule permits you to re-roll a dice **you may only ever re-roll a dice once** and you must accept the result of the re-rolled dice even if it is worse.
 
 ### Distance and Measuring
 
@@ -340,7 +340,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Inaccurate | When making an attack with this weapon your Skill counts as 6+. |
 | Indirect | Attacks with this weapon count an **obscured** line of sight as **clear**. This supercedes the Stealth special rule. |
 | One Use | This weapon may only be used once per battle. |
-| Rapid Fire (X) | This weapon may make X additional attacks. After each attack you may choose the same model as the target for the next attack or another model within 1 inch of the original. |
+| Rapid Fire (X) | This weapon may make X additional attacks at no additional Command Point cost. After each attack you may choose the same model as the target for the next attack or another model within 1 inch of the original. |
 | Rending (X) | When an attack with this weapon hits with a roll of 6, it counts as doing X additional hits. |
 | Shred | Rolls to Counter Damage have a -1 modifier against weapons with this rule. |
 | Torrent | An attack with this weapon hits on any attack roll that is not a 1. |
