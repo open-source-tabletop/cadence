@@ -336,6 +336,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Blast (X) | If this weapon has at least one successful hit then it also counts as doing X hits to every other model, enemy or friendly, within 2 inches of the center of the original targets base. |
 | Destructive (X) | Each failed Defence Roll against this weapon causes X damage instead of 1. |
 | Fixed | Attacks with this weapon can only target models that lie directly in the path of this model's forward facing. |
+| Grenade | Only 1 model in a unit may use a weapon with this rule per Attack Action. This weapon may not target a model closer than 3 inches. |
 | Heavy | A unit must spend an additional Command Point to use this weapon. |
 | Inaccurate | When making an attack with this weapon your Skill counts as 6+. |
 | Indirect | Attacks with this weapon count an **obscured** line of sight as **clear**. This supercedes the Stealth special rule. |
