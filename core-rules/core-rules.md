@@ -317,7 +317,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Rule | Details |
 | ---- | ------- |
 | Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
-| Heavy Armour (X) | Reduce the piercing value of attacks made against this model by X to a minimum of 0. In addition, if this model's Toughness is double, or more, than the attacking weapons Damage, then it may re-roll failed Counter rolls. |
+| Heavy Armour (X) | Reduce the piercing value of attacks made against this model by X to a minimum of 0. |
 | Non-Scoring | This unit cannot perform the Secure action. |
 | Resilient | This model may re-roll any failed Defence Rolls. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
@@ -325,6 +325,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Skilled | This model may re-roll any failed Attack Rolls. |
 | Stealth (X) | Attacks against this model from more than X inches away count a **clear** line of sight as **obstructed** and an **obstructed** line of sight as **blocked**. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
+| Weak Spot (X) | Against attacks which originate in the named arc X, this model has -1 to its Defence and Counter Rolls. |
 
 #### Weapon Special Rules
 
