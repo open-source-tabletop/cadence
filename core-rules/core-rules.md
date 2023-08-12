@@ -334,6 +334,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 
 | Rule | Details |
 | ---- | ------- |
+| Agile | This vehicle may make an additional 45 degree pivot during either their Move or Advance action. |
 | Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
 | Heavy Armour (X) | Reduce the piercing value of attacks made against this model by X to a minimum of 0. |
 | Non-Scoring | This unit cannot perform the Secure action. |
