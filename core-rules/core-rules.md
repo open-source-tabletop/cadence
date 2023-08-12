@@ -306,7 +306,25 @@ While not used by all game modules, sometimes it is important to know which dire
 
 Each model divides the battlefield around it into four 90-degree zones, called arcs, centred on the centre of the models base. The front arc is aligned to the model's forward-facing direction, the rear arc is aligned with the backward-facing direction, and the left and right side arcs are to the model's left and right, respectively.
 
-To determine which arc an enemy model is in, it is considered to be in the front-most possible arc. If a model is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority. 
+To determine which arc an enemy model is in, it is considered to be in the front-most possible arc. If a model is partially in more than one arc then the front arc takes priority, followed by the side arcs, with the rear arc being the lowest priority.
+
+### Vehicles and Transports 
+
+Vehicles are a special type of model typically characterised by their increased size, limited flexibility when moving, and inability to interact with some kinds of terrain. These limitations are often balanced with increased firepower and armour. Transports are a type of vehicle which can be used to move other models around the battlefield.  The following rules represent a simple way to include vehicles in a game module which can be used as presented, expanded upon, or replaced with custom rules.
+
+Models with the **Vehicle** or **Transport** special rules have the following changes to their rules:
+
+#### Vehicle Movement
+
+When a vehicle moves it must always move directly forward or backward and may not freely pivot during this movement. During either a Move or Advance action the model may make up to 2 pivots of up to 45 degrees - these must be separated by moving at least 1 inch.
+
+#### Vehicles and Terrain
+
+Vehicles ignore the **Climbable** keyword for terrain, treating them as impassable instead. Vehicles do not get the benefit from terrain with the **Cover** keyword.
+
+#### Vehicles and Attacks
+
+Vehicles ignore the **Heavy** keyword when making attacks. In addition line of sight should be worked out from the barrel of the weapon being used and can be obscured by the models own parts. When being attacked, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules. 
 
 ### Universal Special Rules
 
@@ -319,6 +337,7 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Flying | Models with this rule are not affected by intervening terrain or models when they move, so long as they finish their move in an allowed position. These models ignore any penalties for changing height levels. |
 | Heavy Armour (X) | Reduce the piercing value of attacks made against this model by X to a minimum of 0. |
 | Non-Scoring | This unit cannot perform the Secure action. |
+| Platform (X) | When taking an attack action this model may make attacks with X weapons it is equipped with instead of 1. |
 | Resilient | This model may re-roll any failed Defence Rolls. |
 | Rugged | This model ignores the penalty for travelling through rough terrain. |
 | Shields | While this model has it's full Hit Points it may re-roll failed attempts to Counter Damage. |
