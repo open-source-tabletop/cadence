@@ -318,6 +318,8 @@ Models with the **Vehicle** or **Transport** special rules have the following ch
 
 When a vehicle moves it must always move directly forward or backward and may not freely pivot during this movement. During either a Move or Advance action the model may make up to 2 pivots of up to 45 degrees - these must be separated by moving at least 1 inch.
 
+Vehicles may not move over the base of any other model and other friendly models may not move over a vehicle's base.
+
 #### Vehicles and Terrain
 
 Vehicles ignore the **Climbable** keyword for terrain, treating them as impassable instead. Vehicles do not get the benefit from terrain with the **Cover** keyword.
