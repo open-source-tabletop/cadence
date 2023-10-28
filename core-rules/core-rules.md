@@ -148,11 +148,11 @@ The gameplay of Cadence is divided into easy to follow stages and steps, these a
 
 #### Step 1: Choosing A Mission
 
-To begin - choose a mission that outlines the setup of your board, game length, victory conditions, and other relevant information from your game module.
+To begin, choose a mission that outlines the setup of your board, game length, victory conditions, and other relevant information from your game module.
 
 #### Step 2: Set Up Terrain
 
-Set up your terrain - your chosen mission may indicate required elements. Include a mix of large line-of-sight blocking elements and smaller scatter pieces. If one player sets up all the terrain, the other player should have an opportunity to modify it.
+Set up your terrain according to your game module - your chosen mission may indicate required elements. It is usually best to include a mix of large line-of-sight blocking elements and smaller scatter pieces. If one player sets up all the terrain, the other player should have an opportunity to modify it.
 
 #### Step 3: Set Up Markers
 
@@ -166,7 +166,7 @@ Place all units to be used in the game near the table so that both players can s
 
 #### Rounds
 
-The battle stage of a game is played over a set number of rounds, typically 5 but each game module may specify a different number. During each round, players take alternating turns activating their units to move and fight.
+The battle stage of a game is played over a set number of rounds, typically 5 but each game module may specify a different number. During each round, players take alternating turns activating their units to perform a number of actions.
 
 #### Roll for Initiative
 
