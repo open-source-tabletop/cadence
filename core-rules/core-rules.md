@@ -196,9 +196,9 @@ Unless another rule permits it, each player must deploy all of their units on th
 
 When you activate a unit, you first **declare the actions you are going to perform** and the order in which you will perform them. You then pay the appropriate cost from the unit's Command Points and reduce the Command Dice by that cost. You do not have to spend all of your Command Points in one activation. For units with multiple models you perform the action for every model before moving onto the next action. Keep in mind the following restrictions:
 
-- You must spend **at least 2 Command Points** per activation, unless your unit has only 1 Command Point remaining.
-- You may spend a **maximum of 4 Command Points** per activation.
-- You may only perform **each action once** per activation.
+- You must perform **at least 2 actions** per activation, unless your unit has only 1 Command Point remaining.
+- You may perform a **maximum of 4 actions** per activation.
+- You may only perform **each action once** per activation unless it is the pass action.
 - If you begin your activation with only 1 Command Point remaining, roll a d6. **On a roll of 1, this last Command Point is lost**, the unit takes no action however this still counts as your activation.
 
 **Note**: You may declare an action that will only be possible depending on the outcome of the previous action - if you do so and the action is still not possible after the previous actions then it is treated as a pass action instead.
@@ -220,19 +220,19 @@ An Advance action follows the same rules as a Move action but may only be taken 
 
 ### Action: Attack
 
-When you take an attack action each model will be able to choose one of their weapons and target one enemy model that they can see. They then follow the attack procedure below to determine the outcome of the attack. When choosing a target, if there are any enemy models within 3 inches of your model you must choose one of those as your target.
+When you take an attack action each model will be able to choose one of their weapons and target one enemy unit that they can see. They then follow the attack procedure below to determine the outcome of the attack. When choosing a target, if there are any enemy units within 3 inches of your unit you must choose a target from one of those units.
 
 #### Step 1 - Determine Line of Sight and Range
 
-When you choose your target model you must check how well you can see that model and if it is in range before making your attack. Firstly, for line of sight, this is done "through the eyes of the model" - meaning you might need to look through the model at tabletop level.
+When you choose your target unit you must check how well you can see the unit and if it is in range before making your attack. Firstly, for line of sight, this is done "through the eyes of the model" - meaning you might need to look through the model at tabletop level. You ignore models in the attacking unit and target unit that may block this line of sight. It is possible for different models to have a different line of sight to the same target.
 
-- If you can see the model without any part being covered, you have a **clear** line of sight.
-- If you can see the model but it is partly covered, you have an **obstructed** line of sight.
-- If the model is partially obscured by another model, or you cannot see it at all, you have a **blocked** line of sight.
-- If the model is within 1 inch of a friendly model, and you are more than 3 inches away, you have a **blocked** line of sight.
-- If you are attacking a model within 3 inches and can see any part of it then it always counts as a **clear** line of sight.
+- If you can see at least half of the models in the unit without any part being covered, you have a **clear** line of sight.
+- If you can see models in the unit but more than half are partly covered, you have an **obscured** line of sight.
+- If any model is partially obscured by another unit, or you cannot see any models, you have a **blocked** line of sight.
+- If the unit is within 1 inch of a friendly unit, and you are more than 3 inches away, you have a **blocked** line of sight.
+- If you are attacking a unit within 3 inches an obscured line of sight is counted as **clear**.
 
-Your chosen target model must be within range for an attack, this distance is the attacking weapon's **Range** attribute in inches.
+Your chosen target unit must be within range for an attack, this distance is the attacking weapon's **Range** attribute in inches. Measure the distance between the attacking model and the nearest visible model in the target unit.
 
 #### Step 2 - Attack Rolls
 
