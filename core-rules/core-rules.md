@@ -1,8 +1,8 @@
 # Cadence Core Rules
 
-Cadence is a versatile wargaming system with a focus on light, flexible mechanics that are easy to learn while each game module can contribute their own unique mechanics and themes where required.
+Cadence is a versatile wargaming system which is used as a foundation for creating tabletop wargames. The core rules are light, flexible, and easy to learn meaning each game made with the system can contribute their own unique mechanics and themes where required.
 
-The Core Rules are licensed under a Creative Commons by Attribution 4.0 License, you can find details on [the projects GitHub page](https://github.com/open-source-tabletop/cadence). This license means the text of the rules are free, anyone can duplicate them, modify them, use them for any purpose (even commercial) so long as attribution to the original project is given.
+These Core Rules are licensed under a Creative Commons by Attribution 4.0 License, you can find details on [the GitHub page](https://github.com/open-source-tabletop/cadence). This license means the text of the rules are free, anyone can duplicate them, modify them, use them for any purpose (even commercial) so long as attribution to the original project is given.
 
 ### Contents
 
@@ -44,13 +44,17 @@ The Core Rules are licensed under a Creative Commons by Attribution 4.0 License,
 
 ### Dice
 
-Cadence uses six-sided dice (**d6**) to determine the outcome of actions. Most rolls are based on a single d6 which may have modifiers applied to them. The roll succeeds if the number rolled is equal to or above the target number (usually written as the target number and a plus sign i.e. 3+), otherwise it is a failure. A dice roll can be negatively modified so that success isn't possible, though **a roll of 1 always counts as a failure** regardless of any positive modifiers.
+Cadence uses six-sided dice, written as **d6**, to determine the outcome of certain actions. Usually you roll a d6, which may have modifiers applied to it, and aim to achieve a target number or higher. A dice roll can be negatively modified so that it fails automatically, however **a roll of 1 always counts as a failure** regardless of any positive modifiers.
 
-You may also be asked to **roll-off** against other players, each player rolls 2d6 - the winner is the player with the highest combined result. In a tie, players roll-off again. Dice rolls should always be done in full view of all players, and, when a rule permits you to re-roll a dice **you may only ever re-roll a dice once** and you must accept the result of the re-rolled dice even if it is worse.
+Another common dice roll is the **roll-off** between multiple players, each player rolls 2d6 - the winner is the player with the highest combined result. In a tie, players roll-off again.
+
+Dice rolls should always be done in full view of all players, and, when a rule permits you to re-roll a dice **you may only ever re-roll a dice once** and you must accept the result of the re-rolled dice even if it is worse.
 
 ### Distance and Measuring
 
-Cadence uses inches for measuring movement and range, you'll need an inch-marked ruler to play. Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game. Remember that a model or object is considered "within" a certain distance if any part of it's base is closer than the specified distance and a unit is within a distance so long as 1 model from that unit is.
+Cadence uses inches for measuring movement and range, you'll need an inch-marked ruler to play. Always measure the distance to or from a model from the closest point on its base. You may measure any distance at any time, as long as it doesn't interfere with your opponent's actions or unnecessarily slow down the game.
+
+Remember that a model or object is considered "within" a certain distance if any part of it's base is closer than the specified distance. The distance between units is the distance between the two closest models.
 
 ### Armies
 
@@ -58,11 +62,11 @@ In Cadence, each player has a selection of miniatures that represent their army.
 
 ### Units and Models
 
-In the game, a **model** is a specific term referring to a miniature or group of miniatures mounted on a single base or otherwise connected. If a model does not have a base, it must have a clear footprint to count as a base. **Units** are groups of 1 or more models within the game. All models must belong to exactly one unit. Some games feature large units of models while smaller games will typically have 1 model in each unit.
+Throughout these rules, a **model** is a specific term referring to a miniature or group of miniatures mounted on a single base or otherwise connected. If a model does not have a base, it must have a clear footprint to count as a base. **Units** are groups of 1 or more models within the game. All models must belong to exactly one unit.
 
 #### Army Lists and Profiles
 
-To play the game, you need to know which models you can use and what they can do on the battlefield. Each model in the game has a profile that lists its attributes, weapons, equipment, special abilities, and any unique rules it may have. The unit profiles are provided in each module, often grouped into different factions in army lists.
+To play a game, you need to know which models and units you can use and what they can do on the battlefield. A game made in Cadence will usually include army lists that provide this information for various options or factions. Each unit in a game will typically have a profile that lists the models in the unit, their attributes, weapons, equipment, special abilities, and any unique rules they may have.
 
 #### Attributes
 
