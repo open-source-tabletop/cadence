@@ -81,7 +81,7 @@ Each model in Cadence has a set of attributes that tell you how well it can perf
 
 #### Special Rules
 
-Special rules modify how the model operates within the game. Some special rules are universal and are included in this book, these are typically given simply by name in a unit profile. Others are unique to a module, army, or model, and will be provided in the unit's profile or army list.
+Special rules modify how the model operates within the game. Some special rules are universal and are included in this book, these are typically given simply by name in a unit profile. Others are unique to a module, army, or model, and will be provided in the game module.
 
 #### Abilities
 
@@ -89,9 +89,11 @@ Abilities are like actions that are unique to a unit. These work like normal act
 
 #### Unit Formation
 
-Units consisting of more than one model must stay within close proximity of each other during a battle, known as being **in formation**. A unit is in formation when each model is **within 6 inches of every other model** in the unit, if the unit contains 10 or more models this distance is **increased to 8** inches. Every unit must finish each action they perform in formation.
+Units consisting of more than one model must stay within close proximity of each other during a battle, known as being **in formation**.
 
-It is possible for your unit to become out of formation during another unit's activation, by losing models as they are destroyed for example. If this happens, the next time the unit activates it must make a move action as it's first action to restore being in formation. If it cannot resume being in formation after this move action the unit is destroyed and removed from the game.
+A unit is in formation when you can connect all models in the unit with a distance between each no greater than 2 inches. This means the unit can be spread in a line so long as the gaps between the models along the line are never more than 2 inches. Every unit must finish each action they perform in formation.
+
+If your unit becomes out of formation during another unit's activation, the next time the unit activates it must make a move action as it's first action to restore being in formation. If it cannot resume being in formation after this move action the unit is destroyed and removed from the game.
 
 ### Weapons
 
@@ -105,11 +107,11 @@ The weapons that your models fight with also have their own set of attributes wh
 
 ### Missions
 
-When you play a game of Cadence you always select a mission to play. A mission is a set of rules that dictates how to set up the battlefield and what objectives players must achieve to win. **Victory Points** are awarded to players throughout the game based on the mission objectives. The player with the most Victory Points at the end of the game is declared the winner.
+A mission is a set of rules that dictates how to set up your battlefield and what objectives players must achieve to win. **Victory Points** are usually awarded to players throughout the game based on the mission objectives. The player with the most Victory Points at the end of the game is declared the winner.
 
 #### Objective Markers
 
-Objectives Markers represent key points on the battlefield, such as resources to be collected, intel to be gathered, or zones to be controlled. An objective marker is typically a **40mm token** or appropriate miniature. Objectives come in 3 basic types, each of which can **first be secured**, or controlled by a unit, and then **scored when they award points** according to a mission. Additional types may be specified by a game module.
+Objective Markers represent key points on the battlefield, such as resources to be collected, intel to be gathered, or zones to be controlled. An objective marker is typically a **40mm token** or appropriate miniature. Objectives come in 3 basic types, each of which can **first be secured**, or controlled by a unit, and then **scored when they award points** according to a mission. Additional types may be specified by a game module.
 
 To secure an Objective Marker, a unit must use the "Secure" action when it is within **1 inch of the marker** and no enemy units are within 3 inches of it or the securing unit. The unit must make a successful Secure Roll, rolling a d6 and scoring **3 or higher** to secure an objective.
 
