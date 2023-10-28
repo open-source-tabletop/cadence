@@ -220,7 +220,7 @@ An Advance action follows the same rules as a Move action but may only be taken 
 
 ### Action: Attack
 
-During an attack action you choose a target enemy unit for each model in your unit and one of their weapons to make the attack. You then follow the attack procedure below for each of these attacks. It you destroy a unit but still have attacks remaining that target that unit, you may not change your target, those extra attacks are lost.
+During an attack action you choose a target enemy unit for each model in your unit and one of their weapons to make the attack. You then follow the attack procedure below for each of these attacks. It you destroy a unit but still have attacks remaining that target that unit, you may not change your target, those extra attacks are lost
 
 When choosing a target, if there are any enemy units within 3 inches of your unit you must choose a target from one of those units.
 
