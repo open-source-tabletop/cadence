@@ -220,44 +220,50 @@ An Advance action follows the same rules as a Move action but may only be taken 
 
 ### Action: Attack
 
-When you take an attack action each model will be able to choose one of their weapons and target one enemy unit that they can see. They then follow the attack procedure below to determine the outcome of the attack. When choosing a target, if there are any enemy units within 3 inches of your unit you must choose a target from one of those units.
+During an attack action you choose a target enemy unit for each model in your unit and one of their weapons to make the attack. You then follow the attack procedure below for each of these attacks. It you destroy a unit but still have attacks remaining that target that unit, you may not change your target, those extra attacks are lost.
+
+When choosing a target, if there are any enemy units within 3 inches of your unit you must choose a target from one of those units.
 
 #### Step 1 - Determine Line of Sight and Range
 
-When you choose your target unit you must check how well you can see the unit and if it is in range before making your attack. Firstly, for line of sight, this is done "through the eyes of the model" - meaning you might need to look through the model at tabletop level. You ignore models in the attacking unit and target unit that may block this line of sight. It is possible for different models to have a different line of sight to the same target.
+Each target unit may be obscured from your attacks so you need to check your line of sight. This will either be **clear**, **obscured**, or **blocked**. Line of sight to a target unit is checked by picking any one model in your unit that is attacking your target unit and looking "through it's eyes", meaning you typically must look through the model at tabletop level.
 
-- If you can see at least half of the models in the unit without any part being covered, you have a **clear** line of sight.
-- If you can see models in the unit but more than half are partly covered, you have an **obscured** line of sight.
+You ignore models in the attacking unit and target unit that may block this line of sight.
+
+- If you can see at least half of the models in the target unit without any part being covered, you have a **clear** line of sight.
+- If you can see any models in the target unit but more than half are at least partly covered, you have an **obscured** line of sight.
 - If any model is partially obscured by another unit, or you cannot see any models, you have a **blocked** line of sight.
 - If the unit is within 1 inch of a friendly unit, and you are more than 3 inches away, you have a **blocked** line of sight.
 - If you are attacking a unit within 3 inches an obscured line of sight is counted as **clear**.
 
-Your chosen target unit must be within range for an attack, this distance is the attacking weapon's **Range** attribute in inches. Measure the distance between the attacking model and the nearest visible model in the target unit.
+Your chosen target unit must be within range for each models attack. This is measured from each model to the nearest model in the target unit and the distance must be less than the chosen weapons range attribute.
 
 #### Step 2 - Attack Rolls
 
-Make **Attack Rolls** equal to the **attacks** attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's **Skill attribute**. Every successful roll is a **hit**. The following modifiers apply:
+For each model, you make **Attack Rolls** equal to the **attacks** attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's **Skill attribute**. Every successful roll is a **hit**. For weapons of the same time you may roll these together for speed. The following modifiers apply:
 
-- **Close Range Penalty**: Attack Rolls against a target unit within 3 inches of your model only hit on a **roll of a 6**, instead of using the attacking model's Skill attribute. However, weapons with the **Assault** special rule don't suffer this penalty.
+- **Close Range Penalty**: Attack Rolls against a target unit within 3 inches of your unit only hit on a **roll of a 6**, instead of using the attacking model's Skill attribute. However, weapons with the **Assault** special rule don't suffer this penalty.
 - **Rush Penalty**: Units performing 3 or more actions this activation suffer a **-2 modifier** to their Attack Rolls.
-- **Height Advantage**: Gain a **+1 modifier** to your Attack Roll when attacking a model at a lower height level (see the terrain rules).
+- **Height Advantage**: Gain a **+1 modifier** to your Attack Roll when attacking a unit at a lower height level than your model (see the terrain rules).
 - **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a **-1 modifier** to your Attack Roll.
 
 #### Step 3 - Defence Rolls
 
-For every successful hit against a target model, the target player makes a **Defence Roll**. Roll a d6 trying to score equal or higher than that model's **Defence attribute**. This roll is reduced by the attacking weapon's **Piercing attribute**, and may be modified to the point where it will automatically fail. Each failed Defence Roll results in the model taking 1 point of **damage**.
+For every successful hit against a target unit that player makes a **Defence Roll** - rolling a d6 trying to score equal or higher than the unit's lowest **defence attribute**. Defence rolls are reduced by the attacking weapons **piercing attribute**. Each failed defence roll results in the unit taking 1 point of **damage**.
 
 #### Step 4 - Counter Rolls
 
-For each point of damage a model takes, it must test to see if it can **Counter** the damage, or if it will lose a **Hit Point**. If the model's Hit Points are reduced to 0 it is removed from the game as destroyed, otherwise place a red dice or other marker next to the model indicating how many Hit Points it has remaining. The counter roll uses the targets **Toughness**. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:
+For each point of damage a unit takes, it must test to see if it can **Counter** the damage, or if it's models will lose **Hit Points**. The counter roll uses the targets **Toughness**. Roll a d6, to counter the damage you must equal or beat a specific target based on the rules below:
 
-| Weapon Damage vs target Toughness            | Counter Roll |
+| Weapon Damage vs target unit's lowest Toughness | Counter Roll |
 | :------------------------------------------- | :----------: |
 | Damage is half, or lower, than Toughness     | 2+           |
 | Damage is lower than Toughness               | 3+           |
 | Damage is equal to Toughness                 | 4+           |
 | Damage is higher than Toughness              | 5+           |
 | Damage is double, or higher, than Toughness  | 6+           |
+
+For each failed counter you reduce the hit points of 1 model in your unit, starting with any model which has already lost hit points then choosing a new model and allocating to that model until it is destroyed and so on. Once a model is reduced to 0 hit points it is destroyed and removed from the game. Continue allocating lost hit points to another model like this until you have allocated all lost hit points or the last model has been destroyed.
 
 ### Action: Ability
 
