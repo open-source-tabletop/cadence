@@ -111,9 +111,9 @@ A mission is a set of rules that dictates how to set up your battlefield and wha
 
 #### Objective Markers
 
-Objective Markers represent key points on the battlefield, such as resources to be collected, intel to be gathered, or zones to be controlled. An objective marker is typically a **40mm token** or appropriate miniature. Objectives come in 3 basic types, each of which can **first be secured**, or controlled by a unit, and then **scored when they award points** according to a mission. Additional types may be specified by a game module.
+Objective Markers represent key points on the battlefield, such as resources to be collected, intel to be gathered, or zones to be controlled. An objective marker is typically a **40mm token** or an appropriate miniature of around that size. Objectives come in 3 basic types, each of which can **first be secured**, or controlled by a unit, and then **scored when they award points** according to a mission. Additional types may be specified by a game module.
 
-To secure an Objective Marker, a unit must use the "Secure" action when it is within **1 inch of the marker** and no enemy units are within 3 inches of it or the securing unit. The unit must make a successful Secure Roll, rolling a d6 and scoring **3 or higher** to secure an objective.
+To secure an objective marker, a unit must use the "Secure" action when it is within **1 inch of the marker** and no enemy units are within 3 inches of it or the securing unit. The unit must make a successful Secure Roll, rolling a d6 and scoring **3 or higher** to secure an objective.
 
 Objectives can be one of the following 3 types:
 
@@ -148,7 +148,7 @@ The gameplay of Cadence is divided into easy to follow stages and steps, these a
 
 #### Step 1: Choosing A Mission
 
-To begin, choose a mission that outlines the setup of your board, game length, victory conditions, and other relevant information from your game module.
+To begin, choose a mission that outlines the setup of your board, game length, victory conditions, and other relevant information from your game module. Some modules or missions may ask you to perform these steps in a different order.
 
 #### Step 2: Set Up Terrain
 
@@ -212,7 +212,7 @@ A model's base may **never move over the base of any enemy models**, but are per
 
 #### Terrain
 
-During a move action, models may encounter various types of terrain, which may impede their movement. There are different types of terrain, each with specific rules - more information on different kinds of terrain is found in the Advanced Rules section.
+During a move action, models may encounter various types of terrain, which may impede their movement, such as rough ground, obstacles, or elevated platforms. There are different types of terrain, each with specific rules and more information on different kinds of terrain is found in the Advanced Rules section.
 
 ### Action: Advance
 
@@ -220,9 +220,9 @@ An Advance action follows the same rules as a Move action but may only be taken 
 
 ### Action: Attack
 
-During an attack action you choose a target enemy unit for each model in your unit and one of their weapons to make the attack. You then follow the attack procedure below for each of these attacks. It you destroy a unit but still have attacks remaining that target that unit, you may not change your target, those extra attacks are lost
+During an attack action you choose a target enemy unit for each model in your unit and one of their weapons to make the attack. You then follow the attack procedure below for each of these attacks. It you destroy a unit but still have attacks remaining targeting that unit, you may not change your target, those extra attacks are lost.
 
-When choosing a target, if there are any enemy units within 3 inches of your unit you must choose a target from one of those units.
+_When choosing a target, if there are any enemy units within 3 inches of your unit you must choose a target from one of those units._
 
 #### Step 1 - Determine Line of Sight and Range
 
@@ -240,10 +240,10 @@ Your chosen target unit must be within range for each models attack. This is mea
 
 #### Step 2 - Attack Rolls
 
-For each model, you make **Attack Rolls** equal to the **attacks** attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's **Skill attribute**. Every successful roll is a **hit**. For weapons of the same time you may roll these together for speed. The following modifiers apply:
+For each model, you make **Attack Rolls** equal to the **attacks** attribute of the weapon being used. Each roll is a d6 trying to equal or beat the attacking model's **Skill attribute**. Every successful roll is a **hit**. If you are more than one model is targeting the same unit with the same weappon you may combine all these attacks and roll them together. The following modifiers apply:
 
 - **Close Range Penalty**: Attack Rolls against a target unit within 3 inches of your unit only hit on a **roll of a 6**, instead of using the attacking model's Skill attribute. However, weapons with the **Assault** special rule don't suffer this penalty.
-- **Rush Penalty**: Units performing 3 or more actions this activation suffer a **-2 modifier** to their Attack Rolls.
+- **Rush Penalty**: Units performing 3 actions this activation suffer a **-2 modifier** to their Attack Rolls.
 - **Height Advantage**: Gain a **+1 modifier** to your Attack Roll when attacking a unit at a lower height level than your model (see the terrain rules).
 - **Obscured Penalty**: When attacking a target with an obscured line of sight, suffer a **-1 modifier** to your Attack Roll.
 
@@ -285,7 +285,7 @@ The pass action is used when you either do not wish to do anything with your uni
 
 ### Terrain
 
-A model cannot always move through terrain objects and instead must move around, over, or through them. To define how your terrain works each piece, or sometimes just a specific part of your terrain, can be assigned a **keyword**--. Make sure all players know which keywords apply to the terrain before playing. The following keywords can be applied to different parts of your terrain to define how they work in the game:
+A model cannot always move through terrain objects and instead must move around, over, or through them. To define how your terrain works, each piece or sometimes just a specific part of your terrain, can be assigned a **keyword**. Make sure all players know which keywords apply to the terrain before playing. The following keywords can be applied to different parts of your terrain to define how they work in the game:
 
 #### Keyword: Clear
 
@@ -301,11 +301,11 @@ Models cannot climb over or move through this piece of terrain.
 
 #### Keyword: Rough
 
-Terrain with the rough keyword may be moved across at the cost of 1 inch of allowed movement, in addition to the distance travelled, however models may not finish their movement on rough terrain.
+Terrain with the rough keyword may be moved across at the cost of 1 inch of allowed movement, in addition to the distance travelled, however models may not finish their movement on rough terrain. When combined with the Climbable keyword this adds 1 inch of extra movement cost **per height level**.
 
 #### Keyword: Cover
 
-Models that are targeted for an attack that gain an obscured line of sight through this terrain gain a +2 to their Defence Rolls.
+Models that are targeted for an attack that gain an obscured line of sight through this terrain gain a +2 to their Defence Rolls and may not have their Defence Roll modified to worse than 6+.
 
 #### Height Levels
 
@@ -323,11 +323,11 @@ To determine which arc an enemy model is in, it is considered to be in the front
 
 ### Vehicles and Transports 
 
-Vehicles are a special type of model typically characterised by their increased size, limited flexibility when moving, and inability to interact with some kinds of terrain. These limitations are often balanced with increased firepower and armour. Transports are a type of vehicle which can be used to move other models around the battlefield.  The following rules represent a simple way to include vehicles in a game module which can be used as presented, expanded upon, or replaced with custom rules.
+Vehicles are a special type of model typically characterised by their increased size, firepower, and armour, but also alimited flexibility when moving, and inability to interact with some kinds of terrain. Transports are a type of vehicle which can also be used to move other models around the battlefield. The following rules represent a simple way to include vehicles in a game module which can be used as presented, expanded upon, or replaced with custom rules.
 
 Models with the **Vehicle** or **Transport** special rules have the following changes to their rules:
 
-#### Vehicle Movement
+#### Vehicle Movement Restrictions
 
 When a vehicle moves it must always move directly forward or backward and may not freely pivot during this movement. During either a Move or Advance action the model may make up to 2 pivots of up to 45 degrees - these must be separated by moving at least 1 inch.
 
@@ -335,13 +335,13 @@ Vehicles may not move over the base of any other model and other friendly models
 
 #### Vehicles and Terrain
 
-Vehicles ignore the **Climbable** keyword for terrain, treating them as impassable instead. Vehicles do not get the benefit from terrain with the **Cover** keyword.
+Vehicles ignore the **Climbable** keyword for terrain, treating them as impassable instead. Vehicles do not get the benefit from terrain with the **Cover** keyword. In addition you may specify terrain as having a different keyword for vehicles than it does for other models.
 
 #### Vehicles and Attacks
 
-Vehicles ignore the **Heavy** keyword when making attacks. In addition line of sight should be worked out from the barrel of the weapon being used and can be obscured by the models own parts. When attacking a vehicle, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules.
+Vehicles ignore the **Heavy** keyword when making attacks. In addition, where possible, line of sight should be worked out from the barrel of the weapon being used and can be obscured by the models own parts. When attacking a vehicle, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules.
 
-#### Transports
+#### Transporting Units
 
 Transports are a special type of vehicle model which can carry other models across the battlefield. Transports have the special rule **Transport (X)** which indicates the number of models that it can carry. These models may not be other **Vehicle** or **Transport** models and models with the **Large** special rule count as 2 models.
 
@@ -376,10 +376,10 @@ Special rules are a set of modifiers to how models operate within the game. The 
 | Shields | While this model has it's full Hit Points it may re-roll failed attempts to Counter Damage. |
 | Skilled | This model may re-roll any failed Attack Rolls. |
 | Steady | This model ignores the Heavy special rule. |
-| Stealth (X) | Attacks against this model from more than X inches away count a **clear** line of sight as **obstructed** and an **obstructed** line of sight as **blocked**. |
+| Stealth (X) | Attacks against this model from more than X inches away suffer -1 to their attack rolls. |
 | Support | Models with this rule do not need to be deployed on the first turn and may instead be held in reserve in subsequent turns. These models must be deployed in the second or third turn. |
 | Transport (X) | This model counts as a Transport with a capacity of X, see the section **Vehicles and Transports** in the Advanced Rules. |
-| Weak Spot (X) | Against attacks which originate in the named arc X, this model has -1 to its Defence and Counter Rolls. |
+| Weak Spot (X) | Against attacks which originate in the named arc X, this model has -1 to its Counter Rolls. |
 | Vehicle | This model counts as a Vehicle, see the section **Vehicles and Transports** in the Advanced Rules. |
 
 #### Weapon Special Rules
