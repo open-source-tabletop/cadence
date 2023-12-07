@@ -1,5 +1,7 @@
 # Advanced Rules
 
+---
+
 ## Terrain
 
 A model cannot always move through terrain objects and instead must move around, over, or through them. To define how your terrain works, each piece or sometimes just a specific part of your terrain, can be assigned a **keyword**. Make sure all players know which keywords apply to the terrain before playing. The following keywords can be applied to different parts of your terrain to define how they work in the game:

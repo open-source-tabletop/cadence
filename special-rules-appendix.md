@@ -1,5 +1,7 @@
 # Special Rules Appendix
 
+---
+
 Special rules are a set of modifiers to how models operate within the game. The rules presented here are universal and will usually only be included in a unit profile by name. Some special rules have a value indicated in their title, such as Heavy Armour (X), where X can be different values for each unit. When a unit has this rule it will be given with a value in place of the X, substitute this value in the text of the special rule.
 
 ## Unit Special Rules

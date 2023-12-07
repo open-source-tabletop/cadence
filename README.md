@@ -1,5 +1,7 @@
 # Cadence Wargame System
 
+---
+
 [Introduction](introduction.md)  
 [Basic Rules](basic-rules.md)  
 [Playing a Game](playing-a-game.md)  

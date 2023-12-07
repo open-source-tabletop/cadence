@@ -1,5 +1,7 @@
 # Playing the Game
 
+---
+
 ## Structure of a Game
 
 The gameplay of Cadence is divided into easy to follow stages and steps, these are as follows:

@@ -1,5 +1,7 @@
 # Cadence Wargame System
 
+---
+
 Cadence is a set of tabletop wargaming rules that are the foundation of many different games, across many different settings. Each of these games typically see 2 players bring a collection of miniatures representing different kinds of forces, from epic fantasy armies, to a squadron of agile starfighters, and more, to battle across a war torn tabletop battlefield. Cadence provides the rules that underpin how these models move and fight, while each game provides it's own unique custom rules, army lists, and scenarios.
 
 In order to play any game that uses the Cadence system you'll need to familiarise yourself with these rules. You won't need to memorise every rule, you can always look up a rule while playing, though after a few rounds of a game you will find they are fairly straightforward and easy to remember.

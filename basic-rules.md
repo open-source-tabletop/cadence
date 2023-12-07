@@ -1,5 +1,7 @@
 # Basic Rules
 
+---
+
 ## Dice
 
 Most actions with a variable chance of success make use of six-sided dice, written as **D6**, to determine the outcome. Usually you roll a d6, which may have modifiers applied to it, and aim to achieve a target number or higher. A dice roll can be negatively modified so that it fails automatically, however **a roll of 1 always counts as a failure** regardless of any positive modifiers.
