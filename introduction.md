@@ -18,12 +18,8 @@ There are several games available for you to try, some light and some more in-de
 
 ### License
 
-The Core Rules are licensed under a Creative Commons by Attribution 4.0 License, you can find details on this [on the projects GitHub page](https://github.com/open-source-tabletop/cadence). This license means the text of the rules are free, anyone can duplicate them, modify them, use them for any purpose (even commercial) so long as attribution to the original project is given. This does not extend to games made with the system which will be individually licensed, and any art, or other materials on this site.
+The Core Rules are licensed under a [Creative Commons by Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). This license means the text of the rules are free, anyone can duplicate them, modify them, use them for any purpose (even commercial) so long as attribution to the original project is given. This does not extend to games made with the system which will be individually licensed, and any art, or other materials on this site.
 
 ### Community Developed
 
 One of the major goals of Cadence is to become a truly community owned project. While the initial project has been the work of a single person the project is looking for developers and players to drive the future of the game. Every aspect of community development is desired, from simple feedback on rules, promoting the game, creating new modules and future versions, and to manage any community spaces. The easiest way to get involved is to visit the [GitHub discussion page](https://github.com/open-source-tabletop/cadence/discussions).
-
-## Contents
-
-[Basic Rules](basic-rules.md)
