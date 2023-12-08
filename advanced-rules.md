@@ -58,7 +58,7 @@ Vehicles ignore the **Climbable** keyword for terrain, treating them as impassab
 
 ### Vehicles and Attacks
 
-Vehicles ignore the **Heavy** keyword when making attacks. In addition, where possible, line of sight should be worked out from the barrel of the weapon being used and can be obscured by the models own parts. When attacking a vehicle, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules.
+Vehicles ignore the **Heavy** keyword when making attacks. When attacking a vehicle, models count an **obscured** line of sight to a vehicle as **clear**. Unless otherwise stated, a vehicle has the **Platform (2)** and **Weak Spot (Rear)** special rules.
 
 ### Transporting Units
 
