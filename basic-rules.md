@@ -2,6 +2,8 @@
 
 ---
 
+The following section covers basic rules and mechanics, helping you understand what each component is before learning how to play through a game.
+
 ## Dice
 
 Most actions with a variable chance of success make use of six-sided dice, written as **D6**, to determine the outcome. Usually you roll a d6, which may have modifiers applied to it, and aim to achieve a target number or higher. A dice roll can be negatively modified so that it fails automatically, however **a roll of 1 always counts as a failure** regardless of any positive modifiers.
@@ -32,16 +34,33 @@ Throughout these rules, a **model** is a specific term referring to a miniature 
 
 To play a game, you need to know which models and units you can use and what they can do on the battlefield. A game made in Cadence will usually include army lists that provide this information and may include a variety of factions and units to choose from. Each unit in a game will typically have a profile that lists the models in the unit, their attributes, weapons, equipment, special abilities, and any unique rules they may have.
 
-## Model Attributes
+### Model Attributes
 
 Each model has a set of attributes that tell you how well it can perform various actions, these are:
 
-- **Command (Cmd)**: The number of actions this model can perform each round.
-- **Movement (Mov)**: The number of inches this model can travel during a move or advance action:
-- **Skill (Skl)**: The model's ability with it's weapons.
-- **Defence (Def)**: The model's armour or ability to evade attacks.
-- **Toughness (Tgh)**: The model's ability to counter or absorb damage and keep fighting.
-- **Hit Points (HP)**: How much damage the model can take before being destroyed.
+**Command (Cmd)**
+
+:   The number of actions this model can perform each round.
+
+**Movement (Mov)**
+
+:   The number of inches this model can travel during a move or advance action.
+
+**Skill (Skl)**
+
+:   The model's ability with it's weapons.
+
+**Defence (Def)**
+
+:   The model's armour or ability to evade attacks.
+
+**Toughness (Tgh)**
+
+:   The model's ability to counter or absorb damage and keep fighting.
+
+**Hit Points (HP)**
+
+:   How much damage the model can take before being destroyed.
 
 ## Special Rules
 
@@ -63,17 +82,31 @@ If your unit becomes out of formation during another unit's activation, the next
 
 The weapons that your models fight with also have their own set of attributes which are usually provided in your module or army list. These are:
 
-- **Range (Rng)**: The distance the weapon can make an attack up to.
-- **Attacks (Att)**: The volume or intensity of the attacks from the weapon.
-- **Piercing (Prc)**: The weapons ability to negate armour.
-- **Damage (Dmg)**: How destructive a hit from this weapon is.
-- **Special Rules** that apply to the weapon.
+**Range (Rng)**
+
+:   The distance the weapon can make an attack up to.
+
+**Attacks (Att)**
+
+:   The volume or intensity of the attacks from the weapon.
+
+**Piercing (Prc)**
+
+:   The weapons ability to negate armour.
+
+**Damage (Dmg)**
+
+:   How destructive a hit from this weapon is.
+
+**Special Rules**
+
+:   Any specific modifiers that apply to the weapon.
 
 ## Missions
 
 A mission is a set of rules that dictates how to set up your battlefield and what objectives players must achieve to win. **Victory Points** are usually awarded to players throughout the game based on the mission objectives with the player with the most Victory Points at the end of the game is declared the winner.
 
-## Objective Markers
+### Objective Markers
 
 Objective Markers represent key points on the battlefield, such as resources to be collected, intel to be gathered, or zones to be controlled. An objective marker is typically a **40mm token** or an appropriate miniature of around that size. Objectives come in 3 basic types, each of which can **first be secured**, or controlled by a unit, and then **scored when they award points** according to a mission. Additional types may be specified by a game module.
 
@@ -81,10 +114,18 @@ To secure an objective marker, a unit must use the "Secure" action when it is wi
 
 Objectives can be one of the following 3 types:
 
-- **Control**: Once a control objective is secured, it remains secured so long as at least 1 unit from the securing army stays within 3 inches of the objective.
-- **Access**: Once this objective is secured the unit that secured it must stay within 1 inch until the end of the current round, after which it is removed from the game and scored. _Access objectives cannot be secured on the first round._
-- **Recover**: Once this objective is secured the unit that secured it must survive until the end of the battle to score it. If the unit that secured the objective is destroyed the objective is destroyed.
+**Control**
 
-## Entry Points
+:   Once a control objective is secured, it remains secured so long as at least 1 unit from the securing army stays within 3 inches of the objective.
+
+**Access**
+
+:   Once this objective is secured the unit that secured it must stay within 1 inch until the end of the current round, after which it is removed from the game and scored. _Access objectives cannot be secured on the first round._
+
+**Recover**
+
+:   Once this objective is secured the unit that secured it must survive until the end of the battle to score it. If the unit that secured the objective is destroyed the objective is destroyed.
+
+### Entry Points
 
 At the start of the game, all of your units begin off the table and are considered **in reserve**. To deploy your units onto the table, you set up a number of **Entry Points** markers according to your mission. During the first round your models will activate from reserve and make their way onto the battlefield from these Entry Points, typically located along a table edge.
